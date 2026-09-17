@@ -1,0 +1,1574 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pokemon-go-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pokémon GO Events
+X-WR-CALDESC:Pokémon GO events with bonuses and details. Data from Leek Du
+ ck (leekduck.com) via ScrapedDuck.
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:Europe/Lisbon
+BEGIN:VTIMEZONE
+TZID:Europe/Lisbon
+X-LIC-LOCATION:Europe/Lisbon
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:WEST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:WET
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:lego-pokemon-go-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:LEGO Stores and Pokémon GO
+DTSTART;TZID=Europe/Lisbon:20260803T100000
+DTEND;TZID=Europe/Lisbon:20260930T235900
+DESCRIPTION:The Pokémon GO and LEGO Group partnership continues for Traine
+ rs in the US\, UK\, Poland\, France\, Germany\, and Australia! Visit parti
+ cipating LEGO Store locations for raids\, a LEGO-themed stamp rally\, even
+ t stickers\, and LEGO Pokémon SMART Play.\nThe LEGO Stores and Pokémon G
+ O event will take place from August 3\, 2026 at 10 am to September 30\, 20
+ 26 at 11 pm.\n\n━━ FEATURES ━━\n▸ Participating LEGO Store Locat
+ ions\nYou can use this interactive map to find participating stores near y
+ ou. This list is from the official Stamp Rally map.\nThe interactive map w
+ ill load when it is near the screen.\nOpen the official map\n\n▸ Stamp R
+ ally\nTake part in a special LEGO-themed stamp rally during the event! A s
+ tamp rally is an activity where you collect stamps at certain PokéStops a
+ nd Gyms. Explore participating LEGO Stores and find designated stops to co
+ llect stamps\, which leads to encounters with Pikachu that have a Special 
+ Background.\nStamps can be collected at select LEGO Stores in Australia\, 
+ France\, Great Britain\, Germany\, Poland\, and the United States.\nTraine
+ rs can start the stamp rally by visiting a participating LEGO Store until 
+ September 30\, 2026 at 11:59 p.m. local time.\n\n▸ How stamp rallies wor
+ k\nOrange stamp icons will be displayed above the PokéStops included in t
+ he stamp rally. When you tap on these PokéStops\, the stamp sheet will ap
+ pear so you can collect your stamp.\nYou can view the stamps you collect o
+ n the stamp rally page in your Scrapbook. Certain stamp rallies also let y
+ ou send stamps to your friends along with a Gift. Stamps you get from Gift
+ s will be collected in your Scrapbook\, but they don’t count toward the 
+ reward track. Rewards can only be obtained when you visit the location and
+  collect the stamps yourself.\nLearn more about how to participate in a st
+ amp rally here!\nPokémon: Pikachu\n\n▸ LEGO Pokémon SMART Play\nFrom A
+ ugust 3 to September 30\, 2026\, Trainers are invited to enter LEGO Stores
+  in the US\, UK\, Poland\, France\, Germany\, and Australia to visit in-st
+ ore Trainer Centers and participate in the LEGO Pokémon SMART Play demo. 
+ Participants will receive a unique collectible SMART Play Tag and a specia
+ l stamp for their LEGO Passports. Smart Tags are available while stocks la
+ st.\n…\n\n━━ RAIDS ━━\nThe following Pokémon will appear more f
+ requently in raids at participating LEGO Store locations. You may encounte
+ r one with a Special Background!\nThese raids are local only—Remote Raid
+  Passes cannot be used. Trainers can participate in one raid per day per s
+ tore.\n\n▸ Appearing in 1-Star Raids\nPokémon: Pikachu\n\n━━ RESEAR
+ CH ━━\nFree Timed Research will be available to Trainers who visit a L
+ EGO Store during the event! Complete the research tasks to earn event stic
+ kers\, the 2026 LEGO® Pokémon Jacket\, and more.\nRedeem promo code LEGO
+ xPOKEMONGOxCAP to unlock Bonus Timed Research. The Cap Timed Research is o
+ nly available in select countries\, including but not exclusive to the one
+ s mentioned with participating LEGO Stores. Trainers in countries that are
+  not included will get Timed Research that rewards a Lucky Egg instead.\nT
+ rainers outside the Cap Timed Research countries receive this Timed Resear
+ ch instead.\n\n▸ Possible workaround\nSome Trainers have reported being 
+ able to receive the Cap Timed Research with these steps:\n• Turn off loc
+ ation/GPS on your phone\, then launch Pokémon GO.\n• Open the Research 
+ tab.\n• Close the game.\n• Turn on location/GPS\, open the game again\
+ , and the Cap Timed Research should be there.\n\n🔗 https://leekduck.com
+ /events/lego-pokemon-go-2026/
+URL:https://leekduck.com/events/lego-pokemon-go-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:daily-season-24-twilight-trails-tuesday@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Showcase Tuesday (daily bonus)
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+RRULE:FREQ=WEEKLY;UNTIL=20261130
+EXDATE;VALUE=DATE:20261110
+DESCRIPTION:• Trainers can enter up to five PokéStop Showcases.\n• Mor
+ e PokéStops may have PokéStop Showcases.\n\nDaily Discovery of the Twili
+ ght Trails season\, all day unless stated. Not active during the week of g
+ lobal GO Fest\, GO Wild Area and GO Tour events.\n\n🔗 https://leekduck.
+ com/events/season-24-twilight-trails/
+URL:https://leekduck.com/events/season-24-twilight-trails/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:go-pass-september-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:GO Pass: September
+DTSTART;TZID=Europe/Lisbon:20260908T100000
+DTEND;TZID=Europe/Lisbon:20261006T100000
+DESCRIPTION:Latios soars in faster than a jet for GO Pass: September!\nThe 
+ GO Pass and GO Pass Deluxe for September will be available from September 
+ 8\, 2026 at 10:00 am to October 6\, 2026 at 10:00 am local time.\n\n━━
+  FEATURES ━━\n▸ GO Pass and GO Pass Deluxe\nTrainers will automatica
+ lly receive GO Pass: September on Tuesday\, September 8\, at 10:00 a.m. lo
+ cal time. You can collect GO Points and rank up to get additional rewards 
+ through Tuesday\, October 6\, at 10:00 a.m. local time.\nAdditionally\, fr
+ om Saturday\, October 3\, at 12:00 a.m. to Sunday\, October 4\, at 11:59 p
+ .m. local time\, there’s no daily limit for how many GO Points you can e
+ arn!\nFor US$7.99\, Trainers can upgrade to the GO Pass Deluxe\, a paid ve
+ rsion of the GO Pass that offers upgraded rewards and faster progression.\
+ nFor US$9.99*\, Trainers can upgrade to the GO Pass Deluxe + 10 Ranks to a
+ lso automatically earn enough GO Points to reach Rank 11.\nWhile progressi
+ ng through the GO Pass Deluxe\, you’ll be able to claim all of the rewar
+ ds from both the free GO Pass and GO Pass Deluxe. You can upgrade to a GO 
+ Pass Deluxe at any time and still collect rewards from previously unlocked
+  ranks.\nRewards unlocked in the GO Pass will expire on Thursday\, October
+  8\, at 10:00 a.m. local time\, so be sure to claim your rewards before th
+ ey’re gone!\n\n▸ Featured Pokémon and Rewards\nComplete Pass Tasks to
+  rank up your GO Pass to earn the following rewards.\n• Encounter with L
+ atios*\n• Rare Candy XL\n• Premium Battle Pass\n• Lucky Egg\n• And
+  even more goodies!\nTrainers who upgrade to the GO Pass Deluxe can also e
+ arn the following rewards.\n• One Timed Incubator\n• One Super Incubat
+ or\n• Additional encounters with even more Pokémon!\n• And even more 
+ goodies!\n\n▸ Major Milestone Bonuses\nReach Major Milestones on your GO
+  Pass to unlock the following bonuses.\n\n▸ Tier 1 – Rank 1\n• One a
+ dditional Candy for trading Pokémon\n• Trainers level 31 and above will
+  receive one guaranteed Candy XL when trading Pokémon\n\n▸ Tier 2 – R
+ ank 25\n• Open up to 40 Gifts per day\n• Receive up to 125 Gifts per d
+ ay from spinning PokéStop and Gym Photo Discs\n• Hold 10 more Gifts in 
+ your Item Bag\n\n▸ Tier 3 – Rank 50\n• 2× Daily Adventure Incense d
+ uration\n\n▸ Tier 4 – Rank 75\n…\n\n━━ GO PASS ━━\nEarn poin
+ ts to increase your rank and unlock rewards. You can earn points by comple
+ ting Pass Tasks or the various accomplishments listed here. Any rewards yo
+ u earn for completing a Pass Task will be awarded as soon as you finish th
+ e task.\nTrainers will also have access to Weekly Tasks to earn points and
+  increase their rank. The Weekly Tasks are as follows:\n• Catch 75 Poké
+ mon - 200 PTS\n• Win a raid - 150 PTS\n• Make 20 Great Throws - 150 PT
+ S\n• Hatch 3 Eggs - 150 PTS\n• Spin 25 PokéStops or Gyms - 100 PTS\n
+ • Use 20 Berries to help catch Pokémon - 100 PTS\n• Earn 10 hearts wi
+ th your buddy - 150 PTS\nThere is also a daily task:\nGO Pass: September D
+ aily\n• Catch 15 Pokémon - 200 PTS\nGO Pass Deluxe: September Daily\n
+ • Catch 15 Pokémon - 200 PTS\nTrainers can earn up to 250 extra points 
+ daily by completing certain tasks.\n• Win a raid - 100 PTS\n• Hatch an
+  Egg - 40 PTS\n• Catch a Pokémon - 5 PTS\n\n▸ GO Pass: September\nEnc
+ ounter Latios!\n\n🔗 https://leekduck.com/events/go-pass-september-2026/
+URL:https://leekduck.com/events/go-pass-september-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:season-24-twilight-trails@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Season: Twilight Trails
+DTSTART;TZID=Europe/Lisbon:20260908T100000
+DTEND;TZID=Europe/Lisbon:20261201T100000
+DESCRIPTION:Welcome to Pokémon GO: Twilight Trails!\nIn Pokémon GO\, Seas
+ ons are periods of time that feature new events\, Pokémon debuts\, and su
+ rprises that all follow a certain theme. As the Seasons change\, you may f
+ ind different Pokémon appearing in your area and hatching from Eggs. Make
+  sure to explore during each in-game Season to collect and train as many d
+ ifferent Pokémon as you can! You’ll also enjoy special bonuses as you d
+ o.\n\n━━ BONUSES ━━\n▸ GO Pass Major Milestone Bonuses\nReach Ma
+ jor Milestones on your GO Pass to unlock the following bonuses. Once unloc
+ ked\, these bonuses will last until the current GO Pass ends!\n\n▸ Rank 
+ 1\n• One guaranteed Candy XL when trading Pokémon for Trainers level 31
+  and above\n• One additional Candy for trading Pokémon\n\n▸ Rank 25\n
+ • Increased limits on opening Gifts\, receiving Gifts from PokéStop and
+  Gym Photo Discs\, and storing Gifts\n\n▸ Rank 50\n• 2× Daily Adventu
+ re Incense duration\n\n▸ Rank 75\n• Increased XP and Stardust from hat
+ ching Eggs\n\n━━ FEATURES ━━\n▸ Pokémon Debuts\nMore Pokémon o
+ riginally discovered in the Paldea region\, which was featured in the Pok
+ émon Scarlet and Pokémon Violet games for Nintendo Switch\, have been sp
+ otted in Pokémon GO!\nBe on the lookout for Maschiff\, Mabosstiff\, and m
+ ore!\nPokémon: Maschiff\, Mabosstiff\n\n▸ Mega-Evolved Pokémon\nWhere 
+ Pokémon GO Fest 2026: Mega Finale ends\, a new trail begins! Gather ‘ro
+ und for the Mega Evolution debuts of Staraptor\, Chandelure\, and more dur
+ ing Twilight Trails.\nStay tuned for more details on how to continue your 
+ Mega Evolution journey with the Mega Squads event\, September Community Da
+ y Classic\, and more!\n\n▸ Max Pokémon Debuts\nDynamax Rhyhorn\, Dynama
+ x Sneasel\, Dynamax Sizzlipede\, and more will make their way into Max Bat
+ tles throughout the Season. Keep an eye out for new Dynamax Pokémon at Po
+ wer Spots!\nDynamax Uxie\, Dynamax Mesprit\, and Dynamax Azelf will appear
+  in a Max Battle Day during Twilight Trails.\nPokémon: Rhyhorn\, Sneasel\
+ , Uxie\, Mesprit\, Azelf\, Sizzlipede\n\n▸ Daily Discoveries\nThroughout
+  Twilight Trails\, different days of the week will include a Daily Discove
+ ry experience. These will be active between 12:00 a.m. and 11:59 p.m. loca
+ l time unless otherwise stated. Daily Discoveries may change as Scopely Ex
+ plore experiments with how to make the best experience.\nPlease note: Dail
+ y Discoveries will not be available during the week of global GO Fest\, GO
+  Wild Area\, and GO Tour events.\n\n▸ Community Days\nMark your calendar
+ ! Twilight Trails will have Community Day events on the following dates.\n
+ • September 12 — September Community Day Classic\n• October 10 — O
+ ctober Community Day\n• November 21 — November Community Day\n\n▸ GO
+  Pass\nGO Pass\, a limited-time progression track\, will be available duri
+ ng Twilight Trails! Complete Pass Tasks to earn GO Points to increase your
+  rank and earn rewards.\nThe GO Pass Deluxe\, a paid version of the GO Pas
+ s\, will be available for Trainers looking for upgraded rewards and faster
+  progression.\n\n▸ Research Breakthrough\n…\n\n━━ SPAWNS ━━\n
+ ▸ Wild Pokémon Encounters\nAs the Seasons change\, you may find differe
+ nt Pokémon appearing in your area. Explore during Twilight Trails to see 
+ what discoveries await!\n\n━━ EGGS ━━\nHere are some of the Pokém
+ on hatching from Eggs this season.\nThere are more Pokémon appearing in E
+ ggs than the ones listed.\n\n▸ In 2 km Eggs\nPokémon: Elekid\, Magby\, 
+ Azurill\n\n▸ In 5 km Eggs\nRegional: Mime Jr. is exclusive to Eggs obtai
+ ned in Europe.\nPokémon: Mime Jr.\, Munchlax\, Larvesta\, Sizzlipede\, Sn
+ om\, Indeedee (Male)\, Indeedee (Female)\, Fidough\, Maschiff\n\n▸ In 5 
+ km Eggs from Adventure Sync Rewards\nPokémon: Tyrogue\, Sableye\, Budew\n
+ \n▸ In 7 km Eggs\nPokémon: Galarian Meowth\, Galarian Zigzagoon\, Galar
+ ian Stunfisk\n\n▸ In 7 km Eggs From Route Rewards\nThis type of Egg is o
+ btained from Mateo’s Gift Exchange at the end of a Route.\nPokémon: Gal
+ arian Slowpoke\, Hisuian Sneasel\, Galarian Corsola\n\n▸ In 10 km Eggs\n
+ Pokémon: Dratini\, Honedge\, Impidimp\n\n▸ In 10 km Eggs from Adventure
+  Sync Rewards\nPokémon: Bagon\, Druddigon\, Drampa\n\n🔗 https://leekdu
+ ck.com/events/season-24-twilight-trails/
+URL:https://leekduck.com/events/season-24-twilight-trails/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:daily-season-24-twilight-trails-wednesday@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Wednesday: Raid Hour (daily bonus)
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+RRULE:FREQ=WEEKLY;UNTIL=20261130
+EXDATE;VALUE=DATE:20261111
+DESCRIPTION:• One Rare Candy XL for completing in-person Raid Battles.\n
+ • Raid Bosses for five-star raids and Mega Raids will rotate at the star
+ t of the day each week.\n• Raid Hours will continue to feature the five-
+ star Raid Boss between 6:00 p.m. and 7:00 p.m. local time.\n\nDaily Discov
+ ery of the Twilight Trails season\, all day unless stated. Not active duri
+ ng the week of global GO Fest\, GO Wild Area and GO Tour events.\n\n🔗 h
+ ttps://leekduck.com/events/season-24-twilight-trails/
+URL:https://leekduck.com/events/season-24-twilight-trails/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026@pokemon
+ -go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Shadow Thundurus (Incarnate Forme) in Shadow Raids
+DTSTART;TZID=Europe/Lisbon:20260909T060000
+DTEND;TZID=Europe/Lisbon:20261006T220000
+DESCRIPTION:Shadow Thundurus (Incarnate Forme) will appear in five-star Sha
+ dow Raids every weekend from September 9\, 2026 to October 6\, 2026. If yo
+ u’re lucky\, you may encounter Shiny Shadow Thundurus (Incarnate Forme)!
+ \n\n━━ RAIDS ━━\n▸ Appearing in 5-Star Shadow Raids\nShadow Thun
+ durus (Incarnate Forme) will appear in Shadow Raids.\nPokémon: Thundurus 
+ (Incarnate)\n\n━━ SHINY ━━\nIf you’re lucky\, you may encounter 
+ Shiny Shadow Thundurus (Incarnate Forme)!\nPokémon: Thundurus (Incarnate)
+ \n\n🔗 https://leekduck.com/events/shadow-thundurus-incarnate-forme-in-s
+ hadow-raids-september-2026/
+URL:https://leekduck.com/events/shadow-thundurus-incarnate-forme-in-shadow-
+ raids-september-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:daily-season-24-twilight-trails-thursday@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:GO Battle Thursdays and Spotlight Hour (daily bonus)
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+RRULE:FREQ=WEEKLY;UNTIL=20261130
+EXDATE;VALUE=DATE:20261112
+DESCRIPTION:• Spotlight Hour will return from 6:00 p.m. to 7:00 p.m. loca
+ l time.\n\nDaily Discovery of the Twilight Trails season\, all day unless 
+ stated. Not active during the week of global GO Fest\, GO Wild Area and GO
+  Tour events.\n\n🔗 https://leekduck.com/events/season-24-twilight-trail
+ s/
+URL:https://leekduck.com/events/season-24-twilight-trails/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:daily-season-24-twilight-trails-friday@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Friendship Friday (daily bonus)
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+RRULE:FREQ=WEEKLY;UNTIL=20261130
+EXDATE;VALUE=DATE:20261113
+DESCRIPTION:• Up to two additional Special Trades.\n• Increased chance 
+ of Lucky Trade for any trade.\n• Trades will require 20% less Stardust.\
+ n• Two guaranteed Candy XL from trades (Trainers level 31+).\n\n*These b
+ onuses only apply to in-person trades.\n\nDaily Discovery of the Twilight 
+ Trails season\, all day unless stated. Not active during the week of globa
+ l GO Fest\, GO Wild Area and GO Tour events.\n\n🔗 https://leekduck.com/
+ events/season-24-twilight-trails/
+URL:https://leekduck.com/events/season-24-twilight-trails/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:daily-season-24-twilight-trails-sunday@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Scenic Sunday (daily bonus)
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+RRULE:FREQ=WEEKLY;UNTIL=20261130
+EXDATE;VALUE=DATE:20261115
+DESCRIPTION:• More Pokémon will appear in the wild!\n• More Pokémon w
+ ill appear while following a Route. Incense will attract even more Pokémo
+ n on Routes.\n• Reduced distance to earn Buddy Candy while exploring Rou
+ tes with your Buddy Pokémon.\n• Encounter Mateo up to three times each 
+ day while on a Route.\n\nDaily Discovery of the Twilight Trails season\, a
+ ll day unless stated. Not active during the week of global GO Fest\, GO Wi
+ ld Area and GO Tour events.\n\n🔗 https://leekduck.com/events/season-24-
+ twilight-trails/
+URL:https://leekduck.com/events/season-24-twilight-trails/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:daily-season-24-twilight-trails-monday@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Max Monday (daily bonus)
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+RRULE:FREQ=WEEKLY;UNTIL=20261130
+EXDATE;VALUE=DATE:20261109
+DESCRIPTION:• One guaranteed Rare Candy XL for winning in-person Max Batt
+ les.\n• Power Spots will refresh more frequently.\n• Additional Power 
+ Spots will be active on Mondays compared to the rest of the week.\n• Max
+  Battles will rotate to feature different Dynamax Pokémon.\n\n*Max Battle
+ s will be available between 6:00 a.m. and 9:00 p.m. local time. Power Spot
+  availability will be limited outside of Max Mondays and Max Battle Days.\
+ n\nDaily Discovery of the Twilight Trails season\, all day unless stated. 
+ Not active during the week of global GO Fest\, GO Wild Area and GO Tour ev
+ ents.\n\n🔗 https://leekduck.com/events/season-24-twilight-trails/
+URL:https://leekduck.com/events/season-24-twilight-trails/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cu
+ p-great-league-edition@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:GBL: Great League\, Ultra League: Mega Edition\, and Willpower Cup:
+  Great League Edition
+DTSTART:20260915T200000Z
+DTEND:20260922T200000Z
+DESCRIPTION:The Great League\, Ultra League: Mega Edition\, and Willpower C
+ up: Great League Edition will run from September 15\, 2026\, at 1:00 p.m. 
+ to September 22\, 2026\, at 1:00 p.m. PT.\n\n▸ Great League\n• Pokémo
+ n must be at or below 1\,500 CP to enter.\n\n▸ Ultra League: Mega Editio
+ n\n• Pokémon must be at or below 2\,500 CP to enter.\n• Mega-Evolved 
+ Pokémon are allowed.\n\n▸ Willpower Cup: Great League Edition\n• Pok
+ émon must be at or below 1\,500 CP to enter.\n• Only Fighting-\, Psychi
+ c-\, and Dark-type Pokémon are eligible.\nThe following Pokémon will not
+  be allowed.\nPokémon: Gardevoir\, Zorua\, Zoroark\n\n🔗 https://leekdu
+ ck.com/events/gbl-twilight-trails_great-league_ultra-league-mega-edition_w
+ illpower-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-leag
+ ue-mega-edition_willpower-cup-great-league-edition/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-venusaur-in-mega-raids-september-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Mega Venusaur in Mega Raids
+DTSTART;TZID=Europe/Lisbon:20260916T060000
+DTEND;TZID=Europe/Lisbon:20260922T220000
+DESCRIPTION:Mega Venusaur will be in Mega Raids from September 16\, 2026 at
+  6 am to September 22\, 2026 at 10 pm local time.\n\n━━ RAIDS ━━\n
+ Mega Venusaur will be in Mega Raids.\nPokémon: Mega Venusaur\n\n━━ SH
+ INY ━━\nIf you’re lucky\, you may encounter Shiny Venusaur. Shiny fo
+ rms for this Pokémon have previously been available.\nPokémon: Venusaur\
+ , Mega Venusaur\n\n🔗 https://leekduck.com/events/mega-venusaur-in-mega-
+ raids-september-2026/
+URL:https://leekduck.com/events/mega-venusaur-in-mega-raids-september-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026@po
+ kemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Zamazenta (Hero of Many Battles) in 5-star Raid Battles
+DTSTART;TZID=Europe/Lisbon:20260916T060000
+DTEND;TZID=Europe/Lisbon:20260922T220000
+DESCRIPTION:Zamazenta (Hero of Many Battles) will be in five-star raid batt
+ les from September 16\, 2026 to September 22\, 2026.\n\n▸ Raid Hours\nTh
+ ere will also be a Raid Hour featuring Zamazenta (Hero of Many Battles) fr
+ om 6:00 p.m. to 7:00 p.m. local time on September 16.\n\n━━ RAIDS ━
+ ━\nZamazenta (Hero of Many Battles) will be in five-star raid battles.\n
+ Pokémon: Zamazenta (Hero of Many Battles)\n\n━━ SHINY ━━\nIf you
+ ’re lucky\, you may encounter a Shiny Zamazenta (Hero of Many Battles).\
+ nPokémon: Zamazenta (Hero of Many Battles)\n\n🔗 https://leekduck.com/e
+ vents/zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026
+ /
+URL:https://leekduck.com/events/zamazenta-hero-of-many-battles-in-5-star-ra
+ id-battles-september-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-horizons-the-series-celebration-event-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Pokémon Horizons: The Series Celebration Event 2026
+DTSTART;TZID=Europe/Lisbon:20260916T100000
+DTEND;TZID=Europe/Lisbon:20260922T200000
+DESCRIPTION:The Pokémon Horizons: The Series Celebration Event returns to 
+ Pokémon GO with the debut of Charmander wearing Friede’s goggles and it
+ s Evolutions!\nUS fans can watch Pokémon Horizons: Season 3—Rising Hope
+  on Netflix now. For more information\, visit the Pokémon Horizons websit
+ e.\nUK fans can watch Pokémon Horizons: Season 3—Rising Hope on BBC iPl
+ ayer. For more information\, visit the Pokémon animation website.\nFor fa
+ ns in other regions\, please check availability with your local providers.
+ \n\n━━ BONUSES ━━\n• Increased chance to encounter Kecleon at Po
+ kéStops\nReach Major Milestones on your event GO Pass to unlock the follo
+ wing bonuses.\n\n▸ Tier 1 Bonus – Starting at Rank 1\n• 2× Candy fo
+ r catching Pokémon\n• GO Pass Deluxe: 3× Candy for catching Pokémon\n
+ \n▸ Tier 2 Bonus – Starting at Rank 10\n• Regular Lure Modules will 
+ last for one hour and may attract the featured Pokémon\n\n▸ Tier 3 Bonu
+ s – Starting at Rank 20\n• Additional Stardust for catching Hatenna an
+ d Wattrel\nKeep an eye out for additional bonus tasks for this GO Pass dur
+ ing the event!\n\n━━ FEATURES ━━\n▸ Pokémon Debut\nA new costum
+ ed Pokémon will appear during this event! You might find one in the wild\
+ , from Field Research\, attracted by an active regular Lure Module\, or vi
+ a the GO Pass.\nPokémon: Charmander wearing Friede's goggles\, Charmeleon
+  wearing Friede's goggles\, Charizard wearing Friede's goggles\nYou can us
+ e 25 Charmander Candy to evolve Charmander wearing Friede’s goggles into
+  Charmeleon wearing Friede’s goggles and 100 Charmander Candy to evolve 
+ Charmeleon wearing Friede’s goggles into Charizard wearing Friede’s go
+ ggles.\nIf you’re lucky\, you might encounter a Shiny one or one that ha
+ s a Special Background!\n\n▸ PokéStop Showcases\nBe on the lookout for 
+ Showcases at different PokéStops during the event\, where each day will f
+ eature a new category!\n\n▸ Surprise Encounters\nSmile! You might have a
+  surprise encounter with characters and Pokémon seen in Pokémon Horizons
+ : The Series when you take a snapshot during the event!\nYou can receive u
+ p to 5 surprise snapshot encounters per day during the event.\nPossible Po
+ kémon encounters include:\nPokémon: Charizard wearing Friede's goggles\,
+  Captain's Cap Pikachu\, Meowscarada\, Skeledirge\, Quaquaval\n\n▸ Spotl
+ ight Hour\nCharmander wearing Friede’s goggles Spotlight Hour takes plac
+ e on Thursday\, September 17\, 2026\, from 6:00 p.m. to 7:00 p.m. local ti
+ me. Charmander wearing Friede’s goggles will appear more frequently in t
+ he wild\, and Trainers will earn 2× Stardust for catching Pokémon.\n\n
+ ━━ SPAWNS ━━\n▸ Wild Encounters\nDuring the event\, the followin
+ g Pokémon will appear in the wild during these times (local time).\n\n▸
+  From 5:00 a.m. to 5:00 p.m.\nPokémon: Charmander wearing Friede's goggle
+ s\, Sprigatito\, Fuecoco\, Quaxly\, Fidough\, Wattrel\nYou might even enco
+ unter the following!\nPokémon: Captain's Cap Pikachu\, Chansey\n\n▸ Fro
+ m 5:00 p.m. to 5:00 a.m.\nPokémon: Charmander wearing Friede's goggles\, 
+ Rhyhorn\, Eevee\, Hatenna\, Nacli\, Tinkatink\nYou might even encounter th
+ e following!\nPokémon: Captain's Cap Pikachu\, Rockruff\n\n━━ RAIDS 
+ ━━\nThe following Pokémon will appear in raids. If you’re lucky\, y
+ ou might encounter a Shiny one or one that has a Special Background!\n\n
+ ▸ One-Star Raids\nPokémon: Captain's Cap Pikachu\n\n▸ Three-Star Raid
+ s\nPokémon: Charizard wearing Friede's goggles\, Meowscarada\, Skeledirge
+ \, Quaquaval\n\n━━ RESEARCH ━━\n▸ Field Research Task Encounters
+ \nEvent-themed Field Research tasks will be available!\nComplete Field Res
+ earch tasks to earn encounters with event-themed Pokémon. Available tasks
+  and encounters vary by time of day (local time).\n\n▸ From 5:00 a.m. to
+  5:00 p.m.\n• Catch 10 Fire‑type Pokémon → Charmander wearing Fried
+ e's goggles\, Fidough\, Wattrel\n• Make an Excellent Throw → Charmande
+ r wearing Friede's goggles\n• Make 5 Great Throws → Sprigatito\, Fueco
+ co\, Quaxly\n• Win a raid → Chansey\, Lapras\n• Win 2 raids → Capt
+ ain's Cap Pikachu\n\n▸ From 5:00 p.m. to 5:00 a.m.\n• Catch 10 Fire‑
+ type Pokémon → Charmander wearing Friede's goggles\, Eevee\, Hatenna\n
+ • Make an Excellent Throw → Charmander wearing Friede's goggles\n• M
+ ake 5 Great Throws → Rhyhorn\, Nacli\n• Win a raid → Rockruff\, Tink
+ atink\n• Win 2 raids → Captain's Cap Pikachu\n\n━━ GO PASS ━━\
+ n▸ GO Pass: Collaboration Celebration Event\nThe GO Pass and GO Pass Del
+ uxe for the Pokémon Horizons: The Series Celebration Event will be availa
+ ble from Wednesday\, September 16\, at 10:00 a.m. to Tuesday\, September 2
+ 2\, 2026\, at 8:00 p.m. local time.\n\n▸ GO Pass and GO Pass Deluxe\nA G
+ O Pass is a free\, limited-time progression track available during a speci
+ fied period. By collecting GO Points\, you can increase your rank to earn 
+ rewards.\nTrainers will automatically receive GO Pass: Collaboration Celeb
+ ration Event on Wednesday\, September 16\, at 10:00 a.m. local time. You c
+ an collect GO Points and rank up to get additional rewards through Tuesday
+ \, September 22\, 2026\, at 8:00 p.m. local time.\nFor US$4.99*\, Trainers
+  can upgrade to the GO Pass Deluxe\, a paid version of the GO Pass that of
+ fers upgraded rewards and faster progression.\nFor US$6.99*\, Trainers can
+  upgrade to the GO Pass Deluxe + 6 Ranks to also automatically earn enough
+  GO Points to reach Rank 7.\nWhile progressing through the GO Pass Deluxe\
+ , you’ll be able to claim all of the rewards from both the free GO Pass 
+ and GO Pass Deluxe. You can upgrade to a GO Pass Deluxe at any time and st
+ ill collect rewards from previously unlocked ranks.\nRewards unlocked in t
+ he GO Pass will expire on Thursday\, September 24\, 2026\, at 8:00 p.m. lo
+ cal time\, so be sure to claim your rewards before they’re gone!\n\n▸ 
+ Featured Pokémon and Rewards\nComplete Pass Tasks to rank up your GO Pass
+  to earn the following rewards.\n• Encounters with event-themed Pokémon
+ \n• XP\n• Lure Module\n• And even more goodies!\nTrainers who upgrad
+ e to the GO Pass Deluxe can also earn the following rewards.\n• Addition
+ al encounters with even more Pokémon!\n• Premium Battle Passes\n• Rar
+ e Candy XL\n• And even more goodies!\n\n▸ Daily Tasks\n…\n\n━━ S
+ HINY ━━\n…
+URL:https://leekduck.com/events/pokemon-horizons-the-series-celebration-eve
+ nt-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-09-17@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Charmander wearing Friede's goggles Spotlight Hour
+DTSTART;TZID=Europe/Lisbon:20260917T180000
+DTEND;TZID=Europe/Lisbon:20260917T190000
+DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and s
+ pecial bonus for one hour at 6:00 p.m. local time.\nSeptember 17: The feat
+ ured Pokémon is Charmander wearing Friede’s goggles and the special bon
+ us is 2× Catch Stardust.\n\n━━ SPAWNS ━━\nThe following Pokémon 
+ will appear more frequently in the wild.\nPokémon: Charmander wearing Fri
+ ede's goggles\n\n🔗 https://leekduck.com/events/pokemonspotlighthour2026
+ -09-17/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-17/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:staraptor-super-mega-raid-day-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Staraptor Super Mega Raid Day
+DTSTART;TZID=Europe/Lisbon:20260919T140000
+DTEND;TZID=Europe/Lisbon:20260919T170000
+DESCRIPTION:Ready yourself to courageously challenge Staraptor Super Mega R
+ aid Day!\n\n━━ BONUSES ━━\n• Remote Raid limit increased to 20 f
+ rom Friday\, September 18\, at 5:00 p.m. to Saturday\, September 19\, 2026
+ \, at 8:00 p.m. PDT\n• Receive up to six free Raid Passes from spinning 
+ Gym Photo Discs\n• Staraptor caught from Super Mega Raids will have Mega
+  Level 1 unlocked\n• Increased chance of encountering Shiny Staraptor fr
+ om Super Mega Raids\n\n▸ Event Ticket\nFor US$4.99 (or the equivalent pr
+ icing tier in your local currency)\, you can purchase a ticket that grants
+  the following bonuses.\n• Receive up to 14 Raid Passes from spinning Gy
+ m Photo Discs\n• Increased chance to get Rare Candy XL from Raid Battles
+ \n• An additional 5\,000 XP from Super Mega Raid Battles\n• An additio
+ nal 5\,000 Stardust from Super Mega Raid Battles\nThese bonuses will be ef
+ fective on Saturday\, September 19\, 2026\, from 2:00 p.m. to 5:00 p.m. lo
+ cal time.\n\n━━ FEATURES ━━\n▸ Mega-Evolved Pokémon Debut\nThe 
+ following Pokémon will make its Pokémon GO debut in Super Mega Raids!\n\
+ n▸ New Mega Level: Super Max\nMega Staraptor’s Mega Level can be incre
+ ased all the way to Super Max Level for the first time in Pokémon GO!\nPo
+ kémon that are eligible to unlock Super Max Level can learn an additional
+  Charged Attack while they are Mega Evolved.\nStaraptor can use the additi
+ onal Charged Attack Brave Bird+ while it is Mega Evolved.\n• Trainer Bat
+ tles: 70 power and decreases the user’s Defense by three stages\n• Rai
+ d Battles: 150 power\nThe power of this attack will increase with Starapto
+ r’s Mega Level.\nYou must increase a Pokémon’s Mega Level to Max befo
+ re you can increase it to Super Max. Participating in Mega Raids awards th
+ e Mega Energy needed to power up eligible Pokémon beyond what Mega Evolvi
+ ng alone can provide.\n\n▸ Where can I find Super Mega Raids?\nSuper Meg
+ a Raids will take great teamwork and may only appear at certain Gyms.\n\n
+ ━━ RAIDS ━━\n▸ Featured Pokémon\nMega Staraptor will make its P
+ okémon GO debut in Super Mega Raids.\n\n━━ RESEARCH ━━\nTimed Res
+ earch will be available to Trainers during the event. Complete the researc
+ h tasks to earn a Premium Battle Pass and an encounter with Gardevoir.\n\n
+ ━━ SHINY ━━\nTrainers will have an increased chance of encounterin
+ g Shiny Staraptor from Super Mega Raids.\nPokémon: Staraptor\n\n🔗 http
+ s://leekduck.com/events/staraptor-super-mega-raid-day-2026/
+URL:https://leekduck.com/events/staraptor-super-mega-raid-day-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-09-21@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Dynamax Articuno\, Zapdos\, and Moltres during Max Monday
+DTSTART;TZID=Europe/Lisbon:20260921T060000
+DTEND;TZID=Europe/Lisbon:20260921T210000
+DESCRIPTION:These Dynamax Pokémon may appear in Max Battles throughout thi
+ s season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local 
+ time on Mondays.\n• Power Spots will refresh more frequently.\n• Addit
+ ional Power Spots will be active on Mondays compared to the rest of the we
+ ek.\n• Max Battles will rotate to feature different Dynamax Pokémon.\nO
+ n September 21\, 2026\, the featured Dynamax Pokémon are Articuno\, Zapdo
+ s\, and Moltres.\nPokémon: Articuno\, Zapdos\, Moltres\n\n🔗 https://le
+ ekduck.com/events/max-mondays-2026-09-21/
+URL:https://leekduck.com/events/max-mondays-2026-09-21/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-g
+ reat-league-edition@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and Retro Cup: Gr
+ eat League Edition
+DTSTART:20260922T200000Z
+DTEND:20260929T200000Z
+DESCRIPTION:The Ultra League\, Master League: Mega Edition\, and Retro Cup:
+  Great League Edition will run from September 22\, 2026\, at 1:00 p.m. to 
+ September 29\, 2026\, at 1:00 p.m. PT.\nTrainers will also receive 4× Sta
+ rdust from win rewards (this does not include end-of-set rewards).\n\n▸ 
+ Ultra League\n• Pokémon must be at or below 2\,500 CP to enter.\n\n▸ 
+ Master League: Mega Edition\n• No CP limit.\n• Mega-Evolved Pokémon a
+ re allowed.\n\n▸ Retro Cup: Great League Edition\n• Pokémon must be a
+ t or below 1\,500 CP to enter.\n• Dark-\, Steel-\, and Fairy-type Pokém
+ on are not eligible.\n\n🔗 https://leekduck.com/events/gbl-twilight-trai
+ ls_ultra-league_master-league-mega-edition_retro-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-lea
+ gue-mega-edition_retro-cup-great-league-edition/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-malamar-in-mega-raids-september-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Mega Malamar in Mega Raids
+DTSTART;TZID=Europe/Lisbon:20260923T060000
+DTEND;TZID=Europe/Lisbon:20260929T220000
+DESCRIPTION:Mega Malamar will be in Mega Raids from September 23\, 2026 at 
+ 6 am to September 29\, 2026 at 10 pm local time.\n\n━━ RAIDS ━━\nM
+ ega Malamar will be in Mega Raids.\nPokémon: Mega Malamar\n\n━━ SHINY
+  ━━\nIf you’re lucky\, you may encounter Shiny Malamar.\nPokémon: M
+ alamar\, Mega Malamar\n\n🔗 https://leekduck.com/events/mega-malamar-in-
+ mega-raids-september-2026/
+URL:https://leekduck.com/events/mega-malamar-in-mega-raids-september-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026@poke
+ mon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Xurkitree\, Pheromosa\, and Buzzwole in 5-star Raid Battles
+DTSTART;TZID=Europe/Lisbon:20260923T060000
+DTEND;TZID=Europe/Lisbon:20260929T220000
+DESCRIPTION:Xurkitree\, Pheromosa\, and Buzzwole will be in five-star raid 
+ battles from September 23\, 2026 to September 29\, 2026.\nXurkitree will a
+ ppear in the Asia-Pacific region\, Pheromosa will appear in Europe\, the M
+ iddle East\, Africa\, and India\, and Buzzwole will appear in the Americas
+  and Greenland.\n\n▸ Raid Hours\nThere will also be a Raid Hour featurin
+ g these regional raid bosses from 6:00 p.m. to 7:00 p.m. local time on Sep
+ tember 23.\n\n━━ RAIDS ━━\nXurkitree (Asia-Pacific)\, Pheromosa (E
+ urope - Middle East - Africa - India)\, and Buzzwole (Americas - Greenland
+ ) will be in five-star raid battles.\nPokémon: Buzzwole\, Pheromosa\, Xur
+ kitree\n\n━━ SHINY ━━\nIf you’re lucky\, you may encounter a Shi
+ ny Xurkitree\, Pheromosa\, or Buzzwole.\nPokémon: Buzzwole\, Pheromosa\, 
+ Xurkitree\n\n🔗 https://leekduck.com/events/xurkitree-pheromosa-buzzwole
+ -in-5-star-raid-battles-september-2026/
+URL:https://leekduck.com/events/xurkitree-pheromosa-buzzwole-in-5-star-raid
+ -battles-september-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:choose-your-path-twilight-trails-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Choose Your Path: Twilight Trails
+DTSTART;TZID=Europe/Lisbon:20260923T100000
+DTEND;TZID=Europe/Lisbon:20260928T200000
+DESCRIPTION:Choose Your Path Timed Research gives you the freedom to explor
+ e Pokémon GO your way during non-event weeks!\nDuring a Choose Your Path 
+ Timed Research week\, you’ll be able to select one of three paths: Explo
+ re\, Catch\, or Battle. Your choice will shape the Timed Research tasks an
+ d bonuses throughout the week.\nYou may have different research opportunit
+ ies than other Trainers.\n\n━━ FEATURES ━━\n▸ Choose a Path\nYou
+  can choose one of the following Timed Research paths:\n• Explore\n• C
+ atch\n• Battle\nYour choice will determine your Timed Research tasks and
+  bonuses throughout the week. Specific bonuses have not yet been announced
+ .\n\n━━ RESEARCH ━━\n▸ Timed Research Details\nTimed Research ta
+ sks and rewards will be added here when available.\n\n🔗 https://leekduc
+ k.com/events/choose-your-path-twilight-trails-2026/
+URL:https://leekduck.com/events/choose-your-path-twilight-trails-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260923@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Xurkitree\, Pheromosa\, and Buzzwole Raid Hour
+DTSTART;TZID=Europe/Lisbon:20260923T180000
+DTEND;TZID=Europe/Lisbon:20260923T190000
+DESCRIPTION:A Raid Hour featuring Xurkitree (Asia-Pacific)\, Pheromosa (Eur
+ ope\, the Middle East\, Africa\, and India)\, and Buzzwole (the Americas a
+ nd Greenland) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During 
+ this hour there will be an increased number of five-star raids.\n\n🔗 ht
+ tps://leekduck.com/events/raidhour20260923/
+URL:https://leekduck.com/events/raidhour20260923/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-09-24@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Rattata Spotlight Hour
+DTSTART;TZID=Europe/Lisbon:20260924T180000
+DTEND;TZID=Europe/Lisbon:20260924T190000
+DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and s
+ pecial bonus for one hour at 6:00 p.m. local time.\nThere will be an incre
+ ased chance to encounter XXS Rattata.\nSeptember 24: The featured Pokémon
+  is Rattata and the special bonus is 2× Evolution XP.\n\n━━ SPAWNS 
+ ━━\nThe following Pokémon will appear more frequently in the wild.\nP
+ okémon: Rattata\n\n🔗 https://leekduck.com/events/pokemonspotlighthour2
+ 026-09-24/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-24/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:catch-mastery-phantump-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Phantump Catch Mastery
+DTSTART;TZID=Europe/Lisbon:20260926T100000
+DTEND;TZID=Europe/Lisbon:20260926T200000
+DESCRIPTION:Get ready for a Catch Mastery event featuring Phantump\, the St
+ ump Pokémon!\n\n━━ BONUSES ━━\n• 2× XP for successfully catchi
+ ng Pokémon with Nice Throws or better\n• Increased Candy for successful
+ ly catching Pokémon with Nice Throws or better\n\n━━ FEATURES ━━\
+ n▸ Featured Pokémon\nPhantump\, the Stump Pokémon\, will appear in Fie
+ ld Research\, free Timed Research\, and paid Timed Research.\nPokémon: Ph
+ antump\nYou’ll have an increased chance of encountering Shiny Phantump!\
+ n\n━━ SPAWNS ━━\n▸ Wild Encounters\nThe following Pokémon will 
+ appear more frequently in the wild.\nPokémon: Cherubi\, Drifloon\n\n━
+ ━ RESEARCH ━━\n▸ Field Research Task Encounters\nTasks focused on 
+ your Poké Ball–throwing accuracy will be available! The following Poké
+ mon will be available to encounter when you complete Field Research tasks!
+ \n• ??? → Cherubi\n• ??? → Drifloon\n• ??? → Phantump\n\n▸ T
+ imed Research\nTimed Research focused on catching Phantump will be availab
+ le throughout the event!\nTimed Research rewards include the following:\n
+ • Complete research tasks for encounters with Phantump!\n• XP\, Stardu
+ st\, and more!\nYou’ll have an increased chance of encountering Shiny Ph
+ antump!\n\n▸ Paid Timed Research\nFor US$1.99 (or the equivalent pricing
+  tier in your local currency)\, you’ll be able to access event-exclusive
+  Timed Research.\nPaid Timed Research rewards include the following:\n• 
+ Additional encounters with Phantump\n• XP\, Stardust and more!\nYou’ll
+  have an increased chance of encountering Shiny Phantump!\n\n━━ SHINY 
+ ━━\n▸ Increased Shiny Chance\nThere will be an increased chance to e
+ ncounter Shiny Cherubi\, Shiny Drifloon\, and Shiny Phantump.\nPokémon: C
+ herubi\, Drifloon\, Phantump\n\n🔗 https://leekduck.com/events/catch-mas
+ tery-phantump-2026/
+URL:https://leekduck.com/events/catch-mastery-phantump-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-09-28@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Dynamax Sobble during Max Monday
+DTSTART;TZID=Europe/Lisbon:20260928T060000
+DTEND;TZID=Europe/Lisbon:20260928T210000
+DESCRIPTION:These Dynamax Pokémon may appear in Max Battles throughout thi
+ s season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local 
+ time on Mondays.\n• Power Spots will refresh more frequently.\n• Addit
+ ional Power Spots will be active on Mondays compared to the rest of the we
+ ek.\n• Max Battles will rotate to feature different Dynamax Pokémon.\nO
+ n September 28\, 2026\, the featured Dynamax Pokémon is Sobble.\nPokémon
+ : Sobble\n\n🔗 https://leekduck.com/events/max-mondays-2026-09-28/
+URL:https://leekduck.com/events/max-mondays-2026-09-28/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvest-festival-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Harvest Festival 2026: Applin Picking
+DTSTART;TZID=Europe/Lisbon:20260929T100000
+DTEND;TZID=Europe/Lisbon:20261005T200000
+DESCRIPTION:Harvest Festival returns with the Pokémon GO debut of Shiny Ap
+ plin! Gather apples\, choose a Timed Research path\, and earn rewards thro
+ ugh the event GO Pass.\nThe Harvest Festival 2026: Applin Picking event wi
+ ll take place from September 29\, 2026 at 10 am to October 5\, 2026 at 8 p
+ m local time.\n\n━━ BONUSES ━━\n• Increased chance to encounter 
+ Shiny Smoliv\nUnlock the following bonuses by reaching Major Milestones on
+  the event GO Pass.\n\n▸ Tier 1 Bonus – Starting at Rank 1\n• Applin
+  will have an increased chance of holding Tart Apples\, Sweet Apples\, or 
+ Syrupy Apples when caught\n\n▸ Tier 2 Bonus – Starting at Rank 10\n•
+  Mossy Lure Modules activated during the event will last for one hour\n\n
+ ▸ Tier 3 Bonus – Starting at Rank 20\n• More Stardust from defeating
+  Team GO Rocket Grunts and Leaders\nAdditional bonus tasks for this GO Pas
+ s will be available during the event.\n\n━━ FEATURES ━━\n▸ Apple
+ s\nDuring the event\, Mossy Lure Modules will only attract apples. Tap the
+ se apples to receive Tart Apples\, Sweet Apples\, Syrupy Apples\, or encou
+ nters with event-themed Pokémon\, including Cottonee wearing a flower cro
+ wn and Applin!\nPokémon: Flower Crown Cottonee\, Applin\n\n━━ SPAWNS 
+ ━━\nThe following Pokémon and more will appear in the wild during the
+  event.\nPokémon: Skwovet\, Lechonk\, Smoliv\nIf you’re lucky\, you mig
+ ht also encounter Applin!\nPokémon: Applin\n\n━━ RESEARCH ━━\n▸
+  Branching Timed Research\nChoose one of three Timed Research paths to det
+ ermine which apples you receive as rewards:\n• Tart Apples\n• Sweet Ap
+ ples\n• Syrupy Apples\nComplete the Timed Research tasks and claim all r
+ ewards by Monday\, October 5\, 2026\, at 8:00 p.m. local time.\n\n▸ Fiel
+ d Research Task Encounters\nEvent-themed Field Research tasks will reward 
+ encounters with event-themed Pokémon.\n\n━━ GO PASS ━━\n▸ GO Pa
+ ss: Harvest Festival\nTrainers will automatically receive the free GO Pass
+ : Harvest Festival on Tuesday\, September 29\, at 10:00 a.m. local time. C
+ omplete Pass Tasks and collect GO Points to rank up and earn rewards until
+  Monday\, October 5\, 2026\, at 8:00 p.m. local time.\n\n▸ GO Pass Delux
+ e\nUpgrade to GO Pass Deluxe for US$4.99* for additional rewards and faste
+ r progression. The GO Pass Deluxe + 6 Ranks option costs US$6.99* and gran
+ ts enough GO Points to reach Rank 7.\nGO Pass Deluxe includes rewards from
+  both the free and paid tracks. You can upgrade at any time during the eve
+ nt and claim rewards from ranks you’ve already unlocked.\nAll unlocked G
+ O Pass rewards must be claimed by Wednesday\, October 7\, 2026\, at 8:00 p
+ .m. local time.\n\n▸ Featured Pokémon and Rewards\nThe free GO Pass inc
+ ludes the following rewards and more:\n• Encounters with event-themed Po
+ kémon\n• Tart Apples\, Sweet Apples\, or Syrupy Apples\n• Mossy Lure 
+ Module\n• Super Rocket Radar\nGO Pass Deluxe adds the following rewards 
+ and more:\n• Additional encounters with event-themed Pokémon\n• Apple
+ s\n• Mossy Lure Modules\n• Super Rocket Radar\n\n━━ SHINY ━━\n
+ ▸ Shiny Debut\nShiny Applin will be available for the first time in Pok
+ émon GO! Evolve Shiny Applin to obtain its Shiny Evolutions.\nPokémon: A
+ pplin\, Flapple\, Appletun\, Dipplin\, Hydrapple\n\n▸ Increased Shiny Ch
+ ance\nThere will be an increased chance to encounter Shiny Smoliv during t
+ he event. Its Shiny Evolutions are shown below as well.\nPokémon: Smoliv\
+ , Dolliv\, Arboliva\n\n🔗 https://leekduck.com/events/harvest-festival-2
+ 026/
+URL:https://leekduck.com/events/harvest-festival-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_master-league_mega-color-cup-great-league-edition@p
+ okemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:GBL: Master League and Mega Color Cup: Great League Edition
+DTSTART:20260929T200000Z
+DTEND:20261006T200000Z
+DESCRIPTION:The Master League and Mega Color Cup: Great League Edition will
+  run from September 29\, 2026\, at 1:00 p.m. to October 6\, 2026\, at 1:00
+  p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this 
+ does not include end-of-set rewards).\n\n▸ Master League\n• All Pokém
+ on are eligible.\n\n▸ Mega Color Cup: Great League Edition\n• Pokémon
+  must be at or below 1\,500 CP to enter.\n• Mega-Evolved Pokémon are al
+ lowed.\n• Only Fire-\, Water-\, Grass-\, and Electric-type Pokémon are 
+ eligible.\n\n🔗 https://leekduck.com/events/gbl-twilight-trails_master-l
+ eague_mega-color-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-twilight-trails_master-league_mega-colo
+ r-cup-great-league-edition/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-victreebel-in-mega-raids-september-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Mega Victreebel in Mega Raids
+DTSTART;TZID=Europe/Lisbon:20260930T060000
+DTEND;TZID=Europe/Lisbon:20261006T220000
+DESCRIPTION:Mega Victreebel will be in Mega Raids from September 30\, 2026 
+ at 6 am to October 6\, 2026 at 10 pm local time.\n\n━━ RAIDS ━━\nM
+ ega Victreebel will be in Mega Raids.\nPokémon: Mega Victreebel\n\n━━
+  SHINY ━━\nIf you’re lucky\, you may encounter Shiny Victreebel.\nPo
+ kémon: Victreebel\, Mega Victreebel\n\n🔗 https://leekduck.com/events/m
+ ega-victreebel-in-mega-raids-september-2026/
+URL:https://leekduck.com/events/mega-victreebel-in-mega-raids-september-202
+ 6/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:xerneas-in-5-star-raid-battles-september-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Xerneas in 5-star Raid Battles
+DTSTART;TZID=Europe/Lisbon:20260930T060000
+DTEND;TZID=Europe/Lisbon:20261006T220000
+DESCRIPTION:Xerneas will be in five-star raid battles from September 30\, 2
+ 026 to October 6\, 2026.\n\n▸ Raid Hours\nThere will also be a Raid Hour
+  featuring Xerneas from 6:00 p.m. to 7:00 p.m. local time on September 30.
+ \n\n━━ RAIDS ━━\nXerneas will be in five-star raid battles.\nPoké
+ mon: Xerneas\n\n━━ SHINY ━━\nIf you’re lucky\, you may encounter
+  a Shiny Xerneas.\nPokémon: Xerneas\n\n🔗 https://leekduck.com/events/x
+ erneas-in-5-star-raid-battles-september-2026/
+URL:https://leekduck.com/events/xerneas-in-5-star-raid-battles-september-20
+ 26/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260930@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Xerneas Raid Hour
+DTSTART;TZID=Europe/Lisbon:20260930T180000
+DTEND;TZID=Europe/Lisbon:20260930T190000
+DESCRIPTION:A Raid Hour featuring Xerneas is scheduled from 6:00 p.m. to 7:
+ 00 p.m. local time. During this hour there will be an increased number of 
+ five-star raids.\n\n🔗 https://leekduck.com/events/raidhour20260930/
+URL:https://leekduck.com/events/raidhour20260930/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvest-festival-taken-over-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Harvest Festival: Taken Over
+DTSTART;TZID=Europe/Lisbon:20261002T000000
+DTEND;TZID=Europe/Lisbon:20261005T200000
+DESCRIPTION:Rescue Shadow Zekrom as Team GO Rocket takes over the Harvest F
+ estival!\nThe Harvest Festival: Taken Over event will take place from Octo
+ ber 2\, 2026 at 12 am to October 5\, 2026 at 8 pm local time.\n\n━━ BO
+ NUSES ━━\n• Increased chance to encounter Shiny Slugma\n• More Tea
+ m GO Rocket appearances at PokéStops and in balloons\n• Use a Charged T
+ M to remove Frustration from Shadow Pokémon\n• Wider Attack\, Defense\,
+  and HP variance for Pokémon caught in one-star and three-star Shadow Rai
+ ds during the event\n\n━━ FEATURES ━━\n▸ Save Shadow Zekrom!\nEa
+ rn a Super Rocket Radar through GO Pass: Harvest Festival to track down Gi
+ ovanni and rescue Shadow Zekrom. Giovanni will only appear at PokéStops.\
+ nGO Pass rewards can be claimed until Wednesday\, October 7\, 2026\, at 8:
+ 00 pm local time.\nShadow Pokémon and Purified Pokémon cannot fuse with 
+ other Pokémon.\nPokémon: Zekrom\n\n━━ SHADOW ━━\nTeam GO Rocket 
+ Grunts and Leaders Sierra\, Cliff\, and Arlo will change their lineups. De
+ feat Grunts to rescue these newly released Shadow Pokémon.\n\n▸ New Sha
+ dow Pokémon\nPokémon: Wimpod\, Fomantis\, Sandygast\nCheck the Team GO R
+ ocket lineups page for updates after the event begins.\n\n━━ SPAWNS 
+ ━━\nEvent-themed wild encounters include the following Pokémon\, with
+  more to discover.\nPokémon: Koffing\, Slugma\, Numel\nLucky Trainers may
+  also encounter Magmar!\nPokémon: Magmar\n\n━━ RESEARCH ━━\n▸ F
+ ield Research Tasks\nEvent Field Research will reward Fast TMs\, Charged T
+ Ms\, and Mysterious Components. Tasks and item quantities have not been an
+ nounced.\n• ??? → Fast TM ×?\, Charged TM ×?\, Mysterious Component 
+ ×?\n\n━━ SHINY ━━\n▸ Shiny Shroodle Debut\nShiny Shroodle will 
+ be available to hatch for the first time in Pokémon GO! Evolve Shiny Shro
+ odle to obtain Shiny Grafaiai.\nPokémon: Shroodle\, Grafaiai\n\n▸ Incre
+ ased Shiny Chance\nSlugma encounters will have an increased chance of bein
+ g Shiny during the event.\nPokémon: Slugma\n\n🔗 https://leekduck.com/e
+ vents/harvest-festival-taken-over-2026/
+URL:https://leekduck.com/events/harvest-festival-taken-over-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:patterns-of-the-wild-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Patterns of the Wild
+DTSTART;TZID=Europe/Lisbon:20261002T100000
+DTEND;TZID=Europe/Lisbon:20261002T200000
+DESCRIPTION:This event is available only in Indonesia.\nNote: The original 
+ announcement was updated to say this event is exclusive to Indonesia. It o
+ riginally gave no indication that it was not a global event.\nPatterns of 
+ the Wild brings a Special Background for Pikachu wearing a batik shirt\, a
+ long with boosted wild encounters\, Incense bonuses\, and research rewards
+ !\nThe event takes place on Friday\, October 2\, 2026\, from 10:00 a.m. to
+  8:00 p.m. local time. Timed Research is available for a longer period\, f
+ rom September 28 through October 7.\n\n━━ BONUSES ━━\n• Incense 
+ will last for two hours\n• Increased chance to encounter Pikachu wearing
+  a batik shirt and other event-themed Pokémon while using Incense\n• In
+ creased chance to encounter Shiny featured wild Pokémon\n\n━━ FEATURE
+ S ━━\n▸ Pikachu with a Special Background\nPikachu wearing a batik s
+ hirt can have a Special Background for the first time in Pokémon GO! Look
+  for it in the wild\, through Timed Research\, and in surprise snapshot en
+ counters. Shiny Pikachu wearing a batik shirt will also be available.\nPok
+ émon: Batik Shirt Pikachu\n\n▸ Surprise Encounters\nTake a snapshot of 
+ one of your own Pokémon during the event for a chance at a surprise encou
+ nter with Pikachu wearing a batik shirt. Snapshots of wild Pokémon will n
+ ot trigger these encounters.\n\n━━ SPAWNS ━━\nThese Pokémon will 
+ appear more often in the wild\, with an increased chance of encountering t
+ heir Shiny variants. Pikachu wearing a batik shirt may have a Special Back
+ ground.\nPokémon: Caterpie\, Batik Shirt Pikachu\, Oddish\, Gloom\, Bells
+ prout\, Ledyba\, Ledian\, Hoppip\, Skiploom\, Sunkern\, Wurmple\n\n━━ 
+ RESEARCH ━━\n▸ Timed Research\nTimed Research will run from Monday\,
+  September 28\, at 6:00 a.m. to Wednesday\, October 7\, 2026\, at 11:59 p.
+ m.\nRewards include an encounter with Pikachu wearing a batik shirt with a
+  Special Background\, encounters with Oddish\, Ledyba\, and Hoppip\, 1\,00
+ 0 XP\, 1\,000 Stardust\, and more. Each of these Pokémon can be Shiny.\n\
+ n▸ Timed Research Encounters\nPokémon: Batik Shirt Pikachu\, Oddish\, L
+ edyba\, Hoppip\n\n▸ Collection Challenge\nCatch the required event-theme
+ d Pokémon to earn XP\, Stardust\, and stickers of Pikachu wearing a batik
+  shirt.\n\n━━ SHINY ━━\nThe featured wild Pokémon have an increas
+ ed Shiny chance during the event.\nPokémon: Caterpie\, Batik Shirt Pikach
+ u\, Oddish\, Gloom\, Bellsprout\, Ledyba\, Ledian\, Hoppip\, Skiploom\, Su
+ nkern\, Wurmple\n\n🔗 https://leekduck.com/events/patterns-of-the-wild-2
+ 026/
+URL:https://leekduck.com/events/patterns-of-the-wild-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gigantamax-cinderace-max-battle-day-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Gigantamax Cinderace Max Battle Day
+DTSTART;TZID=Europe/Lisbon:20261003T140000
+DTEND;TZID=Europe/Lisbon:20261003T170000
+DESCRIPTION:The Gigantamax Cinderace Max Battle Day event will take place o
+ n October 3\, 2026 from 2 pm to 5 pm local time.\n\n━━ BONUSES ━━\
+ nThe following bonuses will be active during the event.\n• Max Particle 
+ collection limit increased to 1\,600\n• All Power Spots will host Gigant
+ amax Battles\n• Power Spots will refresh more frequently\n• Additional
+  Power Spots will be active\n• 8× Max Particles from Power Spots\n• U
+ p to three Special Trades for the day\n• From October 2 at 5:00 p.m. to 
+ October 3 at 8:00 p.m. PDT (GMT −7)\, the daily Remote Raid limit will i
+ ncrease from 10 to 20\nThe following bonuses will be active on October 3\,
+  2026\, from 12:00 a.m. to 5:00 p.m. local time.\n• 2× Max Particles fr
+ om exploring*\n• 1/4 Adventuring distance to receive Max Particles**\n*T
+ rainers can collect Max Particles via the Nearby menu each day by explorin
+ g. Adventure Sync can help make sure your distance counts! Keep an eye on 
+ the Nearby menu for the icon that shows when Max Particles are ready to co
+ llect.\n**For these bonuses to apply\, Trainers must first collect all Max
+  Particles available in the Nearby menu.\n\n▸ Event Ticket\nFor US$4.99 
+ (or the equivalent pricing tier in your local currency)\, you’ll be able
+  to access event-exclusive Timed Research.\nTimed Research rewards include
+  the following.\n• 1 Max Mushroom\n• 25\,000 XP\n• 6\,400 Max Partic
+ les\nYou’ll also receive the following bonus.\n• 2× XP from Max Battl
+ es\nThis Timed Research will be effective on Saturday\, October 3\, 2026\,
+  from 2:00 p.m. to 5:00 p.m. local time.\n\n━━ FEATURES ━━\n▸ Fe
+ atured Pokémon\nThe following Pokémon will appear in six-star Max Battle
+ s!\nPokémon: Gigantamax Cinderace\nFor the first time in Pokémon GO\, yo
+ u’ll be able to encounter Shiny Gigantamax Cinderace—if you’re lucky
+ !\n\n▸ Where can I find Max Battles?\nMax Battles appear at Power Spots 
+ and require teamwork. Use the Pokémon GO Map to find active battles and l
+ ocations where battles may appear during the event.\nYou can also check ne
+ arby events for community meetups hosted by Community Ambassadors\, or fin
+ d your community to coordinate with other Trainers.\n\n━━ RESEARCH ━
+ ━\n▸ Paid Timed Research\nFor US$4.99 (or the equivalent pricing tier 
+ in your local currency)\, you’ll be able to access event-exclusive Timed
+  Research\, which rewards 1 Max Mushroom\, 25\,000 XP\, 6\,400 Max Particl
+ es\, and 2× XP from Max Battles.\nThe Timed Research is available on Satu
+ rday\, October 3\, 2026\, from 2:00 p.m. to 5:00 p.m. local time. Tasks ha
+ ve not yet been announced.\n\n━━ SHINY ━━\nShiny Gigantamax Cinder
+ ace will be released with the start of the event.\nPokémon: Gigantamax Ci
+ nderace\n\n🔗 https://leekduck.com/events/gigantamax-cinderace-max-battl
+ e-day-2026/
+URL:https://leekduck.com/events/gigantamax-cinderace-max-battle-day-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
+ _master-league-mega-edition-split-2@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:GBL: Great League: Mega Edition\, Ultra League: Mega Edition\, and 
+ Master League: Mega Edition
+DTSTART:20261006T200000Z
+DTEND:20261013T200000Z
+DESCRIPTION:The Great League: Mega Edition\, Ultra League: Mega Edition\, a
+ nd Master League: Mega Edition will run from October 6\, 2026\, at 1:00 p.
+ m. to October 13\, 2026\, at 1:00 p.m. PT.\nTrainers will also receive 4×
+  Stardust from win rewards (this does not include end-of-set rewards).\n\n
+ ▸ Great League: Mega Edition\n• Pokémon must be at or below 1\,500 CP
+  to enter.\n• Mega-Evolved Pokémon are allowed.\n\n▸ Ultra League: Me
+ ga Edition\n• Pokémon must be at or below 2\,500 CP to enter.\n• Mega
+ -Evolved Pokémon are allowed.\n\n▸ Master League: Mega Edition\n• No 
+ CP limit.\n• Mega-Evolved Pokémon are allowed.\n\n🔗 https://leekduck
+ .com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-meg
+ a-edition_master-league-mega-edition-split-2/
+URL:https://leekduck.com/events/gbl-twilight-trails_great-league-mega-editi
+ on_ultra-league-mega-edition_master-league-mega-edition-split-2/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:october-communityday2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Zorua Community Day
+DTSTART;TZID=Europe/Lisbon:20261010T140000
+DTEND;TZID=Europe/Lisbon:20261010T170000
+DESCRIPTION:Zorua\, the Tricky Fox Pokémon\, will be featured during Octob
+ er Community Day!\n\n━━ BONUSES ━━\n• Increased Spawns\n• 3x C
+ atch XP\n• 3-hour Incense\n• 1-hour Lures*\n• 2x Catch Candy\n• 2x
+  Chance for Trainers level 31 and up to receive Candy XL from catching Pok
+ émon\n• One additional Special Trade can be made for a maximum of two f
+ or the day*\n• Trades made will require 50% less Stardust*\n* While most
+  bonuses are only active during the three hours of the event (2:00 p.m. to
+  5:00 p.m. local time)\, these bonuses will be active from 2:00 p.m. to 9:
+ 00 p.m. local time.\nThe three-hour Incense bonus excludes Daily Adventure
+  Incense and the one-hour Lure bonus excludes Golden Lure Modules.\n\n━
+ ━ FEATURES ━━\n▸ Featured Attack\nEvolve Zorua during the event or
+  up to four hours afterwards to get a Zoroark that knows the Fast Attack S
+ ucker Punch.\n\n▸ Sucker Punch (Dark-type)\n• Trainer Battles: 8 power
+ \n• Gyms and raids: 5 power\n\n▸ Photobomb\nTake a few snapshots durin
+ g Community Day for a surprise! During the event you can snap an AR Photo 
+ and get photobombed by Zorua.\nPokémon: Zorua\n\n▸ Lure Module Bonus\nF
+ rom 2:00 p.m. to 9:00 p.m. local time\, Zorua will have a very high chance
+  of appearing at PokéStops with active regular Lure Modules.\nZorua attra
+ cted to regular Lure Modules will still have an increased chance to be Shi
+ ny and may have a Special Background. That’s more chances to encounter t
+ he featured Pokémon even after the event hours!\n\n━━ SPAWNS ━━\n
+ Zorua will appear more frequently in the wild.\nZorua in the wild may also
+  have a Special Background.\nPokémon: Zorua\n\n━━ RESEARCH ━━\n
+ ▸ Field Research Tasks\nOctober Community Day–themed Field Research wi
+ ll be available! Catch Zorua to earn rewards such as Stardust\, Ultra Ball
+ s\, additional encounters with Zorua\, and more! You may even find Field R
+ esearch that leads to encounters with Zorua that have a Special Background
+ —if you’re lucky!\n• Catch 3 Zorua → Zorua\, Great Ball ×5\, Ultr
+ a Ball ×2\, Pinap Berry ×2\, Stardust ×500\nThe following tasks will ha
+ ve encounters with Special Backgrounds.\n• Catch 5 Pokemon while in a Pa
+ rty → Zorua\n• Catch 50 Pokemon → Zorua\nFor US$1.99 (or the equival
+ ent pricing tier in your local currency)\, you’ll be able to access the 
+ Zorua Community Day–exclusive Special Research. Complete this research f
+ or even more rewards\, including the following:\n• 3 encounters with Zor
+ ua that have a Special Background (at the end of each page)\n• Additiona
+ l encounters with Zorua\n• 1 Premium Battle Pass\n• 1 Rare Candy XL\n
+ • And even more goodies!\n\n▸ Community Ambassador Check-In Timed Rese
+ arch\nCheck in at a Community Ambassador event to receive Timed Research w
+ ith Zorua encounters featuring a Special Background and other premium item
+  rewards. Find a nearby meetup on the Pokémon GO event map.\n\n━━ SHI
+ NY ━━\nShiny Zorua will be available! Trainers will have an increased 
+ chance of encountering Shiny Zorua during Community Day.\nPokémon: Zorua\
+ , Zoroark\n\n🔗 https://leekduck.com/events/october-communityday2026/
+URL:https://leekduck.com/events/october-communityday2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup@p
+ okemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:GBL: Great League\, Ultra League: Mega Edition\, and Little Cup
+DTSTART:20261013T200000Z
+DTEND:20261020T200000Z
+DESCRIPTION:The Great League\, Ultra League: Mega Edition\, and Little Cup 
+ will run from October 13\, 2026\, at 1:00 p.m. to October 20\, 2026\, at 1
+ :00 p.m. PT.\n\n▸ Great League\n• Pokémon must be at or below 1\,500 
+ CP to enter.\n\n▸ Ultra League: Mega Edition\n• Pokémon must be at or
+  below 2\,500 CP to enter.\n• Mega-Evolved Pokémon are allowed.\n\n▸ 
+ Little Cup\n• Pokémon must be at or below 500 CP to enter.\n• Only Po
+ kémon that are able to evolve and have not evolved even once are eligible
+ .\n\n🔗 https://leekduck.com/events/gbl-twilight-trails_great-league_ult
+ ra-league-mega-edition_little-cup/
+URL:https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-leag
+ ue-mega-edition_little-cup/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hatch-day-october-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Hatch Day
+DTSTART;TZID=Europe/Lisbon:20261017T110000
+DTEND;TZID=Europe/Lisbon:20261017T170000
+DESCRIPTION:The Hatch Day event will take place on October 17\, 2026 from 1
+ 1 am to 5 pm. Stay tuned for more details.\n\n🔗 https://leekduck.com/ev
+ ents/hatch-day-october-2026/
+URL:https://leekduck.com/events/hatch-day-october-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup
+ -great-league-edition@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and Fantasy Cup: 
+ Great League Edition
+DTSTART:20261020T200000Z
+DTEND:20261027T200000Z
+DESCRIPTION:The Ultra League\, Master League: Mega Edition\, and Fantasy Cu
+ p: Great League Edition will run from October 20\, 2026\, at 1:00 p.m. to 
+ October 27\, 2026\, at 1:00 p.m. PT.\nTrainers will also receive 4× Stard
+ ust from win rewards (this does not include end-of-set rewards).\n\n▸ Ul
+ tra League\n• Pokémon must be at or below 2\,500 CP to enter.\n\n▸ Ma
+ ster League: Mega Edition\n• No CP limit.\n• Mega-Evolved Pokémon are
+  allowed.\n\n▸ Fantasy Cup: Great League Edition\n• Pokémon must be a
+ t or below 1\,500 CP to enter.\n• Only Dragon-\, Steel-\, and Fairy-type
+  Pokémon are eligible.\n\n🔗 https://leekduck.com/events/gbl-twilight-t
+ rails_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edi
+ tion/
+URL:https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-lea
+ gue-mega-edition_fantasy-cup-great-league-edition/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-october-24-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Max Battle Day
+DTSTART;TZID=Europe/Lisbon:20261024T140000
+DTEND;TZID=Europe/Lisbon:20261024T170000
+DESCRIPTION:The Max Battle Day event will take place on October 24\, 2026 f
+ rom 2 pm to 5 pm. Stay tuned for more details.\n\n🔗 https://leekduck.co
+ m/events/max-battle-day-october-24-2026/
+URL:https://leekduck.com/events/max-battle-day-october-24-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_master-league_mega-halloween-cup-great-league-editi
+ on@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:GBL: Master League and Mega Halloween Cup: Great League Edition
+DTSTART:20261027T210000Z
+DTEND:20261103T210000Z
+DESCRIPTION:The Master League and Mega Halloween Cup: Great League Edition 
+ will run from October 27\, 2026\, at 1:00 p.m. to November 3\, 2026\, at 1
+ :00 p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (th
+ is does not include end-of-set rewards).\n\n▸ Master League\n• All Pok
+ émon are eligible.\n\n▸ Mega Halloween Cup: Great League Edition\n• P
+ okémon must be at or below 1\,500 CP to enter.\n• Mega-Evolved Pokémon
+  are allowed.\n• Only Bug-\, Poison-\, Ghost-\, Dark-\, and Fairy-type P
+ okémon are eligible.\n\n🔗 https://leekduck.com/events/gbl-twilight-tra
+ ils_master-league_mega-halloween-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-twilight-trails_master-league_mega-hall
+ oween-cup-great-league-edition/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-october-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Super Mega Raid Day
+DTSTART;TZID=Europe/Lisbon:20261031T140000
+DTEND;TZID=Europe/Lisbon:20261031T170000
+DESCRIPTION:The Super Mega Raid Day event will take place on October 31\, 2
+ 026 from 2 pm to 5 pm. Stay tuned for more details.\n\n🔗 https://leekdu
+ ck.com/events/super-mega-raid-day-october-2026/
+URL:https://leekduck.com/events/super-mega-raid-day-october-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
+ _master-league-mega-edition-split-3@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:GBL: Great League: Mega Edition\, Ultra League: Mega Edition\, and 
+ Master League: Mega Edition
+DTSTART:20261103T210000Z
+DTEND:20261110T210000Z
+DESCRIPTION:The Great League: Mega Edition\, Ultra League: Mega Edition\, a
+ nd Master League: Mega Edition will run from November 3\, 2026\, at 1:00 p
+ .m. to November 10\, 2026\, at 1:00 p.m. PT.\nTrainers will also receive 4
+ × Stardust from win rewards (this does not include end-of-set rewards).\n
+ \n▸ Great League: Mega Edition\n• Pokémon must be at or below 1\,500 
+ CP to enter.\n• Mega-Evolved Pokémon are allowed.\n\n▸ Ultra League: 
+ Mega Edition\n• Pokémon must be at or below 2\,500 CP to enter.\n• Me
+ ga-Evolved Pokémon are allowed.\n\n▸ Master League: Mega Edition\n• N
+ o CP limit.\n• Mega-Evolved Pokémon are allowed.\n\n🔗 https://leekdu
+ ck.com/events/gbl-twilight-trails_great-league-mega-edition_ultra-league-m
+ ega-edition_master-league-mega-edition-split-3/
+URL:https://leekduck.com/events/gbl-twilight-trails_great-league-mega-editi
+ on_ultra-league-mega-edition_master-league-mega-edition-split-3/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-wild-area-2026-sendai-japan@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Pokémon GO Wild Area 2026: Sendai • Tohoku
+DTSTART:20261106T010000Z
+DTEND:20261108T090000Z
+DESCRIPTION:GO Wild Area returns in 2026 with Steel- and Dragon-type Pokém
+ on\, the debuts of Dynamax Dialga and Dynamax Palkia\, and powerful mighty
+  Pokémon. Collect GO Safari Balls to help catch these challenging encount
+ ers!\nDates: November 6\, 7\, or 8\, 2026 Time: 10:00 a.m. – 6:00 p.m. J
+ ST (UTC+9) Location: Sendai\, Japan\, with gameplay throughout Miyagi Pref
+ ecture Ticket: ¥4\,000 (including applicable taxes and fees) for one day\
+ nAll event gameplay is exclusive to ticket holders. A standard ticket cove
+ rs one selected day\; Extra Day add-ons extend eligible gameplay to additi
+ onal days. Gameplay is available only within the event area at the date an
+ d time specified on your ticket.\nTicket registration: Register from Septe
+ mber 11 at 8:00 a.m. JST through September 15\, 2026\, at 7:59 a.m. JST. R
+ egistered Trainers will be notified of their purchase window afterward. Ti
+ ckets are first come\, first served\, and registration does not guarantee 
+ availability. Read the ticket registration announcement.\n\n▸ Related Ev
+ ents\n\n━━ BONUSES ━━\n▸ Ticket Holder Bonuses\nThe following bo
+ nuses apply from 10:00 a.m. to 6:00 p.m. local time on your ticketed event
+  day.\n• Increased chance to encounter Shiny Pokémon\n• 1/2 Hatch Dis
+ tance for Eggs placed in Incubators during the event\n• Up to 10 free Ra
+ id Passes per day from Gyms\n• 3/4 Max Particle cost for unlocking and p
+ owering up Max Moves\n• Daily Max Particle collection limit increased to
+  8\,000\n• Increased Max Particles from Power Spots and exploration\n•
+  Increased chance of 10 km Eggs from PokéStops and Gyms\n• Lure Modules
+  last for 2 hours\n• Incense\, excluding Daily Adventure Incense\, lasts
+  for 2 hours\n• 2× Candy for catching Pokémon\n• Party Play lasts fo
+ r 8 hours\n• Chance to encounter mighty Pokémon on Routes\n• 3 GO Sna
+ pshot surprise encounters per day\n• Chance to get GO Safari Balls from 
+ PokéStops and Gyms\n\n▸ Trading Bonuses\nTicket holders receive these b
+ enefits from 12:00 a.m. to 11:59 p.m. local time on their ticketed event d
+ ay.\n• Up to 6 Special Trades per day\n• 1/2 Stardust cost for trades\
+ nShiny encounters are not guaranteed. To use the increased exploration Max
+  Particle bonus\, first collect all available Max Particles in the Nearby 
+ menu. Adventure Sync can help track exploration distance.\n\n━━ FEATUR
+ ES ━━\n▸ Dynamax Dialga and Dynamax Palkia\nDynamax Dialga and Dynam
+ ax Palkia make their Pokémon GO debuts during GO Wild Area 2026. Both can
+  be Shiny!\nBoth Pokémon will appear in Max Battles during the in-person 
+ event.\n\n▸ Machamp Wearing a Modern Jacket\nA new costumed Machamp appe
+ ars in three-star raids during the event. Lucky Trainers may encounter a S
+ hiny one! Ticket holders can also encounter this Machamp as a mighty Poké
+ mon in the wild.\n\n▸ Hisuian Sliggoo and Hisuian Goodra Debut\nHisuian 
+ Sliggoo and Hisuian Goodra debut at the in-person GO Wild Area events. Tic
+ ket holders may find Hisuian Sliggoo in the wild during either habitat hou
+ r\, including its Shiny form.\nUse 100 Goomy Candy to evolve Hisuian Sligg
+ oo into Hisuian Goodra.\nPokémon: Hisuian Sliggoo\, Hisuian Goodra\n\n▸
+  Mighty Latias and Latios\nTicket holders may attract mighty Latias and La
+ tios with Incense\, excluding Daily Adventure Incense\, on their ticketed 
+ event day. Both can be Shiny and are quick to flee\, so keep GO Safari Bal
+ ls ready.\n\n▸ GO Safari Balls\nGO Safari Balls improve the chance of ca
+ tching Pokémon\, especially mighty Pokémon. Ticket holders can obtain th
+ em by spinning PokéStops and Gym Photo Discs during event hours.\nThey ca
+ n only be used from 10:00 a.m. to 6:00 p.m. local time on event days and b
+ ecome inaccessible after the event ends.\n\n▸ Supply Balloons\nTicket ho
+ lders receive hourly Supply Balloons with GO Safari Balls during event hou
+ rs.\n\n▸ GO Snapshot\, Routes\, and Party Play\nTake snapshots for surpr
+ ise encounters with Steel- and Dragon-type Pokémon. Explore Routes for a 
+ chance to find mighty Pokémon\, and enjoy Party Play sessions lasting eig
+ ht hours.\n\n▸ In-Person Experiences\nGameplay extends throughout Miyagi
+  Prefecture\, with in-person activities centered in Sendai.\n\n▸ Pop-Ups
+  and Photo Opportunities\nVisit event pop-ups to meet other Trainers and e
+ njoy themed photo opportunities. Exact pop-up locations will be announced 
+ later.\n\n▸ Community Hub\n…\n\n━━ SPAWNS ━━\n▸ Rotating Hab
+ itat Hours\nSteel- and Dragon-themed encounters rotate hourly from 10:00 a
+ .m. to 6:00 p.m. throughout the event area on your ticketed day.\n\n▸ So
+ lid as Steel Hour\n10:00 a.m. to 11:00 a.m. 12:00 p.m. to 1:00 p.m. 2:00 p
+ .m. to 3:00 p.m. 4:00 p.m. to 5:00 p.m.\nPokémon: Alolan Sandshrew\, Alol
+ an Diglett\, Magnemite\, Shellder\, Onix\, Porygon\, Shuckle\, Skarmory\, 
+ Nosepass\, Aron\, Beldum\, Piplup\, Shieldon\, Bronzor\, Lucario\, Drilbur
+ \, Ferroseed\, Klink\, Galarian Stunfisk\, Durant\, Hisuian Sliggoo\, Rook
+ idee\, Tinkatink\, Orthworm\n\n▸ Daring as Dragons Hour\n11:00 a.m. to 1
+ 2:00 p.m. 1:00 p.m. to 2:00 p.m. 3:00 p.m. to 4:00 p.m. 5:00 p.m. to 6:00 
+ p.m.\nPokémon: Charmander\, Magikarp\, Dratini\, Gligar\, Trapinch\, Swab
+ lu\, Barboach\, Bagon\, Gible\, Tynamo\, Axew\, Heatmor\, Deino\, Skrelp\,
+  Tyrunt\, Amaura\, Goomy\, Hisuian Sliggoo\, Noibat\, Turtonator\, Jangmo-
+ o\, Applin\, Sizzlipede\, Frigibax\n\n▸ Mighty Pokémon\nMighty Pokémon
+  are more likely to have high Attack\, Defense\, and HP ratings and be XL 
+ or XXL. They are harder to catch\, and some may be Shiny. GO Safari Balls 
+ improve your chances of catching them.\nMighty Pokémon can appear during 
+ either habitat hour. The in-person lineup includes mighty Machamp wearing 
+ a modern jacket\, Bastiodon\, and Kommo-o\, plus mighty Lapras in Sendai.\
+ nPokémon: Modern Jacket Machamp\, Alolan Exeggutor\, Lapras\, Azumarill\,
+  Scizor\, Kingdra\, Aggron\, Flygon\, Walrein\, Metagross\, Empoleon\, Bas
+ tiodon\, Magnezone\, Conkeldurr\, Ferrothorn\, Haxorus\, Hydreigon\, Goodr
+ a\, Noivern\, Kommo-o\, Tinkaton\, Clodsire\n\n▸ Incense Encounters\nTic
+ ket holders can attract the following mighty Pokémon during the event. Th
+ ese encounters exclude Daily Adventure Incense.\nPokémon: Lapras\, Azumar
+ ill\, Scizor\, Kingdra\, Aggron\, Flygon\, Empoleon\, Bastiodon\, Conkeldu
+ rr\, Hydreigon\, Kommo-o\n\n…\n\n…
+URL:https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-wild-area-2026-mexico-city@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Pokémon GO Wild Area 2026: Mexico City
+DTSTART:20261106T160000Z
+DTEND:20261109T000000Z
+DESCRIPTION:GO Wild Area returns in 2026 with Steel- and Dragon-type Pokém
+ on\, the debuts of Dynamax Dialga and Dynamax Palkia\, and powerful mighty
+  Pokémon. Collect GO Safari Balls to help catch these challenging encount
+ ers!\nDates: November 6\, 7\, or 8\, 2026 Time: 10:00 a.m. – 6:00 p.m. l
+ ocal time (UTC−6) Location: Mexico City\, Mexico\, with gameplay through
+ out the metropolitan area Ticket: MXN$350 (plus applicable taxes and fees)
+  for one day\nAll event gameplay is exclusive to ticket holders. A standar
+ d ticket covers one selected day\; Extra Day add-ons extend eligible gamep
+ lay to additional days. Gameplay is available only within the event area a
+ t the date and time specified on your ticket.\nTickets are available on th
+ e official event ticket page\, while supplies last.\n\n▸ Related Events\
+ n\n━━ BONUSES ━━\n▸ Ticket Holder Bonuses\nThe following bonuses
+  apply from 10:00 a.m. to 6:00 p.m. local time on your ticketed event day.
+ \n• Increased chance to encounter Shiny Pokémon\n• 1/2 Hatch Distance
+  for Eggs placed in Incubators during the event\n• Up to 10 free Raid Pa
+ sses per day from Gyms\n• 3/4 Max Particle cost for unlocking and poweri
+ ng up Max Moves\n• Daily Max Particle collection limit increased to 8\,0
+ 00\n• Increased Max Particles from Power Spots and exploration\n• Incr
+ eased chance of 10 km Eggs from PokéStops and Gyms\n• Lure Modules last
+  for 2 hours\n• Incense\, excluding Daily Adventure Incense\, lasts for 
+ 2 hours\n• 2× Candy for catching Pokémon\n• Party Play lasts for 8 h
+ ours\n• Chance to encounter mighty Pokémon on Routes\n• 3 GO Snapshot
+  surprise encounters per day\n• Chance to get GO Safari Balls from Poké
+ Stops and Gyms\n\n▸ Trading Bonuses\nTicket holders receive these benefi
+ ts from 12:00 a.m. to 11:59 p.m. local time on their ticketed event day.\n
+ • Up to 6 Special Trades per day\n• 1/2 Stardust cost for trades\nShin
+ y encounters are not guaranteed. To use the increased exploration Max Part
+ icle bonus\, first collect all available Max Particles in the Nearby menu.
+  Adventure Sync can help track exploration distance.\n\n━━ FEATURES 
+ ━━\n▸ Dynamax Dialga and Dynamax Palkia\nDynamax Dialga and Dynamax 
+ Palkia make their Pokémon GO debuts during GO Wild Area 2026. Both can be
+  Shiny!\nBoth Pokémon will appear in Max Battles during the in-person eve
+ nt.\n\n▸ Machamp Wearing a Modern Jacket\nA new costumed Machamp appears
+  in three-star raids during the event. Lucky Trainers may encounter a Shin
+ y one! Ticket holders can also encounter this Machamp as a mighty Pokémon
+  in the wild.\n\n▸ Hisuian Sliggoo and Hisuian Goodra Debut\nHisuian Sli
+ ggoo and Hisuian Goodra debut at the in-person GO Wild Area events. Ticket
+  holders may find Hisuian Sliggoo in the wild during either habitat hour\,
+  including its Shiny form.\nUse 100 Goomy Candy to evolve Hisuian Sliggoo 
+ into Hisuian Goodra.\nPokémon: Hisuian Sliggoo\, Hisuian Goodra\n\n▸ Mi
+ ghty Latias and Latios\nTicket holders may attract mighty Latias and Latio
+ s with Incense\, excluding Daily Adventure Incense\, on their ticketed eve
+ nt day. Both can be Shiny and are quick to flee\, so keep GO Safari Balls 
+ ready.\n\n▸ GO Safari Balls\nGO Safari Balls improve the chance of catch
+ ing Pokémon\, especially mighty Pokémon. Ticket holders can obtain them 
+ by spinning PokéStops and Gym Photo Discs during event hours.\nThey can o
+ nly be used from 10:00 a.m. to 6:00 p.m. local time on event days and beco
+ me inaccessible after the event ends.\n\n▸ Supply Balloons\nTicket holde
+ rs receive hourly Supply Balloons with GO Safari Balls during event hours.
+ \n\n▸ GO Snapshot\, Routes\, and Party Play\nTake snapshots for surprise
+  encounters with Steel- and Dragon-type Pokémon. Explore Routes for a cha
+ nce to find mighty Pokémon\, and enjoy Party Play sessions lasting eight 
+ hours.\n\n▸ In-Person Experiences\nGameplay extends throughout the Mexic
+ o City metropolitan area\, with in-person activities centered in Mexico Ci
+ ty.\n\n▸ Pop-Ups and Photo Opportunities\nVisit event pop-ups to meet ot
+ her Trainers and enjoy themed photo opportunities. Exact pop-up locations 
+ will be announced later.\n\n▸ Community Hub\n…\n\n━━ SPAWNS ━━
+ \n▸ Rotating Habitat Hours\nSteel- and Dragon-themed encounters rotate h
+ ourly from 10:00 a.m. to 6:00 p.m. throughout the event area on your ticke
+ ted day.\n\n▸ Solid as Steel Hour\n10:00 a.m. to 11:00 a.m. 12:00 p.m. t
+ o 1:00 p.m. 2:00 p.m. to 3:00 p.m. 4:00 p.m. to 5:00 p.m.\nPokémon: Alola
+ n Sandshrew\, Alolan Diglett\, Magnemite\, Shellder\, Onix\, Porygon\, Shu
+ ckle\, Skarmory\, Nosepass\, Aron\, Beldum\, Piplup\, Shieldon\, Bronzor\,
+  Lucario\, Drilbur\, Ferroseed\, Klink\, Galarian Stunfisk\, Durant\, Hisu
+ ian Sliggoo\, Rookidee\, Tinkatink\, Orthworm\n\n▸ Daring as Dragons Hou
+ r\n11:00 a.m. to 12:00 p.m. 1:00 p.m. to 2:00 p.m. 3:00 p.m. to 4:00 p.m. 
+ 5:00 p.m. to 6:00 p.m.\nPokémon: Charmander\, Magikarp\, Dratini\, Gligar
+ \, Trapinch\, Swablu\, Barboach\, Bagon\, Gible\, Tynamo\, Axew\, Heatmor\
+ , Deino\, Skrelp\, Tyrunt\, Amaura\, Goomy\, Hisuian Sliggoo\, Noibat\, Tu
+ rtonator\, Jangmo-o\, Applin\, Sizzlipede\, Frigibax\n\n▸ Mighty Pokémo
+ n\nMighty Pokémon are more likely to have high Attack\, Defense\, and HP 
+ ratings and be XL or XXL. They are harder to catch\, and some may be Shiny
+ . GO Safari Balls improve your chances of catching them.\nMighty Pokémon 
+ can appear during either habitat hour. The in-person lineup includes might
+ y Machamp wearing a modern jacket\, Bastiodon\, and Kommo-o\, plus mighty 
+ Hawlucha in Mexico City.\nPokémon: Modern Jacket Machamp\, Alolan Exeggut
+ or\, Azumarill\, Scizor\, Kingdra\, Aggron\, Flygon\, Walrein\, Metagross\
+ , Empoleon\, Bastiodon\, Magnezone\, Conkeldurr\, Ferrothorn\, Haxorus\, H
+ ydreigon\, Hawlucha\, Goodra\, Noivern\, Kommo-o\, Tinkaton\, Clodsire\n\n
+ ▸ Incense Encounters\nTicket holders can attract the following mighty Po
+ kémon during the event. These encounters exclude Daily Adventure Incense.
+ \nPokémon: Azumarill\, Scizor\, Kingdra\, Aggron\, Flygon\, Empoleon\, Ba
+ stiodon\, Conkeldurr\, Hydreigon\, Hawlucha\, Kommo-o\n\n…\n\n━━ EGG
+ S ━━\nThe following Pokémon hatch from 10 km Eggs obtained during the
+  event. Ticket holders have an increased chance of receiving 10 km Eggs fr
+ om PokéStops and Gyms.\n\n▸ 10 km Eggs\n…
+URL:https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic
+ -cup@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:GBL: Great League\, Ultra League: Mega Edition\, and 2026 GO LAIC C
+ up
+DTSTART:20261110T210000Z
+DTEND:20261117T210000Z
+DESCRIPTION:The Great League\, Ultra League: Mega Edition\, and 2026 GO LAI
+ C Cup will run from November 10\, 2026\, at 1:00 p.m. to November 17\, 202
+ 6\, at 1:00 p.m. PT.\n\n▸ Great League\n• Pokémon must be at or below
+  1\,500 CP to enter.\n\n▸ Ultra League: Mega Edition\n• Pokémon must 
+ be at or below 2\,500 CP to enter.\n• Mega-Evolved Pokémon are allowed.
+ \n\n▸ 2026 GO LAIC Cup\n• Pokémon must be at or below 1\,500 CP to en
+ ter.\n• Fire-\, Dark-\, Steel-\, and Fairy-type Pokémon are not eligibl
+ e.\n• Legendary Pokémon\, Mythical Pokémon\, and Ultra Beasts are not 
+ eligible.\n• Mega-Evolved Pokémon are not eligible for the GO Battle Le
+ ague version of this Cup. However\, Mega-Evolved Pokémon will be eligible
+  for the Pokémon Latin America International Championships 2026 in-person
+  competition.\nThe following Pokémon will not be allowed.\nPokémon: Chan
+ sey\, Snorlax\, Furret\, Wobbuffet\, Galarian Corsola\, Kingdra\, Medicham
+ \, Altaria\, Dusclops\, Jellicent\, Araquanid\, Oranguru\, Annihilape\, Cl
+ odsire\n\n🔗 https://leekduck.com/events/gbl-twilight-trails_great-leagu
+ e_ultra-league-mega-edition_2026-go-laic-cup/
+URL:https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-leag
+ ue-mega-edition_2026-go-laic-cup/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-wild-area-2026-global@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Pokémon GO Wild Area 2026: Global
+DTSTART;TZID=Europe/Lisbon:20261114T100000
+DTEND;TZID=Europe/Lisbon:20261115T180000
+DESCRIPTION:GO Wild Area returns in 2026 with Steel- and Dragon-type Pokém
+ on\, the debuts of Dynamax Dialga and Dynamax Palkia\, and powerful mighty
+  Pokémon. Collect GO Safari Balls to help catch these challenging encount
+ ers!\nDates: November 14 and 15\, 2026 Time: 10:00 a.m. – 6:00 p.m. loca
+ l time each day Location: Worldwide\nAll Trainers can participate in the g
+ lobal event. An optional US$11.99 ticket adds Special Research\, increased
+  Shiny chances\, extra Incense encounters\, and additional bonuses across 
+ both days. Purchase a ticket from the Pokémon GO Web Store.\n\n▸ Relate
+ d Events\n\n━━ BONUSES ━━\n▸ Bonuses for All Trainers\nThe follo
+ wing bonuses apply from 10:00 a.m. to 6:00 p.m. local time on both event d
+ ays.\n• Chance to get GO Safari Balls from PokéStops and Gyms\n• Up t
+ o 3 free Raid Passes per day from Gyms\n• Daily Max Particle collection 
+ limit increased to 1\,600\n• 3 GO Snapshot surprise encounters per day\n
+ • Party Play lasts for 8 hours\n• Chance to encounter mighty Pokémon 
+ on Routes\nDaily Discoveries will be paused from November 9 at 12:01 a.m. 
+ through November 15\, 2026\, at 11:59 p.m. local time.\n\n▸ Additional T
+ icket Holder Bonuses\nThese benefits apply from 10:00 a.m. to 6:00 p.m. lo
+ cal time on both event days. The ticketed Raid Pass and Max Particle limit
+ s replace the free limits.\n• Increased chance to encounter Shiny Pokém
+ on\n• Daily Max Particle collection limit increased to 3\,200\n• Incre
+ ased Max Particles from Power Spots and exploration\n• Up to 6 free Raid
+  Passes per day from Gyms\n• 2× Candy for catching Pokémon\n• 2× In
+ cense duration\n• Increased chance of 10 km Eggs from PokéStops and Gym
+ s\n• 6 GO Snapshot surprise encounters per day\n• Lure Modules last fo
+ r 2 hours\n\n▸ Trading Bonuses\nTicket holders receive these benefits fr
+ om 12:00 a.m. to 11:59 p.m. local time on both event days.\n• Up to 6 Sp
+ ecial Trades per day\n• 1/2 Stardust cost for trades\nShiny encounters a
+ re not guaranteed. To use the increased exploration Max Particle bonus\, f
+ irst collect all available Max Particles in the Nearby menu. Adventure Syn
+ c can help track exploration distance.\n\n━━ FEATURES ━━\n▸ Dyna
+ max Dialga and Dynamax Palkia\nDynamax Dialga and Dynamax Palkia make thei
+ r Pokémon GO debuts during GO Wild Area 2026. Both can be Shiny!\nFor Glo
+ bal\, Dynamax Dialga appears on Saturday\, November 14\, and Dynamax Palki
+ a appears on Sunday\, November 15.\n\n▸ Machamp Wearing a Modern Jacket\
+ nA new costumed Machamp appears in three-star raids during the event. Luck
+ y Trainers may encounter a Shiny one!\n\n▸ Mighty Latias and Latios\nTic
+ ket holders may attract mighty Latias and Latios with Incense\, excluding 
+ Daily Adventure Incense\, on both event days. Both can be Shiny and are qu
+ ick to flee\, so keep GO Safari Balls ready.\n\n▸ GO Safari Balls\nGO Sa
+ fari Balls improve the chance of catching Pokémon\, especially mighty Pok
+ émon. All Trainers can obtain them by spinning PokéStops and Gym Photo D
+ iscs during event hours.\nThey can only be used from 10:00 a.m. to 6:00 p.
+ m. local time on event days and become inaccessible after the event ends.\
+ n\n▸ Supply Balloons\nTicket holders receive hourly Supply Balloons with
+  GO Safari Balls during event hours.\n\n▸ GO Snapshot\, Routes\, and Par
+ ty Play\nTake snapshots for surprise encounters with Steel- and Dragon-typ
+ e Pokémon. Explore Routes for a chance to find mighty Pokémon\, and enjo
+ y Party Play sessions lasting eight hours.\n\n━━ SPAWNS ━━\n▸ Ro
+ tating Habitat Hours\nSteel- and Dragon-themed encounters rotate hourly fr
+ om 10:00 a.m. to 6:00 p.m. on both event days.\n\n▸ Solid as Steel Hour\
+ n10:00 a.m. to 11:00 a.m. 12:00 p.m. to 1:00 p.m. 2:00 p.m. to 3:00 p.m. 4
+ :00 p.m. to 5:00 p.m.\nPokémon: Alolan Sandshrew\, Alolan Diglett\, Magne
+ mite\, Shellder\, Onix\, Porygon\, Shuckle\, Skarmory\, Nosepass\, Aron\, 
+ Beldum\, Piplup\, Shieldon\, Bronzor\, Lucario\, Drilbur\, Ferroseed\, Kli
+ nk\, Galarian Stunfisk\, Durant\, Rookidee\, Tinkatink\n\n▸ Daring as Dr
+ agons Hour\n11:00 a.m. to 12:00 p.m. 1:00 p.m. to 2:00 p.m. 3:00 p.m. to 4
+ :00 p.m. 5:00 p.m. to 6:00 p.m.\nPokémon: Charmander\, Magikarp\, Dratini
+ \, Gligar\, Trapinch\, Swablu\, Barboach\, Bagon\, Gible\, Tynamo\, Axew\,
+  Heatmor\, Deino\, Skrelp\, Tyrunt\, Amaura\, Goomy\, Noibat\, Turtonator\
+ , Jangmo-o\, Sizzlipede\, Frigibax\n\n▸ Mighty Pokémon\nMighty Pokémon
+  are more likely to have high Attack\, Defense\, and HP ratings and be XL 
+ or XXL. They are harder to catch\, and some may be Shiny. GO Safari Balls 
+ improve your chances of catching them.\nThe wild mighty Pokémon lineup ch
+ anges each day.\n\n▸ Saturday\, November 14\nPokémon: Alolan Exeggutor\
+ , Scizor\, Flygon\, Walrein\, Metagross\, Empoleon\, Magnezone\, Conkeldur
+ r\, Haxorus\n\n▸ Sunday\, November 15\nPokémon: Azumarill\, Kingdra\, A
+ ggron\, Ferrothorn\, Hydreigon\, Goodra\, Noivern\, Tinkaton\, Clodsire\n\
+ n▸ Incense Encounters\nAll Trainers can attract these mighty Pokémon on
+  both event days. These encounters exclude Daily Adventure Incense.\nPoké
+ mon: Alolan Exeggutor\, Azumarill\, Scizor\, Kingdra\, Aggron\, Flygon\, E
+ mpoleon\, Magnezone\, Conkeldurr\, Hydreigon\n\n▸ Ticket Holder Incense 
+ Encounters\nTicket holders can also attract the following Unown on both da
+ ys.\nPokémon: Unown D\, Unown I\, Unown L\, Unown W\nLucky ticket holders
+  may also encounter these mighty Legendary Pokémon from Incense:\n…\n\n
+ ━━ EGGS ━━\nThe following Pokémon hatch from 10 km Eggs obtained 
+ during the event. Ticket holders have an increased chance of receiving 10 
+ km Eggs from PokéStops and Gyms.\n\n▸ 10 km Eggs\nPokémon: Honedge\, K
+ lefki\, Drampa\, Duraludon\n\n━━ RAIDS ━━\n▸ Three-Star Raids\nM
+ achamp wearing a modern jacket appears in three-star raids during event ho
+ urs and may be Shiny.\nPokémon: Modern Jacket Machamp\n\n▸ Max Battles\
+ n\n▸ Saturday\, November 14\nDynamax Dialga will appear in Max Battles.\
+ nPokémon: Dialga\n\n▸ Sunday\, November 15\nDynamax Palkia will appear 
+ in Max Battles.\nPokémon: Palkia\n\n━━ RESEARCH ━━\n▸ Special R
+ esearch — Ticket Holders\nClaim the event Special Research beginning Nov
+ ember 14\, 2026. Choose a Steel-type or Dragon-type path and earn the corr
+ esponding in-game medal.\n…
+URL:https://leekduck.com/events/pokemon-go-wild-area-2026-global/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-lai
+ c-cup@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and 2026 GO LAIC 
+ Cup
+DTSTART:20261118T210000Z
+DTEND:20261125T210000Z
+DESCRIPTION:The Ultra League\, Master League: Mega Edition\, and 2026 GO LA
+ IC Cup will run from November 18\, 2026\, at 1:00 p.m. to November 25\, 20
+ 26\, at 1:00 p.m. PT.\nTrainers will also receive 4× Stardust from win re
+ wards (this does not include end-of-set rewards).\n\n▸ Ultra League\n•
+  Pokémon must be at or below 2\,500 CP to enter.\n\n▸ Master League: Me
+ ga Edition\n• No CP limit.\n• Mega-Evolved Pokémon are allowed.\n\n
+ ▸ 2026 GO LAIC Cup\n• Pokémon must be at or below 1\,500 CP to enter.
+ \n• Fire-\, Dark-\, Steel-\, and Fairy-type Pokémon are not eligible.\n
+ • Legendary Pokémon\, Mythical Pokémon\, and Ultra Beasts are not elig
+ ible.\n• Mega-Evolved Pokémon are not eligible for the GO Battle League
+  version of this Cup. However\, Mega-Evolved Pokémon will be eligible for
+  the Pokémon Latin America International Championships 2026 in-person com
+ petition.\nThe following Pokémon will not be allowed.\nPokémon: Chansey\
+ , Snorlax\, Furret\, Wobbuffet\, Galarian Corsola\, Kingdra\, Medicham\, A
+ ltaria\, Dusclops\, Jellicent\, Araquanid\, Oranguru\, Annihilape\, Clodsi
+ re\n\n🔗 https://leekduck.com/events/gbl-twilight-trails_ultra-league_ma
+ ster-league-mega-edition_2026-go-laic-cup/
+URL:https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-lea
+ gue-mega-edition_2026-go-laic-cup/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:november-communityday2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:November Community Day
+DTSTART;TZID=Europe/Lisbon:20261121T140000
+DTEND;TZID=Europe/Lisbon:20261121T170000
+DESCRIPTION:The November Community Day event will take place on November 21
+ \, 2026 from 2 pm to 5 pm. Stay tuned for more details.\n\n🔗 https://le
+ ekduck.com/events/november-communityday2026/
+URL:https://leekduck.com/events/november-communityday2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition@p
+ okemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:GBL: Master League and Mega Catch Cup: Great League Edition
+DTSTART:20261124T210000Z
+DTEND:20261201T210000Z
+DESCRIPTION:The Master League and Mega Catch Cup: Great League Edition will
+  run from November 24\, 2026\, at 1:00 p.m. to December 1\, 2026\, at 1:00
+  p.m. PT.\nTrainers will also receive 4× Stardust from win rewards (this 
+ does not include end-of-set rewards).\n\n▸ Master League\n• All Pokém
+ on are eligible.\n\n▸ Mega Catch Cup: Great League Edition\n• Pokémon
+  must be at or below 1\,500 CP to enter.\n• Mega-Evolved Pokémon are al
+ lowed.\n• Only Pokémon caught during the Twilight Trails Season are eli
+ gible.*\n• Mythical Pokémon are not eligible.\n*Pokémon must be caught
+  between September 8\, 2026\, at 1:00 p.m. and December 1\, 2026\, at 1:00
+  p.m. PST.\n\n🔗 https://leekduck.com/events/gbl-twilight-trails_master-
+ league_mega-catch-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catc
+ h-cup-great-league-edition/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-november-2026@pokemon-go-calendar
+DTSTAMP:20260917T122230Z
+SUMMARY:Super Mega Raid Day
+DTSTART;TZID=Europe/Lisbon:20261128T140000
+DTEND;TZID=Europe/Lisbon:20261128T170000
+DESCRIPTION:The Super Mega Raid Day event will take place on November 28\, 
+ 2026 from 2 pm to 5 pm. Stay tuned for more details.\n\n🔗 https://leekd
+ uck.com/events/super-mega-raid-day-november-2026/
+URL:https://leekduck.com/events/super-mega-raid-day-november-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
