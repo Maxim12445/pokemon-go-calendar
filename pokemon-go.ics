@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:lego-pokemon-go-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:LEGO Stores and Pokémon GO
 DTSTART;TZID=Europe/Lisbon:20260803T100000
 DTEND;TZID=Europe/Lisbon:20260930T235900
@@ -88,7 +88,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-tuesday@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Showcase Tuesday (daily bonus)
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-september-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:GO Pass: September
 DTSTART;TZID=Europe/Lisbon:20260908T100000
 DTEND;TZID=Europe/Lisbon:20261006T100000
@@ -159,7 +159,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:season-24-twilight-trails@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Season: Twilight Trails
 DTSTART;TZID=Europe/Lisbon:20260908T100000
 DTEND;TZID=Europe/Lisbon:20261201T100000
@@ -227,7 +227,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-wednesday@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Wednesday: Raid Hour (daily bonus)
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
@@ -246,7 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026@pokemon
  -go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Shadow Thundurus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Europe/Lisbon:20260909T060000
 DTEND;TZID=Europe/Lisbon:20261006T220000
@@ -265,7 +265,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-thursday@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:GO Battle Thursdays and Spotlight Hour (daily bonus)
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
@@ -281,7 +281,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-friday@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Friendship Friday (daily bonus)
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
@@ -299,7 +299,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-sunday@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Scenic Sunday (daily bonus)
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
@@ -318,7 +318,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-monday@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Max Monday (daily bonus)
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
@@ -339,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cu
  p-great-league-edition@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:GBL: Great League\, Ultra League: Mega Edition\, and Willpower Cup:
   Great League Edition
 DTSTART:20260915T200000Z
@@ -361,7 +361,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-venusaur-in-mega-raids-september-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Mega Venusaur in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20260916T060000
 DTEND;TZID=Europe/Lisbon:20260922T220000
@@ -378,7 +378,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026@po
  kemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Zamazenta (Hero of Many Battles) in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20260916T060000
 DTEND;TZID=Europe/Lisbon:20260922T220000
@@ -398,7 +398,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-horizons-the-series-celebration-event-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Pokémon Horizons: The Series Celebration Event 2026
 DTSTART;TZID=Europe/Lisbon:20260916T100000
 DTEND;TZID=Europe/Lisbon:20260922T200000
@@ -495,7 +495,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-17@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Charmander wearing Friede's goggles Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20260917T180000
 DTEND;TZID=Europe/Lisbon:20260917T190000
@@ -511,7 +511,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:staraptor-super-mega-raid-day-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Staraptor Super Mega Raid Day
 DTSTART;TZID=Europe/Lisbon:20260919T140000
 DTEND;TZID=Europe/Lisbon:20260919T170000
@@ -529,32 +529,33 @@ DESCRIPTION:Ready yourself to courageously challenge Staraptor Super Mega R
  nal 5\,000 Stardust from Super Mega Raid Battles\nThese bonuses will be ef
  fective on Saturday\, September 19\, 2026\, from 2:00 p.m. to 5:00 p.m. lo
  cal time.\n\n━━ FEATURES ━━\n▸ Mega-Evolved Pokémon Debut\nThe 
- following Pokémon will make its Pokémon GO debut in Super Mega Raids!\n\
- n▸ New Mega Level: Super Max\nMega Staraptor’s Mega Level can be incre
- ased all the way to Super Max Level for the first time in Pokémon GO!\nPo
- kémon that are eligible to unlock Super Max Level can learn an additional
-  Charged Attack while they are Mega Evolved.\nStaraptor can use the additi
- onal Charged Attack Brave Bird+ while it is Mega Evolved.\n• Trainer Bat
- tles: 70 power and decreases the user’s Defense by three stages\n• Rai
- d Battles: 150 power\nThe power of this attack will increase with Starapto
- r’s Mega Level.\nYou must increase a Pokémon’s Mega Level to Max befo
- re you can increase it to Super Max. Participating in Mega Raids awards th
- e Mega Energy needed to power up eligible Pokémon beyond what Mega Evolvi
- ng alone can provide.\n\n▸ Where can I find Super Mega Raids?\nSuper Meg
- a Raids will take great teamwork and may only appear at certain Gyms.\n\n
- ━━ RAIDS ━━\n▸ Featured Pokémon\nMega Staraptor will make its P
- okémon GO debut in Super Mega Raids.\n\n━━ RESEARCH ━━\nTimed Res
- earch will be available to Trainers during the event. Complete the researc
- h tasks to earn a Premium Battle Pass and an encounter with Gardevoir.\n\n
- ━━ SHINY ━━\nTrainers will have an increased chance of encounterin
- g Shiny Staraptor from Super Mega Raids.\nPokémon: Staraptor\n\n🔗 http
- s://leekduck.com/events/staraptor-super-mega-raid-day-2026/
+ following Pokémon will make its Pokémon GO debut in Super Mega Raids!\nP
+ okémon: Mega Staraptor\n\n▸ New Mega Level: Super Max\nMega Staraptor
+ ’s Mega Level can be increased all the way to Super Max Level for the fi
+ rst time in Pokémon GO!\nPokémon that are eligible to unlock Super Max L
+ evel can learn an additional Charged Attack while they are Mega Evolved.\n
+ Staraptor can use the additional Charged Attack Brave Bird+ while it is Me
+ ga Evolved.\n• Trainer Battles: 70 power and decreases the user’s Defe
+ nse by three stages\n• Raid Battles: 150 power\nThe power of this attack
+  will increase with Staraptor’s Mega Level.\nYou must increase a Pokémo
+ n’s Mega Level to Max before you can increase it to Super Max. Participa
+ ting in Mega Raids awards the Mega Energy needed to power up eligible Pok
+ émon beyond what Mega Evolving alone can provide.\n\n▸ Where can I find
+  Super Mega Raids?\nSuper Mega Raids will take great teamwork and may only
+  appear at certain Gyms.\n\n━━ RAIDS ━━\n▸ Featured Pokémon\nMe
+ ga Staraptor will make its Pokémon GO debut in Super Mega Raids.\nPokémo
+ n: Mega Staraptor\n\n━━ RESEARCH ━━\nTimed Research will be availa
+ ble to Trainers during the event. Complete the research tasks to earn a Pr
+ emium Battle Pass and an encounter with Gardevoir.\n\n━━ SHINY ━━\
+ nTrainers will have an increased chance of encountering Shiny Staraptor fr
+ om Super Mega Raids.\nPokémon: Staraptor\, Mega Staraptor\n\n🔗 https:/
+ /leekduck.com/events/staraptor-super-mega-raid-day-2026/
 URL:https://leekduck.com/events/staraptor-super-mega-raid-day-2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-09-21@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Dynamax Articuno\, Zapdos\, and Moltres during Max Monday
 DTSTART;TZID=Europe/Lisbon:20260921T060000
 DTEND;TZID=Europe/Lisbon:20260921T210000
@@ -572,7 +573,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-g
  reat-league-edition@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and Retro Cup: Gr
  eat League Edition
 DTSTART:20260922T200000Z
@@ -593,7 +594,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-malamar-in-mega-raids-september-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Mega Malamar in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20260923T060000
 DTEND;TZID=Europe/Lisbon:20260929T220000
@@ -609,7 +610,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026@poke
  mon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Xurkitree\, Pheromosa\, and Buzzwole in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20260923T060000
 DTEND;TZID=Europe/Lisbon:20260929T220000
@@ -632,7 +633,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-twilight-trails-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Choose Your Path: Twilight Trails
 DTSTART;TZID=Europe/Lisbon:20260923T100000
 DTEND;TZID=Europe/Lisbon:20260928T200000
@@ -653,7 +654,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260923@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Xurkitree\, Pheromosa\, and Buzzwole Raid Hour
 DTSTART;TZID=Europe/Lisbon:20260923T180000
 DTEND;TZID=Europe/Lisbon:20260923T190000
@@ -667,7 +668,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-24@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Rattata Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20260924T180000
 DTEND;TZID=Europe/Lisbon:20260924T190000
@@ -683,7 +684,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-phantump-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Phantump Catch Mastery
 DTSTART;TZID=Europe/Lisbon:20260926T100000
 DTEND;TZID=Europe/Lisbon:20260926T200000
@@ -718,23 +719,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-09-28@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Dynamax Sobble during Max Monday
 DTSTART;TZID=Europe/Lisbon:20260928T060000
 DTEND;TZID=Europe/Lisbon:20260928T210000
-DESCRIPTION:These Dynamax Pokémon may appear in Max Battles throughout thi
- s season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local 
- time on Mondays.\n• Power Spots will refresh more frequently.\n• Addit
- ional Power Spots will be active on Mondays compared to the rest of the we
- ek.\n• Max Battles will rotate to feature different Dynamax Pokémon.\nO
- n September 28\, 2026\, the featured Dynamax Pokémon is Sobble.\nPokémon
- : Sobble\n\n🔗 https://leekduck.com/events/max-mondays-2026-09-28/
+DESCRIPTION:Dynamax Sobble may appear in Max Battles from September 28\, 20
+ 26 through October 4\, 2026.\nThese Dynamax Pokémon may appear in Max Bat
+ tles throughout this season. Max Battles will be available from 6:00 a.m. 
+ to 9:00 p.m. local time on Mondays.\n• Power Spots will refresh more fre
+ quently.\n• Additional Power Spots will be active on Mondays compared to
+  the rest of the week.\n• Max Battles will rotate to feature different D
+ ynamax Pokémon.\nOn September 28\, 2026\, the featured Dynamax Pokémon i
+ s Sobble.\nPokémon: Sobble\n\n🔗 https://leekduck.com/events/max-monday
+ s-2026-09-28/
 URL:https://leekduck.com/events/max-mondays-2026-09-28/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Harvest Festival 2026: Applin Picking
 DTSTART;TZID=Europe/Lisbon:20260929T100000
 DTEND;TZID=Europe/Lisbon:20261005T200000
@@ -793,7 +796,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-color-cup-great-league-edition@p
  okemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:GBL: Master League and Mega Color Cup: Great League Edition
 DTSTART:20260929T200000Z
 DTEND:20261006T200000Z
@@ -812,7 +815,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-victreebel-in-mega-raids-september-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Mega Victreebel in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20260930T060000
 DTEND;TZID=Europe/Lisbon:20261006T220000
@@ -828,7 +831,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:xerneas-in-5-star-raid-battles-september-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Xerneas in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20260930T060000
 DTEND;TZID=Europe/Lisbon:20261006T220000
@@ -845,7 +848,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260930@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Xerneas Raid Hour
 DTSTART;TZID=Europe/Lisbon:20260930T180000
 DTEND;TZID=Europe/Lisbon:20260930T190000
@@ -856,8 +859,23 @@ URL:https://leekduck.com/events/raidhour20260930/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-01@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Seedot Spotlight Hour
+DTSTART;TZID=Europe/Lisbon:20261001T180000
+DTEND;TZID=Europe/Lisbon:20261001T190000
+DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and s
+ pecial bonus for one hour at 6:00 p.m. local time.\nOctober 1: The feature
+ d Pokémon is Seedot and the special bonus is 2× Catch XP.\n\n━━ SPAW
+ NS ━━\nThe following Pokémon will appear more frequently in the wild.
+ \nPokémon: Seedot\n\n🔗 https://leekduck.com/events/pokemonspotlighthou
+ r2026-10-01/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-01/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:harvest-festival-taken-over-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Harvest Festival: Taken Over
 DTSTART;TZID=Europe/Lisbon:20261002T000000
 DTEND;TZID=Europe/Lisbon:20261005T200000
@@ -895,7 +913,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:patterns-of-the-wild-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Patterns of the Wild
 DTSTART;TZID=Europe/Lisbon:20261002T100000
 DTEND;TZID=Europe/Lisbon:20261002T200000
@@ -940,7 +958,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-cinderace-max-battle-day-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Gigantamax Cinderace Max Battle Day
 DTSTART;TZID=Europe/Lisbon:20261003T140000
 DTEND;TZID=Europe/Lisbon:20261003T170000
@@ -987,9 +1005,40 @@ URL:https://leekduck.com/events/gigantamax-cinderace-max-battle-day-2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:unannounced-event-october-2026@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:???
+DTSTART;TZID=Europe/Lisbon:20261004T000000
+DTEND;TZID=Europe/Lisbon:20261010T235900
+DESCRIPTION:An unannounced event will take place from October 4\, 2026 thro
+ ugh October 10\, 2026. Event times and further details have not been annou
+ nced. Stay tuned for more details.\n\n🔗 https://leekduck.com/events/una
+ nnounced-event-october-2026/
+URL:https://leekduck.com/events/unannounced-event-october-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-10-05@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Dynamax Sizzlipede during Max Monday
+DTSTART;TZID=Europe/Lisbon:20261005T060000
+DTEND;TZID=Europe/Lisbon:20261005T210000
+DESCRIPTION:Dynamax Sizzlipede may appear in Max Battles from October 5\, 2
+ 026 through October 11\, 2026.\nThese Dynamax Pokémon may appear in Max B
+ attles throughout this season. Max Battles will be available from 6:00 a.m
+ . to 9:00 p.m. local time on Mondays.\n• Power Spots will refresh more f
+ requently.\n• Additional Power Spots will be active on Mondays compared 
+ to the rest of the week.\n• Max Battles will rotate to feature different
+  Dynamax Pokémon.\nOn October 5\, 2026\, the featured Dynamax Pokémon is
+  Sizzlipede.\nPokémon: Sizzlipede\n\n🔗 https://leekduck.com/events/max
+ -mondays-2026-10-05/
+URL:https://leekduck.com/events/max-mondays-2026-10-05/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
  _master-league-mega-edition-split-2@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:GBL: Great League: Mega Edition\, Ultra League: Mega Edition\, and 
  Master League: Mega Edition
 DTSTART:20261006T200000Z
@@ -1010,8 +1059,87 @@ URL:https://leekduck.com/events/gbl-twilight-trails_great-league-mega-editi
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mega-blastoise-in-mega-raids-october-2026@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Mega Blastoise in Mega Raids
+DTSTART;TZID=Europe/Lisbon:20261007T060000
+DTEND;TZID=Europe/Lisbon:20261013T220000
+DESCRIPTION:Mega Blastoise will be in Mega Raids from October 7\, 2026 at 6
+  am to October 13\, 2026 at 10 pm local time.\n\n━━ RAIDS ━━\nMega
+  Blastoise will be in Mega Raids.\nPokémon: Mega Blastoise\n\n━━ SHIN
+ Y ━━\nIf you’re lucky\, you may encounter Shiny Blastoise.\nPokémon
+ : Blastoise\, Mega Blastoise\n\n🔗 https://leekduck.com/events/mega-blas
+ toise-in-mega-raids-october-2026/
+URL:https://leekduck.com/events/mega-blastoise-in-mega-raids-october-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:yveltal-in-5-star-raid-battles-october-2026@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Yveltal in 5-star Raid Battles
+DTSTART;TZID=Europe/Lisbon:20261007T060000
+DTEND;TZID=Europe/Lisbon:20261013T220000
+DESCRIPTION:Yveltal will be in five-star raid battles from October 7\, 2026
+  to October 13\, 2026.\n\n▸ Raid Hours\nThere will also be a Raid Hour f
+ eaturing Yveltal from 6:00 p.m. to 7:00 p.m. local time on October 7.\n\n
+ ━━ RAIDS ━━\nYveltal will be in five-star raid battles.\nPokémon:
+  Yveltal\n\n━━ SHINY ━━\nIf you’re lucky\, you may encounter a S
+ hiny Yveltal.\nPokémon: Yveltal\n\n🔗 https://leekduck.com/events/yvelt
+ al-in-5-star-raid-battles-october-2026/
+URL:https://leekduck.com/events/yveltal-in-5-star-raid-battles-october-2026
+ /
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-landorus-incarnate-forme-in-shadow-raids-october-2026@pokemon-go
+ -calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Shadow Landorus (Incarnate Forme) in Shadow Raids
+DTSTART;TZID=Europe/Lisbon:20261007T060000
+DTEND;TZID=Europe/Lisbon:20261103T220000
+DESCRIPTION:Shadow Landorus (Incarnate Forme) will appear in five-star Shad
+ ow Raids every weekend from October 7\, 2026 to November 3\, 2026. If you
+ ’re lucky\, you may encounter Shiny Shadow Landorus (Incarnate Forme)!\n
+ \n━━ RAIDS ━━\n▸ Appearing in 5-Star Shadow Raids\nShadow Landor
+ us (Incarnate Forme) will appear in Shadow Raids.\nPokémon: Landorus (Inc
+ arnate)\n\n━━ SHINY ━━\nIf you’re lucky\, you may encounter Shin
+ y Shadow Landorus (Incarnate Forme)!\nPokémon: Landorus (Incarnate)\n\n
+ 🔗 https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow
+ -raids-october-2026/
+URL:https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-r
+ aids-october-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261007@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Yveltal Raid Hour
+DTSTART;TZID=Europe/Lisbon:20261007T180000
+DTEND;TZID=Europe/Lisbon:20261007T190000
+DESCRIPTION:A Raid Hour featuring Yveltal is scheduled from 6:00 p.m. to 7:
+ 00 p.m. local time. During this hour there will be an increased number of 
+ five-star raids.\n\n🔗 https://leekduck.com/events/raidhour20261007/
+URL:https://leekduck.com/events/raidhour20261007/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-08@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Elgyem Spotlight Hour
+DTSTART;TZID=Europe/Lisbon:20261008T180000
+DTEND;TZID=Europe/Lisbon:20261008T190000
+DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and s
+ pecial bonus for one hour at 6:00 p.m. local time.\nOctober 8: The feature
+ d Pokémon is Elgyem and the special bonus is 2× Catch Candy.\n\n━━ S
+ PAWNS ━━\nThe following Pokémon will appear more frequently in the wi
+ ld.\nPokémon: Elgyem\n\n🔗 https://leekduck.com/events/pokemonspotlight
+ hour2026-10-08/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-08/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:october-communityday2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Zorua Community Day
 DTSTART;TZID=Europe/Lisbon:20261010T140000
 DTEND;TZID=Europe/Lisbon:20261010T170000
@@ -1062,9 +1190,40 @@ URL:https://leekduck.com/events/october-communityday2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-10-12@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Dynamax Rookidee during Max Monday
+DTSTART;TZID=Europe/Lisbon:20261012T060000
+DTEND;TZID=Europe/Lisbon:20261012T210000
+DESCRIPTION:Dynamax Rookidee may appear in Max Battles from October 12\, 20
+ 26 through October 18\, 2026.\nThese Dynamax Pokémon may appear in Max Ba
+ ttles throughout this season. Max Battles will be available from 6:00 a.m.
+  to 9:00 p.m. local time on Mondays.\n• Power Spots will refresh more fr
+ equently.\n• Additional Power Spots will be active on Mondays compared t
+ o the rest of the week.\n• Max Battles will rotate to feature different 
+ Dynamax Pokémon.\nOn October 12\, 2026\, the featured Dynamax Pokémon is
+  Rookidee.\nPokémon: Rookidee\n\n🔗 https://leekduck.com/events/max-mon
+ days-2026-10-12/
+URL:https://leekduck.com/events/max-mondays-2026-10-12/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fall-marathon-buddy-trek-2026@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Fall Marathon: Buddy Trek
+DTSTART;TZID=Europe/Lisbon:20261013T000000
+DTEND;TZID=Europe/Lisbon:20261019T235900
+DESCRIPTION:The Fall Marathon: Buddy Trek event will take place from Octobe
+ r 13\, 2026 through October 19\, 2026. Event times and further details hav
+ e not been announced. Stay tuned for more details.\n\n🔗 https://leekduc
+ k.com/events/fall-marathon-buddy-trek-2026/
+URL:https://leekduck.com/events/fall-marathon-buddy-trek-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup@p
  okemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:GBL: Great League\, Ultra League: Mega Edition\, and Little Cup
 DTSTART:20261013T200000Z
 DTEND:20261020T200000Z
@@ -1082,8 +1241,66 @@ URL:https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-leag
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:dialga-in-5-star-raid-battles-october-2026@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Dialga in 5-star Raid Battles
+DTSTART;TZID=Europe/Lisbon:20261014T060000
+DTEND;TZID=Europe/Lisbon:20261020T220000
+DESCRIPTION:Dialga will be in five-star raid battles from October 14\, 2026
+  to October 20\, 2026.\n\n▸ Raid Hours\nThere will also be a Raid Hour f
+ eaturing Dialga from 6:00 p.m. to 7:00 p.m. local time on October 14.\n\n
+ ━━ RAIDS ━━\nDialga will be in five-star raid battles.\nPokémon: 
+ Dialga\n\n━━ SHINY ━━\nIf you’re lucky\, you may encounter a Shi
+ ny Dialga.\nPokémon: Dialga\n\n🔗 https://leekduck.com/events/dialga-in
+ -5-star-raid-battles-october-2026/
+URL:https://leekduck.com/events/dialga-in-5-star-raid-battles-october-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-dragonite-in-mega-raids-october-2026@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Mega Dragonite in Mega Raids
+DTSTART;TZID=Europe/Lisbon:20261014T060000
+DTEND;TZID=Europe/Lisbon:20261020T220000
+DESCRIPTION:Mega Dragonite will be in Mega Raids from October 14\, 2026 at 
+ 6 am to October 20\, 2026 at 10 pm local time.\n\n━━ RAIDS ━━\nMeg
+ a Dragonite will be in Mega Raids.\nPokémon: Mega Dragonite\n\n━━ SHI
+ NY ━━\nIf you’re lucky\, you may encounter Shiny Dragonite.\nPokémo
+ n: Dragonite\, Mega Dragonite\n\n🔗 https://leekduck.com/events/mega-dra
+ gonite-in-mega-raids-october-2026/
+URL:https://leekduck.com/events/mega-dragonite-in-mega-raids-october-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261014@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Dialga Raid Hour
+DTSTART;TZID=Europe/Lisbon:20261014T180000
+DTEND;TZID=Europe/Lisbon:20261014T190000
+DESCRIPTION:A Raid Hour featuring Dialga is scheduled from 6:00 p.m. to 7:0
+ 0 p.m. local time. During this hour there will be an increased number of f
+ ive-star raids.\n\n🔗 https://leekduck.com/events/raidhour20261014/
+URL:https://leekduck.com/events/raidhour20261014/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-15@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Stufful Spotlight Hour
+DTSTART;TZID=Europe/Lisbon:20261015T180000
+DTEND;TZID=Europe/Lisbon:20261015T190000
+DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and s
+ pecial bonus for one hour at 6:00 p.m. local time.\nOctober 15: The featur
+ ed Pokémon is Stufful and the special bonus is 2× Transfer Candy.\n\n━
+ ━ SPAWNS ━━\nThe following Pokémon will appear more frequently in t
+ he wild.\nPokémon: Stufful\n\n🔗 https://leekduck.com/events/pokemonspo
+ tlighthour2026-10-15/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-15/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:hatch-day-october-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Hatch Day
 DTSTART;TZID=Europe/Lisbon:20261017T110000
 DTEND;TZID=Europe/Lisbon:20261017T170000
@@ -1094,9 +1311,27 @@ URL:https://leekduck.com/events/hatch-day-october-2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-10-19@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Dynamax Sneasel during Max Monday
+DTSTART;TZID=Europe/Lisbon:20261019T060000
+DTEND;TZID=Europe/Lisbon:20261019T210000
+DESCRIPTION:Dynamax Sneasel may appear in Max Battles from October 19\, 202
+ 6 through October 25\, 2026.\nThese Dynamax Pokémon may appear in Max Bat
+ tles throughout this season. Max Battles will be available from 6:00 a.m. 
+ to 9:00 p.m. local time on Mondays.\n• Power Spots will refresh more fre
+ quently.\n• Additional Power Spots will be active on Mondays compared to
+  the rest of the week.\n• Max Battles will rotate to feature different D
+ ynamax Pokémon.\nOn October 19\, 2026\, the featured Dynamax Pokémon is 
+ Sneasel.\nPokémon: Sneasel\n\n🔗 https://leekduck.com/events/max-monday
+ s-2026-10-19/
+URL:https://leekduck.com/events/max-mondays-2026-10-19/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup
  -great-league-edition@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and Fantasy Cup: 
  Great League Edition
 DTSTART:20261020T200000Z
@@ -1117,21 +1352,113 @@ URL:https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-lea
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026@pokemon-go
+ -calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Mega Charizard X and Mega Charizard Y in Mega Raids
+DTSTART;TZID=Europe/Lisbon:20261021T060000
+DTEND;TZID=Europe/Lisbon:20261027T220000
+DESCRIPTION:Mega Charizard X and Mega Charizard Y will be in Mega Raids fro
+ m October 21\, 2026 at 6 am to October 27\, 2026 at 10 pm local time.\n\n
+ ━━ RAIDS ━━\nMega Charizard X and Mega Charizard Y will be in Mega
+  Raids.\nPokémon: Mega Charizard X\, Mega Charizard Y\n\n━━ SHINY ━
+ ━\nIf you’re lucky\, you may encounter Shiny Charizard.\nPokémon: Cha
+ rizard\, Mega Charizard X\, Mega Charizard Y\n\n🔗 https://leekduck.com/
+ events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/
+URL:https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-r
+ aids-october-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:palkia-in-5-star-raid-battles-october-2026@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Palkia in 5-star Raid Battles
+DTSTART;TZID=Europe/Lisbon:20261021T060000
+DTEND;TZID=Europe/Lisbon:20261027T220000
+DESCRIPTION:Palkia will be in five-star raid battles from October 21\, 2026
+  to October 27\, 2026.\n\n▸ Raid Hours\nThere will also be a Raid Hour f
+ eaturing Palkia from 6:00 p.m. to 7:00 p.m. local time on October 21.\n\n
+ ━━ RAIDS ━━\nPalkia will be in five-star raid battles.\nPokémon: 
+ Palkia\n\n━━ SHINY ━━\nIf you’re lucky\, you may encounter a Shi
+ ny Palkia.\nPokémon: Palkia\n\n🔗 https://leekduck.com/events/palkia-in
+ -5-star-raid-battles-october-2026/
+URL:https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261021@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Palkia Raid Hour
+DTSTART;TZID=Europe/Lisbon:20261021T180000
+DTEND;TZID=Europe/Lisbon:20261021T190000
+DESCRIPTION:A Raid Hour featuring Palkia is scheduled from 6:00 p.m. to 7:0
+ 0 p.m. local time. During this hour there will be an increased number of f
+ ive-star raids.\n\n🔗 https://leekduck.com/events/raidhour20261021/
+URL:https://leekduck.com/events/raidhour20261021/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-22@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Morelull Spotlight Hour
+DTSTART;TZID=Europe/Lisbon:20261022T180000
+DTEND;TZID=Europe/Lisbon:20261022T190000
+DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and s
+ pecial bonus for one hour at 6:00 p.m. local time.\nOctober 22: The featur
+ ed Pokémon is Morelull and the special bonus is 2× Catch Stardust.\n\n
+ ━━ SPAWNS ━━\nThe following Pokémon will appear more frequently i
+ n the wild.\nPokémon: Morelull\n\n🔗 https://leekduck.com/events/pokemo
+ nspotlighthour2026-10-22/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-22/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:max-battle-day-october-24-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
-SUMMARY:Max Battle Day
+DTSTAMP:20260918T081435Z
+SUMMARY:Dynamax Max Battle Day
 DTSTART;TZID=Europe/Lisbon:20261024T140000
 DTEND;TZID=Europe/Lisbon:20261024T170000
-DESCRIPTION:The Max Battle Day event will take place on October 24\, 2026 f
- rom 2 pm to 5 pm. Stay tuned for more details.\n\n🔗 https://leekduck.co
- m/events/max-battle-day-october-24-2026/
+DESCRIPTION:The Dynamax Max Battle Day event will take place on October 24\
+ , 2026 from 2 pm to 5 pm. Stay tuned for more details.\n\n🔗 https://lee
+ kduck.com/events/max-battle-day-october-24-2026/
 URL:https://leekduck.com/events/max-battle-day-october-24-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-10-26@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Dynamax Sableye during Max Monday
+DTSTART;TZID=Europe/Lisbon:20261026T060000
+DTEND;TZID=Europe/Lisbon:20261026T210000
+DESCRIPTION:Dynamax Sableye may appear in Max Battles from October 26\, 202
+ 6 through November 1\, 2026.\nThese Dynamax Pokémon may appear in Max Bat
+ tles throughout this season. Max Battles will be available from 6:00 a.m. 
+ to 9:00 p.m. local time on Mondays.\n• Power Spots will refresh more fre
+ quently.\n• Additional Power Spots will be active on Mondays compared to
+  the rest of the week.\n• Max Battles will rotate to feature different D
+ ynamax Pokémon.\nOn October 26\, 2026\, the featured Dynamax Pokémon is 
+ Sableye.\nPokémon: Sableye\n\n🔗 https://leekduck.com/events/max-monday
+ s-2026-10-26/
+URL:https://leekduck.com/events/max-mondays-2026-10-26/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:halloween-2026-part-1@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Halloween 2026 Part I
+DTSTART;TZID=Europe/Lisbon:20261027T000000
+DTEND;TZID=Europe/Lisbon:20261031T235900
+DESCRIPTION:The Halloween 2026 Part I event will take place from October 27
+ \, 2026 through October 31\, 2026. Event times and further details have no
+ t been announced. Stay tuned for more details.\n\n🔗 https://leekduck.co
+ m/events/halloween-2026-part-1/
+URL:https://leekduck.com/events/halloween-2026-part-1/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-halloween-cup-great-league-editi
  on@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:GBL: Master League and Mega Halloween Cup: Great League Edition
 DTSTART:20261027T210000Z
 DTEND:20261103T210000Z
@@ -1149,8 +1476,70 @@ URL:https://leekduck.com/events/gbl-twilight-trails_master-league_mega-hall
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:giratina-origin-forme-in-5-star-raid-battles-october-2026@pokemon-go-ca
+ lendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Giratina (Origin Forme) in 5-star Raid Battles
+DTSTART;TZID=Europe/Lisbon:20261028T060000
+DTEND;TZID=Europe/Lisbon:20261103T220000
+DESCRIPTION:Giratina (Origin) will be in five-star raid battles from Octobe
+ r 28\, 2026 to November 3\, 2026.\n\n▸ Raid Hours\nThere will also be a 
+ Raid Hour featuring Giratina (Origin Forme) from 6:00 p.m. to 7:00 p.m. lo
+ cal time on October 28.\n\n━━ RAIDS ━━\nGiratina (Origin) will be 
+ in five-star raid battles.\nPokémon: Giratina (Origin)\n\n━━ SHINY 
+ ━━\nIf you’re lucky\, you may encounter a Shiny Giratina (Origin For
+ me).\nPokémon: Giratina (Origin)\n\n🔗 https://leekduck.com/events/gira
+ tina-origin-forme-in-5-star-raid-battles-october-2026/
+URL:https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battle
+ s-october-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-sableye-in-mega-raids-october-2026@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Mega Sableye in Mega Raids
+DTSTART;TZID=Europe/Lisbon:20261028T060000
+DTEND;TZID=Europe/Lisbon:20261103T220000
+DESCRIPTION:Mega Sableye will be in Mega Raids from October 28\, 2026 at 6 
+ am to November 3\, 2026 at 10 pm local time.\n\n━━ RAIDS ━━\nMega 
+ Sableye will be in Mega Raids.\nPokémon: Mega Sableye\n\n━━ SHINY ━
+ ━\nIf you’re lucky\, you may encounter Shiny Sableye.\nPokémon: Sable
+ ye\, Mega Sableye\n\n🔗 https://leekduck.com/events/mega-sableye-in-mega
+ -raids-october-2026/
+URL:https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261028@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Giratina (Origin Forme) Raid Hour
+DTSTART;TZID=Europe/Lisbon:20261028T180000
+DTEND;TZID=Europe/Lisbon:20261028T190000
+DESCRIPTION:A Raid Hour featuring Giratina (Origin Forme) is scheduled from
+  6:00 p.m. to 7:00 p.m. local time. During this hour there will be an incr
+ eased number of five-star raids.\n\n🔗 https://leekduck.com/events/raidh
+ our20261028/
+URL:https://leekduck.com/events/raidhour20261028/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-10-29@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Gastly Spotlight Hour
+DTSTART;TZID=Europe/Lisbon:20261029T180000
+DTEND;TZID=Europe/Lisbon:20261029T190000
+DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and s
+ pecial bonus for one hour at 6:00 p.m. local time.\nOctober 29: The featur
+ ed Pokémon is Gastly and the special bonus is 2× Evolution XP.\n\n━━
+  SPAWNS ━━\nThe following Pokémon will appear more frequently in the 
+ wild.\nPokémon: Gastly\n\n🔗 https://leekduck.com/events/pokemonspotlig
+ hthour2026-10-29/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-10-29/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:super-mega-raid-day-october-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Super Mega Raid Day
 DTSTART;TZID=Europe/Lisbon:20261031T140000
 DTEND;TZID=Europe/Lisbon:20261031T170000
@@ -1161,9 +1550,22 @@ URL:https://leekduck.com/events/super-mega-raid-day-october-2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:halloween-2026-part-2@pokemon-go-calendar
+DTSTAMP:20260918T081435Z
+SUMMARY:Halloween 2026 Part II
+DTSTART;TZID=Europe/Lisbon:20261101T000000
+DTEND;TZID=Europe/Lisbon:20261105T235900
+DESCRIPTION:The Halloween 2026 Part II event will take place from November 
+ 1\, 2026 through November 5\, 2026. Event times and further details have n
+ ot been announced. Stay tuned for more details.\n\n🔗 https://leekduck.c
+ om/events/halloween-2026-part-2/
+URL:https://leekduck.com/events/halloween-2026-part-2/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
  _master-league-mega-edition-split-3@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:GBL: Great League: Mega Edition\, Ultra League: Mega Edition\, and 
  Master League: Mega Edition
 DTSTART:20261103T210000Z
@@ -1185,7 +1587,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-sendai-japan@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Pokémon GO Wild Area 2026: Sendai • Tohoku
 DTSTART:20261106T010000Z
 DTEND:20261108T090000Z
@@ -1280,7 +1682,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-mexico-city@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Pokémon GO Wild Area 2026: Mexico City
 DTSTART:20261106T160000Z
 DTEND:20261109T000000Z
@@ -1376,7 +1778,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic
  -cup@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:GBL: Great League\, Ultra League: Mega Edition\, and 2026 GO LAIC C
  up
 DTSTART:20261110T210000Z
@@ -1403,7 +1805,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Pokémon GO Wild Area 2026: Global
 DTSTART;TZID=Europe/Lisbon:20261114T100000
 DTEND;TZID=Europe/Lisbon:20261115T180000
@@ -1499,7 +1901,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-lai
  c-cup@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and 2026 GO LAIC 
  Cup
 DTSTART:20261118T210000Z
@@ -1527,7 +1929,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:November Community Day
 DTSTART;TZID=Europe/Lisbon:20261121T140000
 DTEND;TZID=Europe/Lisbon:20261121T170000
@@ -1540,7 +1942,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition@p
  okemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:GBL: Master League and Mega Catch Cup: Great League Edition
 DTSTART:20261124T210000Z
 DTEND:20261201T210000Z
@@ -1561,7 +1963,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-november-2026@pokemon-go-calendar
-DTSTAMP:20260917T122230Z
+DTSTAMP:20260918T081435Z
 SUMMARY:Super Mega Raid Day
 DTSTART;TZID=Europe/Lisbon:20261128T140000
 DTEND;TZID=Europe/Lisbon:20261128T170000
