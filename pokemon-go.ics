@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:lego-pokemon-go-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:LEGO Stores and Pokémon GO
 DTSTART;TZID=Europe/Lisbon:20260803T100000
 DTEND;TZID=Europe/Lisbon:20260930T235900
@@ -88,7 +88,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-tuesday@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Showcase Tuesday (daily bonus)
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-september-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GO Pass: September
 DTSTART;TZID=Europe/Lisbon:20260908T100000
 DTEND;TZID=Europe/Lisbon:20261006T100000
@@ -159,7 +159,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:season-24-twilight-trails@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Season: Twilight Trails
 DTSTART;TZID=Europe/Lisbon:20260908T100000
 DTEND;TZID=Europe/Lisbon:20261201T100000
@@ -227,7 +227,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-wednesday@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Wednesday: Raid Hour (daily bonus)
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
@@ -246,7 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026@pokemon
  -go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Shadow Thundurus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Europe/Lisbon:20260909T060000
 DTEND;TZID=Europe/Lisbon:20261006T220000
@@ -265,7 +265,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-thursday@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GO Battle Thursdays and Spotlight Hour (daily bonus)
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
@@ -281,7 +281,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-friday@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Friendship Friday (daily bonus)
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
@@ -299,7 +299,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-sunday@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Scenic Sunday (daily bonus)
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
@@ -318,7 +318,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-monday@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Max Monday (daily bonus)
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
@@ -339,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_willpower-cu
  p-great-league-edition@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GBL: Great League\, Ultra League: Mega Edition\, and Willpower Cup:
   Great League Edition
 DTSTART:20260915T200000Z
@@ -361,7 +361,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-venusaur-in-mega-raids-september-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Mega Venusaur in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20260916T060000
 DTEND;TZID=Europe/Lisbon:20260922T220000
@@ -378,7 +378,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026@po
  kemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Zamazenta (Hero of Many Battles) in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20260916T060000
 DTEND;TZID=Europe/Lisbon:20260922T220000
@@ -398,7 +398,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-horizons-the-series-celebration-event-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Pokémon Horizons: The Series Celebration Event 2026
 DTSTART;TZID=Europe/Lisbon:20260916T100000
 DTEND;TZID=Europe/Lisbon:20260922T200000
@@ -495,7 +495,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-17@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Charmander wearing Friede's goggles Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20260917T180000
 DTEND;TZID=Europe/Lisbon:20260917T190000
@@ -511,7 +511,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-horizons-bonus-timed-research-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Pokémon Horizons Bonus Timed Research
 DTSTART;TZID=Europe/Lisbon:20260918T100000
 DTEND;TZID=Europe/Lisbon:20260922T200000
@@ -528,7 +528,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:staraptor-super-mega-raid-day-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Staraptor Super Mega Raid Day
 DTSTART;TZID=Europe/Lisbon:20260919T140000
 DTEND;TZID=Europe/Lisbon:20260919T170000
@@ -572,7 +572,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-09-21@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Dynamax Articuno\, Zapdos\, and Moltres during Max Monday
 DTSTART;TZID=Europe/Lisbon:20260921T060000
 DTEND;TZID=Europe/Lisbon:20260921T210000
@@ -590,7 +590,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-g
  reat-league-edition@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and Retro Cup: Gr
  eat League Edition
 DTSTART:20260922T200000Z
@@ -611,7 +611,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-malamar-in-mega-raids-september-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Mega Malamar in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20260923T060000
 DTEND;TZID=Europe/Lisbon:20260929T220000
@@ -627,7 +627,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026@poke
  mon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Xurkitree\, Pheromosa\, and Buzzwole in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20260923T060000
 DTEND;TZID=Europe/Lisbon:20260929T220000
@@ -649,7 +649,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-twilight-trails-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Choose Your Path: Twilight Trails
 DTSTART;TZID=Europe/Lisbon:20260923T100000
 DTEND;TZID=Europe/Lisbon:20260928T200000
@@ -696,7 +696,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260923@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Xurkitree\, Pheromosa\, and Buzzwole Raid Hour
 DTSTART;TZID=Europe/Lisbon:20260923T180000
 DTEND;TZID=Europe/Lisbon:20260923T190000
@@ -710,7 +710,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-24@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Rattata Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20260924T180000
 DTEND;TZID=Europe/Lisbon:20260924T190000
@@ -726,7 +726,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-x-adidas-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:adidas × Pokémon Timed Research
 DTSTART;TZID=Europe/Lisbon:20260925T100000
 DTEND;TZID=Europe/Lisbon:20270115T200000
@@ -754,7 +754,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-brisbane-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Brisbane\, Australia - Pokémon GO City Safari
 DTSTART:20260926T000000Z
 DTEND:20260927T080000Z
@@ -800,7 +800,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-marseille-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Marseille\, France - Pokémon GO City Safari
 DTSTART:20260926T080000Z
 DTEND:20260927T160000Z
@@ -830,7 +830,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-munich-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Munich\, Germany - Pokémon GO City Safari
 DTSTART:20260926T080000Z
 DTEND:20260927T160000Z
@@ -860,7 +860,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-lisbon-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Lisbon\, Portugal - Pokémon GO City Safari
 DTSTART:20260926T090000Z
 DTEND:20260927T170000Z
@@ -890,7 +890,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-phantump-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Phantump Catch Mastery
 DTSTART;TZID=Europe/Lisbon:20260926T100000
 DTEND;TZID=Europe/Lisbon:20260926T200000
@@ -926,7 +926,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-rio-de-janeiro-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Rio de Janeiro\, Brazil - Pokémon GO City Safari
 DTSTART:20260926T130000Z
 DTEND:20260927T210000Z
@@ -956,7 +956,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-tcg-30th-celebration@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Pokémon TCG: 30th Celebration
 DTSTART;TZID=Europe/Lisbon:20260927T100000
 DTEND;TZID=Europe/Lisbon:20261020T220000
@@ -978,7 +978,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-09-28@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Dynamax Sobble during Max Monday
 DTSTART;TZID=Europe/Lisbon:20260928T060000
 DTEND;TZID=Europe/Lisbon:20260928T210000
@@ -996,7 +996,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Harvest Festival 2026: Applin Picking
 DTSTART;TZID=Europe/Lisbon:20260929T100000
 DTEND;TZID=Europe/Lisbon:20261005T200000
@@ -1069,7 +1069,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-color-cup-great-league-edition@p
  okemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GBL: Master League and Mega Color Cup: Great League Edition
 DTSTART:20260929T200000Z
 DTEND:20261006T200000Z
@@ -1088,7 +1088,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-victreebel-in-mega-raids-september-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Mega Victreebel in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20260930T060000
 DTEND;TZID=Europe/Lisbon:20261006T220000
@@ -1104,7 +1104,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:xerneas-in-5-star-raid-battles-september-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Xerneas in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20260930T060000
 DTEND;TZID=Europe/Lisbon:20261006T220000
@@ -1121,7 +1121,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260930@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Xerneas Raid Hour
 DTSTART;TZID=Europe/Lisbon:20260930T180000
 DTEND;TZID=Europe/Lisbon:20260930T190000
@@ -1133,7 +1133,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-01@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Seedot Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261001T180000
 DTEND;TZID=Europe/Lisbon:20261001T190000
@@ -1148,7 +1148,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-taken-over-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Harvest Festival: Taken Over
 DTSTART;TZID=Europe/Lisbon:20261002T000000
 DTEND;TZID=Europe/Lisbon:20261005T200000
@@ -1192,7 +1192,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:patterns-of-the-wild-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Patterns of the Wild
 DTSTART;TZID=Europe/Lisbon:20261002T100000
 DTEND;TZID=Europe/Lisbon:20261002T200000
@@ -1203,40 +1203,40 @@ DESCRIPTION:This event is available only in Indonesia.\nNote: The original
  long with boosted wild encounters\, Incense bonuses\, and research rewards
  !\nThe event takes place on Friday\, October 2\, 2026\, from 10:00 a.m. to
   8:00 p.m. local time. Timed Research is available for a longer period\, f
- rom September 28 through October 7.\n\n━━ BONUSES ━━\n• Incense 
- will last for two hours\n• Increased chance to encounter Pikachu wearing
-  a batik shirt and other event-themed Pokémon while using Incense\n• In
- creased chance to encounter Shiny featured wild Pokémon\n\n━━ FEATURE
- S ━━\n▸ Pikachu with a Special Background\nPikachu wearing a batik s
- hirt can have a Special Background for the first time in Pokémon GO! Look
-  for it in the wild\, through Timed Research\, and in surprise snapshot en
- counters. Shiny Pikachu wearing a batik shirt will also be available.\nPok
- émon: Batik Shirt Pikachu\n\n▸ Surprise Encounters\nTake a snapshot of 
- one of your own Pokémon during the event for a chance at a surprise encou
- nter with Pikachu wearing a batik shirt. Snapshots of wild Pokémon will n
- ot trigger these encounters.\n\n━━ SPAWNS ━━\nThese Pokémon will 
- appear more often in the wild\, with an increased chance of encountering t
- heir Shiny variants. Pikachu wearing a batik shirt may have a Special Back
- ground.\nPokémon: Caterpie\, Batik Shirt Pikachu\, Oddish\, Gloom\, Bells
- prout\, Ledyba\, Ledian\, Hoppip\, Skiploom\, Sunkern\, Wurmple\n\n━━ 
- RESEARCH ━━\n▸ Timed Research\nTimed Research will run from Monday\,
-  September 28\, at 6:00 a.m. to Wednesday\, October 7\, 2026\, at 11:59 p.
- m.\nRewards include encounters with Pikachu wearing a batik shirt\, Oddish
- \, Hoppip\, and Ledyba\, along with XP\, Stardust\, items\, and stickers.\
- n\n▸ Timed Research Encounters\nPokémon: Batik Shirt Pikachu\, Oddish\,
-  Ledyba\, Hoppip\n\n▸ Collection Challenge\nCatch the required event-the
- med Pokémon to earn XP\, Stardust\, and stickers of Pikachu wearing a bat
- ik shirt.\n\n━━ SHINY ━━\nThe featured wild Pokémon have an incre
- ased Shiny chance during the event.\nPokémon: Caterpie\, Batik Shirt Pika
- chu\, Oddish\, Gloom\, Bellsprout\, Ledyba\, Ledian\, Hoppip\, Skiploom\, 
- Sunkern\, Wurmple\n\n🔗 https://leekduck.com/events/patterns-of-the-wild
- -2026/
+ rom September 28 through October 10.\n\n━━ BONUSES ━━\n• Incense
+  will last for two hours\n• Increased chance to encounter Pikachu wearin
+ g a batik shirt and other event-themed Pokémon while using Incense\n• I
+ ncreased chance to encounter Shiny featured wild Pokémon\n\n━━ FEATUR
+ ES ━━\n▸ Pikachu with a Special Background\nPikachu wearing a batik 
+ shirt can have a Special Background for the first time in Pokémon GO! Loo
+ k for it in the wild\, through Timed Research\, and in surprise snapshot e
+ ncounters. Shiny Pikachu wearing a batik shirt will also be available.\nPo
+ kémon: Batik Shirt Pikachu\n\n▸ Surprise Encounters\nTake a snapshot of
+  one of your own Pokémon during the event for a chance at a surprise enco
+ unter with Pikachu wearing a batik shirt. Snapshots of wild Pokémon will 
+ not trigger these encounters.\n\n━━ SPAWNS ━━\nThese Pokémon will
+  appear more often in the wild\, with an increased chance of encountering 
+ their Shiny variants. Pikachu wearing a batik shirt may have a Special Bac
+ kground.\nPokémon: Caterpie\, Batik Shirt Pikachu\, Oddish\, Gloom\, Bell
+ sprout\, Ledyba\, Ledian\, Hoppip\, Skiploom\, Sunkern\, Wurmple\n\n━━
+  RESEARCH ━━\n▸ Timed Research\nTimed Research will run from Monday\
+ , September 28\, at 6:00 a.m. to Saturday\, October 10\, 2026\, at 11:59 p
+ .m.\nRewards include encounters with Pikachu wearing a batik shirt\, Oddis
+ h\, Hoppip\, and Ledyba\, along with XP\, Stardust\, items\, and stickers.
+ \n\n▸ Timed Research Encounters\nPokémon: Batik Shirt Pikachu\, Oddish\
+ , Ledyba\, Hoppip\n\n▸ Collection Challenge\nCatch the required event-th
+ emed Pokémon to earn XP\, Stardust\, and stickers of Pikachu wearing a ba
+ tik shirt.\n\n━━ SHINY ━━\nThe featured wild Pokémon have an incr
+ eased Shiny chance during the event.\nPokémon: Caterpie\, Batik Shirt Pik
+ achu\, Oddish\, Gloom\, Bellsprout\, Ledyba\, Ledian\, Hoppip\, Skiploom\,
+  Sunkern\, Wurmple\n\n🔗 https://leekduck.com/events/patterns-of-the-wil
+ d-2026/
 URL:https://leekduck.com/events/patterns-of-the-wild-2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-cinderace-max-battle-day-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Gigantamax Cinderace Max Battle Day
 DTSTART;TZID=Europe/Lisbon:20261003T140000
 DTEND;TZID=Europe/Lisbon:20261003T170000
@@ -1284,7 +1284,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:world-space-week-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:World Space Week 2026
 DTSTART;TZID=Europe/Lisbon:20261004T000000
 DTEND;TZID=Europe/Lisbon:20261010T235900
@@ -1311,7 +1311,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-october-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:???
 DTSTART;TZID=Europe/Lisbon:20261004T100000
 DTEND;TZID=Europe/Lisbon:20261010T200000
@@ -1324,7 +1324,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-05@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Dynamax Sizzlipede during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261005T060000
 DTEND;TZID=Europe/Lisbon:20261005T210000
@@ -1342,7 +1342,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-october-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GO Pass: October
 DTSTART;TZID=Europe/Lisbon:20261006T100000
 DTEND;TZID=Europe/Lisbon:20261103T100000
@@ -1385,7 +1385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
  _master-league-mega-edition-split-2@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GBL: Great League: Mega Edition\, Ultra League: Mega Edition\, and 
  Master League: Mega Edition
 DTSTART:20261006T200000Z
@@ -1407,7 +1407,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-blastoise-in-mega-raids-october-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Mega Blastoise in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261007T060000
 DTEND;TZID=Europe/Lisbon:20261013T220000
@@ -1422,7 +1422,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:yveltal-in-5-star-raid-battles-october-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Yveltal in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261007T060000
 DTEND;TZID=Europe/Lisbon:20261013T220000
@@ -1440,7 +1440,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:shadow-landorus-incarnate-forme-in-shadow-raids-october-2026@pokemon-go
  -calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Shadow Landorus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Europe/Lisbon:20261007T060000
 DTEND;TZID=Europe/Lisbon:20261103T220000
@@ -1459,7 +1459,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261007@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Yveltal Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261007T180000
 DTEND;TZID=Europe/Lisbon:20261007T190000
@@ -1471,7 +1471,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-08@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Elgyem Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261008T180000
 DTEND;TZID=Europe/Lisbon:20261008T190000
@@ -1486,7 +1486,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Zorua Community Day
 DTSTART;TZID=Europe/Lisbon:20261010T140000
 DTEND;TZID=Europe/Lisbon:20261010T170000
@@ -1538,7 +1538,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-12@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Dynamax Rookidee during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261012T060000
 DTEND;TZID=Europe/Lisbon:20261012T210000
@@ -1556,7 +1556,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Fall Marathon: Buddy Trek
 DTSTART;TZID=Europe/Lisbon:20261013T100000
 DTEND;TZID=Europe/Lisbon:20261019T200000
@@ -1626,7 +1626,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup@p
  okemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GBL: Great League\, Ultra League: Mega Edition\, and Little Cup
 DTSTART:20261013T200000Z
 DTEND:20261020T200000Z
@@ -1645,7 +1645,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dialga-in-5-star-raid-battles-october-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Dialga in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261014T060000
 DTEND;TZID=Europe/Lisbon:20261020T220000
@@ -1661,7 +1661,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-dragonite-in-mega-raids-october-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Mega Dragonite in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261014T060000
 DTEND;TZID=Europe/Lisbon:20261020T220000
@@ -1676,7 +1676,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261014@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Dialga Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261014T180000
 DTEND;TZID=Europe/Lisbon:20261014T190000
@@ -1688,7 +1688,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-15@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Stufful Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261015T180000
 DTEND;TZID=Europe/Lisbon:20261015T190000
@@ -1703,7 +1703,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sandile-hatch-day-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Sandile Hatch Day
 DTSTART;TZID=Europe/Lisbon:20261017T110000
 DTEND;TZID=Europe/Lisbon:20261017T170000
@@ -1736,7 +1736,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-october-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Hatch Day
 DTSTART;TZID=Europe/Lisbon:20261017T110000
 DTEND;TZID=Europe/Lisbon:20261017T170000
@@ -1748,7 +1748,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-19@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Dynamax Sneasel during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261019T060000
 DTEND;TZID=Europe/Lisbon:20261019T210000
@@ -1765,9 +1765,53 @@ URL:https://leekduck.com/events/max-mondays-2026-10-19/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:minior-showers-orionids-2026@pokemon-go-calendar
+DTSTAMP:20261002T094517Z
+SUMMARY:Minior Showers: Orionids 2026
+DTSTART;TZID=Europe/Lisbon:20261019T170000
+DTEND;TZID=Europe/Lisbon:20261024T235900
+DESCRIPTION:Explore by starlight during the Orionids meteor shower for a ch
+ ance to encounter Minior in Pokémon GO!\nThis Minior Shower runs from Oct
+ ober 19\, 2026 at 5:00 p.m. to October 24\, 2026 at 11:59 p.m. local time.
+ \n\n━━ BONUSES ━━\n• Increased Stardust for catching Minior\n•
+  Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local ti
+ me each day\n\n━━ FEATURES ━━\n▸ Pokémon Debut\nMinior\, the Me
+ teor Pokémon\, will make its Pokémon GO debut during the Orionids meteor
+  shower!\nMinior has seven different core colors: Red\, Orange\, Yellow\, 
+ Green\, Blue\, Indigo\, and Violet. A different core color will debut duri
+ ng each of the six meteor showers listed below. During the Geminids\, one 
+ core color will debut in the Northern Hemisphere and another in the Southe
+ rn Hemisphere.\nPokémon: Minior (Red Core)\, Minior (Orange Core)\, Minio
+ r (Yellow Core)\, Minior (Green Core)\, Minior (Blue Core)\, Minior (Indig
+ o Core)\, Minior (Violet Core)\nThe core colors available during each show
+ er have not been announced.\n\n▸ Explore by Starlight\nFrom 5:00 p.m. to
+  9:00 p.m. local time every day during each Minior Shower\, shooting stars
+  will light up the in-game sky. During these hours\, you’ll have an incr
+ eased chance of encountering Minior in the wild!\n\n▸ Minior’s Form Ch
+ anges\nMinior begins battles in its Meteor Form. When its health drops bel
+ ow 50%\, it changes form and exposes its core.\n• Meteor Form: Higher De
+ fense and lower Attack.\n• Core exposed: Higher Attack and lower Defense
+ .\nInitially\, Minior will only be able to change forms when battling Team
+  GO Rocket\, team leaders\, or in the GO Battle League.\nMinior will not b
+ e eligible for the 2027 Latin America International Championships.\n\n▸ 
+ Annual Meteor Shower Schedule\nMinior can appear during the following mete
+ or showers each year. Each shower begins at 5:00 p.m. on its first day and
+  ends at 11:59 p.m. on its last day\, in local time.\n• Orionids: Octobe
+ r 19–24\, 2026\n• Leonids: November 14–19\, 2026\n• Geminids: Dece
+ mber 11–16\, 2026\n• Eta Aquariids: May 3–8\, 2027\n• Southern Del
+ ta Aquariids: July 28–August 2\, 2027\n• Perseids: August 10–15\, 20
+ 27\n\n━━ SPAWNS ━━\n▸ Wild Encounters\nYou may encounter Minior 
+ in its Meteor Form in the wild during the event. You’ll receive increase
+ d Stardust for catching Minior.\nPokémon: Minior (Meteor Form)\nMinior en
+ counters are more likely from 5:00 p.m. to 9:00 p.m. local time each day.\
+ n\n🔗 https://leekduck.com/events/minior-showers-orionids-2026/
+URL:https://leekduck.com/events/minior-showers-orionids-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup
  -great-league-edition@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and Fantasy Cup: 
  Great League Edition
 DTSTART:20261020T200000Z
@@ -1790,7 +1834,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026@pokemon-go
  -calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Mega Charizard X and Mega Charizard Y in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261021T060000
 DTEND;TZID=Europe/Lisbon:20261027T220000
@@ -1807,7 +1851,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:palkia-in-5-star-raid-battles-october-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Palkia in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261021T060000
 DTEND;TZID=Europe/Lisbon:20261027T220000
@@ -1823,7 +1867,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261021@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Palkia Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261021T180000
 DTEND;TZID=Europe/Lisbon:20261021T190000
@@ -1835,7 +1879,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-22@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Morelull Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261022T180000
 DTEND;TZID=Europe/Lisbon:20261022T190000
@@ -1849,8 +1893,58 @@ URL:https://leekduck.com/events/pokemonspotlighthour2026-10-22/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:dynamax-uxie-mesprit-azelf-max-battle-day-2026@pokemon-go-calendar
+DTSTAMP:20261002T094517Z
+SUMMARY:Dynamax Uxie\, Mesprit\, and Azelf Max Battle Day
+DTSTART;TZID=Europe/Lisbon:20261024T140000
+DTEND;TZID=Europe/Lisbon:20261024T170000
+DESCRIPTION:The Dynamax Uxie\, Mesprit\, and Azelf Max Battle Day event wil
+ l take place on October 24\, 2026 from 2 pm to 5 pm local time.\n\n━━ 
+ BONUSES ━━\nThe following bonuses will be active during the event.\n
+ • Max Particle collection limit increased to 1\,600\n• All Power Spots
+  will host Dynamax Battles\n• Power Spots will refresh more frequently\n
+ • Additional Power Spots will be active\n• 8× Max Particles from Powe
+ r Spots\n• Up to three Special Trades for the day\n• From October 23 a
+ t 5:00 p.m. to October 24 at 8:00 p.m. PDT (GMT −7)\, the daily Remote R
+ aid limit will increase from 10 to 20\nThe following bonuses will be activ
+ e on October 24\, 2026\, from 12:00 a.m. to 5:00 p.m. local time.\n• 2×
+  Max Particles from exploring*\n• 1/4 Adventuring distance to receive Ma
+ x Particles**\n*Trainers can collect Max Particles via the Nearby menu eac
+ h day by exploring. Adventure Sync can help make sure your distance counts
+ ! Keep an eye on the Nearby menu for the icon that shows when Max Particle
+ s are ready to collect.\n**For these bonuses to apply\, Trainers must firs
+ t collect all Max Particles available in the Nearby menu.\n\n▸ Event Tic
+ ket\nFor US$4.99 (or the equivalent pricing tier in your local currency)\,
+  you’ll be able to access event-exclusive Timed Research.\nTimed Researc
+ h rewards include the following.\n• 1 Max Mushroom\n• 25\,000 XP\n• 
+ 6\,400 Max Particles\nYou’ll also receive the following bonus.\n• 2× 
+ XP from Max Battles\nThis Timed Research will be effective on Saturday\, O
+ ctober 24\, 2026\, from 2:00 p.m. to 5:00 p.m. local time.\n\n━━ FEATU
+ RES ━━\n▸ Dynamax Debuts\nUxie\, Mesprit\, and Azelf debut in five-s
+ tar Max Battles in their respective regions:\nPokémon: Uxie\, Mesprit\, A
+ zelf\nUxie: Asia-Pacific. Mesprit: Europe\, the Middle East\, Africa\, and
+  India. Azelf: the Americas and Greenland.\n\n▸ Where can I find Max Bat
+ tles?\nMax Battles appear at Power Spots and require teamwork. Use the Pok
+ émon GO Map to find active battles and locations where battles may appear
+  during the event.\nYou can also check nearby events for community meetups
+  hosted by Community Ambassadors\, or find your community to coordinate wi
+ th other Trainers.\n\n━━ RESEARCH ━━\nFor US$4.99 (or the equivale
+ nt pricing tier in your local currency)\, you’ll be able to access event
+ -exclusive Timed Research\, which rewards 1 Max Mushroom\, 25\,000 XP\, 6\
+ ,400 Max Particles\, and 2× XP from Max Battles.\nThe Timed Research is a
+ vailable on Saturday\, October 24\, 2026\, from 2:00 p.m. to 5:00 p.m. loc
+ al time.\nNote: The Timed Research here is based on previous events and is
+  not yet confirmed.\n\n━━ SHINY ━━\nYou may encounter Shiny Uxie\,
+  Mesprit\, or Azelf after winning a Max Battle.\nPokémon: Uxie\, Mesprit\
+ , Azelf\n\n🔗 https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max
+ -battle-day-2026/
+URL:https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2
+ 026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:max-battle-day-october-24-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Dynamax Max Battle Day
 DTSTART;TZID=Europe/Lisbon:20261024T140000
 DTEND;TZID=Europe/Lisbon:20261024T170000
@@ -1862,7 +1956,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-26@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Dynamax Sableye during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261026T060000
 DTEND;TZID=Europe/Lisbon:20261026T210000
@@ -1880,7 +1974,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-1@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Halloween 2026 Part I
 DTSTART;TZID=Europe/Lisbon:20261027T100000
 DTEND;TZID=Europe/Lisbon:20261031T200000
@@ -1894,7 +1988,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-halloween-cup-great-league-editi
  on@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GBL: Master League and Mega Halloween Cup: Great League Edition
 DTSTART:20261027T210000Z
 DTEND:20261103T210000Z
@@ -1914,7 +2008,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:giratina-origin-forme-in-5-star-raid-battles-october-2026@pokemon-go-ca
  lendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Giratina (Origin Forme) in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261028T060000
 DTEND;TZID=Europe/Lisbon:20261103T220000
@@ -1932,7 +2026,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sableye-in-mega-raids-october-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Mega Sableye in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261028T060000
 DTEND;TZID=Europe/Lisbon:20261103T220000
@@ -1947,7 +2041,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261028@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Giratina (Origin Forme) Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261028T180000
 DTEND;TZID=Europe/Lisbon:20261028T190000
@@ -1960,7 +2054,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-29@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Gastly Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261029T180000
 DTEND;TZID=Europe/Lisbon:20261029T190000
@@ -1975,7 +2069,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-october-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Super Mega Raid Day
 DTSTART;TZID=Europe/Lisbon:20261031T140000
 DTEND;TZID=Europe/Lisbon:20261031T170000
@@ -1987,7 +2081,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-2@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Halloween 2026 Part II
 DTSTART;TZID=Europe/Lisbon:20261101T100000
 DTEND;TZID=Europe/Lisbon:20261105T200000
@@ -2001,7 +2095,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
  _master-league-mega-edition-split-3@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GBL: Great League: Mega Edition\, Ultra League: Mega Edition\, and 
  Master League: Mega Edition
 DTSTART:20261103T210000Z
@@ -2023,7 +2117,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-sendai-japan@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Pokémon GO Wild Area 2026: Sendai • Tohoku
 DTSTART:20261106T010000Z
 DTEND:20261108T090000Z
@@ -2118,7 +2212,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-mexico-city@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Pokémon GO Wild Area 2026: Mexico City
 DTSTART:20261106T160000Z
 DTEND:20261109T000000Z
@@ -2214,7 +2308,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic
  -cup@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GBL: Great League\, Ultra League: Mega Edition\, and 2026 GO LAIC C
  up
 DTSTART:20261110T210000Z
@@ -2241,7 +2335,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Pokémon GO Wild Area 2026: Global
 DTSTART;TZID=Europe/Lisbon:20261114T100000
 DTEND;TZID=Europe/Lisbon:20261115T180000
@@ -2335,9 +2429,52 @@ URL:https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:minior-showers-leonids-2026@pokemon-go-calendar
+DTSTAMP:20261002T094517Z
+SUMMARY:Minior Showers: Leonids 2026
+DTSTART;TZID=Europe/Lisbon:20261114T170000
+DTEND;TZID=Europe/Lisbon:20261119T235900
+DESCRIPTION:Explore by starlight during the Leonids meteor shower for a cha
+ nce to encounter Minior in Pokémon GO!\nThis Minior Shower runs from Nove
+ mber 14\, 2026 at 5:00 p.m. to November 19\, 2026 at 11:59 p.m. local time
+ .\n\n━━ BONUSES ━━\n• Increased Stardust for catching Minior\n
+ • Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local
+  time each day\n\n━━ FEATURES ━━\n▸ Minior Cores\nMinior has sev
+ en different core colors: Red\, Orange\, Yellow\, Green\, Blue\, Indigo\, 
+ and Violet. A different core color will debut during each of the six meteo
+ r showers listed below. During the Geminids\, one core color will debut in
+  the Northern Hemisphere and another in the Southern Hemisphere.\nPokémon
+ : Minior (Red Core)\, Minior (Orange Core)\, Minior (Yellow Core)\, Minior
+  (Green Core)\, Minior (Blue Core)\, Minior (Indigo Core)\, Minior (Violet
+  Core)\nThe core colors available during each shower have not been announc
+ ed.\n\n▸ Explore by Starlight\nFrom 5:00 p.m. to 9:00 p.m. local time ev
+ ery day during each Minior Shower\, shooting stars will light up the in-ga
+ me sky. During these hours\, you’ll have an increased chance of encounte
+ ring Minior in the wild!\n\n▸ Minior’s Form Changes\nMinior begins bat
+ tles in its Meteor Form. When its health drops below 50%\, it changes form
+  and exposes its core.\n• Meteor Form: Higher Defense and lower Attack.\
+ n• Core exposed: Higher Attack and lower Defense.\nInitially\, Minior wi
+ ll only be able to change forms when battling Team GO Rocket\, team leader
+ s\, or in the GO Battle League.\nMinior will not be eligible for the 2027 
+ Latin America International Championships.\n\n▸ Annual Meteor Shower Sch
+ edule\nMinior can appear during the following meteor showers each year. Ea
+ ch shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on i
+ ts last day\, in local time.\n• Orionids: October 19–24\, 2026\n• Le
+ onids: November 14–19\, 2026\n• Geminids: December 11–16\, 2026\n•
+  Eta Aquariids: May 3–8\, 2027\n• Southern Delta Aquariids: July 28–
+ August 2\, 2027\n• Perseids: August 10–15\, 2027\n\n━━ SPAWNS ━
+ ━\n▸ Wild Encounters\nYou may encounter Minior in its Meteor Form in t
+ he wild during the event. You’ll receive increased Stardust for catching
+  Minior.\nPokémon: Minior (Meteor Form)\nMinior encounters are more likel
+ y from 5:00 p.m. to 9:00 p.m. local time each day.\n\n🔗 https://leekduc
+ k.com/events/minior-showers-leonids-2026/
+URL:https://leekduck.com/events/minior-showers-leonids-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-lai
  c-cup@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and 2026 GO LAIC 
  Cup
 DTSTART:20261118T210000Z
@@ -2365,7 +2502,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:November Community Day
 DTSTART;TZID=Europe/Lisbon:20261121T140000
 DTEND;TZID=Europe/Lisbon:20261121T170000
@@ -2378,7 +2515,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition@p
  okemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:GBL: Master League and Mega Catch Cup: Great League Edition
 DTSTART:20261124T210000Z
 DTEND:20261201T210000Z
@@ -2399,7 +2536,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-november-2026@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Super Mega Raid Day
 DTSTART;TZID=Europe/Lisbon:20261128T140000
 DTEND;TZID=Europe/Lisbon:20261128T170000
@@ -2410,8 +2547,51 @@ URL:https://leekduck.com/events/super-mega-raid-day-november-2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:minior-showers-geminids-2026@pokemon-go-calendar
+DTSTAMP:20261002T094517Z
+SUMMARY:Minior Showers: Geminids 2026
+DTSTART;TZID=Europe/Lisbon:20261211T170000
+DTEND;TZID=Europe/Lisbon:20261216T235900
+DESCRIPTION:Explore by starlight during the Geminids meteor shower for a ch
+ ance to encounter Minior in Pokémon GO!\nThis Minior Shower runs from Dec
+ ember 11\, 2026 at 5:00 p.m. to December 16\, 2026 at 11:59 p.m. local tim
+ e.\n\n━━ BONUSES ━━\n• Increased Stardust for catching Minior\n
+ • Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local
+  time each day\n\n━━ FEATURES ━━\n▸ Minior Cores\nMinior has sev
+ en different core colors: Red\, Orange\, Yellow\, Green\, Blue\, Indigo\, 
+ and Violet. A different core color will debut during each of the six meteo
+ r showers listed below. During the Geminids\, one core color will debut in
+  the Northern Hemisphere and another in the Southern Hemisphere.\nPokémon
+ : Minior (Red Core)\, Minior (Orange Core)\, Minior (Yellow Core)\, Minior
+  (Green Core)\, Minior (Blue Core)\, Minior (Indigo Core)\, Minior (Violet
+  Core)\nThe core colors available during each shower have not been announc
+ ed.\n\n▸ Explore by Starlight\nFrom 5:00 p.m. to 9:00 p.m. local time ev
+ ery day during each Minior Shower\, shooting stars will light up the in-ga
+ me sky. During these hours\, you’ll have an increased chance of encounte
+ ring Minior in the wild!\n\n▸ Minior’s Form Changes\nMinior begins bat
+ tles in its Meteor Form. When its health drops below 50%\, it changes form
+  and exposes its core.\n• Meteor Form: Higher Defense and lower Attack.\
+ n• Core exposed: Higher Attack and lower Defense.\nInitially\, Minior wi
+ ll only be able to change forms when battling Team GO Rocket\, team leader
+ s\, or in the GO Battle League.\nMinior will not be eligible for the 2027 
+ Latin America International Championships.\n\n▸ Annual Meteor Shower Sch
+ edule\nMinior can appear during the following meteor showers each year. Ea
+ ch shower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on i
+ ts last day\, in local time.\n• Orionids: October 19–24\, 2026\n• Le
+ onids: November 14–19\, 2026\n• Geminids: December 11–16\, 2026\n•
+  Eta Aquariids: May 3–8\, 2027\n• Southern Delta Aquariids: July 28–
+ August 2\, 2027\n• Perseids: August 10–15\, 2027\n\n━━ SPAWNS ━
+ ━\n▸ Wild Encounters\nYou may encounter Minior in its Meteor Form in t
+ he wild during the event. You’ll receive increased Stardust for catching
+  Minior.\nPokémon: Minior (Meteor Form)\nMinior encounters are more likel
+ y from 5:00 p.m. to 9:00 p.m. local time each day.\n\n🔗 https://leekduc
+ k.com/events/minior-showers-geminids-2026/
+URL:https://leekduck.com/events/minior-showers-geminids-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Pokémon GO Tour: Alola - Kaohsiung 2027
 DTSTART:20270218T160000Z
 DTEND:20270221T155959Z
@@ -2429,7 +2609,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Pokémon GO Tour: Alola - Los Angeles 2027
 DTSTART:20270219T080000Z
 DTEND:20270222T075959Z
@@ -2447,7 +2627,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027@pokemon-go-calendar
-DTSTAMP:20261001T202103Z
+DTSTAMP:20261002T094517Z
 SUMMARY:Pokémon GO Tour: Alola - Global 2027
 DTSTART;TZID=Europe/Lisbon:20270227T000000
 DTEND;TZID=Europe/Lisbon:20270228T235959
@@ -2461,6 +2641,136 @@ DESCRIPTION:Pokémon GO Tour returns in February 2027 to celebrate the Alol
  Events\n\n🔗 https://leekduck.com/events/pokemon-go-tour-alola-global-20
  27/
 URL:https://leekduck.com/events/pokemon-go-tour-alola-global-2027/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minior-showers-eta-aquariids-2027@pokemon-go-calendar
+DTSTAMP:20261002T094517Z
+SUMMARY:Minior Showers: Eta Aquariids 2027
+DTSTART;TZID=Europe/Lisbon:20270503T170000
+DTEND;TZID=Europe/Lisbon:20270508T235900
+DESCRIPTION:Explore by starlight during the Eta Aquariids meteor shower for
+  a chance to encounter Minior in Pokémon GO!\nThis Minior Shower runs fro
+ m May 3\, 2027 at 5:00 p.m. to May 8\, 2027 at 11:59 p.m. local time.\n\n
+ ━━ BONUSES ━━\n• Increased Stardust for catching Minior\n• Inc
+ reased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time e
+ ach day\n\n━━ FEATURES ━━\n▸ Minior Cores\nMinior has seven diff
+ erent core colors: Red\, Orange\, Yellow\, Green\, Blue\, Indigo\, and Vio
+ let. A different core color will debut during each of the six meteor showe
+ rs listed below. During the Geminids\, one core color will debut in the No
+ rthern Hemisphere and another in the Southern Hemisphere.\nPokémon: Minio
+ r (Red Core)\, Minior (Orange Core)\, Minior (Yellow Core)\, Minior (Green
+  Core)\, Minior (Blue Core)\, Minior (Indigo Core)\, Minior (Violet Core)\
+ nThe core colors available during each shower have not been announced.\n\n
+ ▸ Explore by Starlight\nFrom 5:00 p.m. to 9:00 p.m. local time every day
+  during each Minior Shower\, shooting stars will light up the in-game sky.
+  During these hours\, you’ll have an increased chance of encountering Mi
+ nior in the wild!\n\n▸ Minior’s Form Changes\nMinior begins battles in
+  its Meteor Form. When its health drops below 50%\, it changes form and ex
+ poses its core.\n• Meteor Form: Higher Defense and lower Attack.\n• Co
+ re exposed: Higher Attack and lower Defense.\nInitially\, Minior will only
+  be able to change forms when battling Team GO Rocket\, team leaders\, or 
+ in the GO Battle League.\nMinior will not be eligible for the 2027 Latin A
+ merica International Championships.\n\n▸ Annual Meteor Shower Schedule\n
+ Minior can appear during the following meteor showers each year. Each show
+ er begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its last
+  day\, in local time.\n• Orionids: October 19–24\, 2026\n• Leonids: 
+ November 14–19\, 2026\n• Geminids: December 11–16\, 2026\n• Eta Aq
+ uariids: May 3–8\, 2027\n• Southern Delta Aquariids: July 28–August 
+ 2\, 2027\n• Perseids: August 10–15\, 2027\n\n━━ SPAWNS ━━\n▸
+  Wild Encounters\nYou may encounter Minior in its Meteor Form in the wild 
+ during the event. You’ll receive increased Stardust for catching Minior.
+ \nPokémon: Minior (Meteor Form)\nMinior encounters are more likely from 5
+ :00 p.m. to 9:00 p.m. local time each day.\n\n🔗 https://leekduck.com/ev
+ ents/minior-showers-eta-aquariids-2027/
+URL:https://leekduck.com/events/minior-showers-eta-aquariids-2027/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minior-showers-southern-delta-aquariids-2027@pokemon-go-calendar
+DTSTAMP:20261002T094517Z
+SUMMARY:Minior Showers: Southern Delta Aquariids 2027
+DTSTART;TZID=Europe/Lisbon:20270728T170000
+DTEND;TZID=Europe/Lisbon:20270802T235900
+DESCRIPTION:Explore by starlight during the Southern Delta Aquariids meteor
+  shower for a chance to encounter Minior in Pokémon GO!\nThis Minior Show
+ er runs from July 28\, 2027 at 5:00 p.m. to August 2\, 2027 at 11:59 p.m. 
+ local time.\n\n━━ BONUSES ━━\n• Increased Stardust for catching 
+ Minior\n• Increased chance to encounter Minior from 5:00 p.m. to 9:00 p.
+ m. local time each day\n\n━━ FEATURES ━━\n▸ Minior Cores\nMinior
+  has seven different core colors: Red\, Orange\, Yellow\, Green\, Blue\, I
+ ndigo\, and Violet. A different core color will debut during each of the s
+ ix meteor showers listed below. During the Geminids\, one core color will 
+ debut in the Northern Hemisphere and another in the Southern Hemisphere.\n
+ Pokémon: Minior (Red Core)\, Minior (Orange Core)\, Minior (Yellow Core)\
+ , Minior (Green Core)\, Minior (Blue Core)\, Minior (Indigo Core)\, Minior
+  (Violet Core)\nThe core colors available during each shower have not been
+  announced.\n\n▸ Explore by Starlight\nFrom 5:00 p.m. to 9:00 p.m. local
+  time every day during each Minior Shower\, shooting stars will light up t
+ he in-game sky. During these hours\, you’ll have an increased chance of 
+ encountering Minior in the wild!\n\n▸ Minior’s Form Changes\nMinior be
+ gins battles in its Meteor Form. When its health drops below 50%\, it chan
+ ges form and exposes its core.\n• Meteor Form: Higher Defense and lower 
+ Attack.\n• Core exposed: Higher Attack and lower Defense.\nInitially\, M
+ inior will only be able to change forms when battling Team GO Rocket\, tea
+ m leaders\, or in the GO Battle League.\nMinior will not be eligible for t
+ he 2027 Latin America International Championships.\n\n▸ Annual Meteor Sh
+ ower Schedule\nMinior can appear during the following meteor showers each 
+ year. Each shower begins at 5:00 p.m. on its first day and ends at 11:59 p
+ .m. on its last day\, in local time.\n• Orionids: October 19–24\, 2026
+ \n• Leonids: November 14–19\, 2026\n• Geminids: December 11–16\, 2
+ 026\n• Eta Aquariids: May 3–8\, 2027\n• Southern Delta Aquariids: Ju
+ ly 28–August 2\, 2027\n• Perseids: August 10–15\, 2027\n\n━━ SPA
+ WNS ━━\n▸ Wild Encounters\nYou may encounter Minior in its Meteor Fo
+ rm in the wild during the event. You’ll receive increased Stardust for c
+ atching Minior.\nPokémon: Minior (Meteor Form)\nMinior encounters are mor
+ e likely from 5:00 p.m. to 9:00 p.m. local time each day.\n\n🔗 https://
+ leekduck.com/events/minior-showers-southern-delta-aquariids-2027/
+URL:https://leekduck.com/events/minior-showers-southern-delta-aquariids-202
+ 7/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minior-showers-perseids-2027@pokemon-go-calendar
+DTSTAMP:20261002T094517Z
+SUMMARY:Minior Showers: Perseids 2027
+DTSTART;TZID=Europe/Lisbon:20270810T170000
+DTEND;TZID=Europe/Lisbon:20270815T235900
+DESCRIPTION:Explore by starlight during the Perseids meteor shower for a ch
+ ance to encounter Minior in Pokémon GO!\nThis Minior Shower runs from Aug
+ ust 10\, 2027 at 5:00 p.m. to August 15\, 2027 at 11:59 p.m. local time.\n
+ \n━━ BONUSES ━━\n• Increased Stardust for catching Minior\n• I
+ ncreased chance to encounter Minior from 5:00 p.m. to 9:00 p.m. local time
+  each day\n\n━━ FEATURES ━━\n▸ Minior Cores\nMinior has seven di
+ fferent core colors: Red\, Orange\, Yellow\, Green\, Blue\, Indigo\, and V
+ iolet. A different core color will debut during each of the six meteor sho
+ wers listed below. During the Geminids\, one core color will debut in the 
+ Northern Hemisphere and another in the Southern Hemisphere.\nPokémon: Min
+ ior (Red Core)\, Minior (Orange Core)\, Minior (Yellow Core)\, Minior (Gre
+ en Core)\, Minior (Blue Core)\, Minior (Indigo Core)\, Minior (Violet Core
+ )\nThe core colors available during each shower have not been announced.\n
+ \n▸ Explore by Starlight\nFrom 5:00 p.m. to 9:00 p.m. local time every d
+ ay during each Minior Shower\, shooting stars will light up the in-game sk
+ y. During these hours\, you’ll have an increased chance of encountering 
+ Minior in the wild!\n\n▸ Minior’s Form Changes\nMinior begins battles 
+ in its Meteor Form. When its health drops below 50%\, it changes form and 
+ exposes its core.\n• Meteor Form: Higher Defense and lower Attack.\n• 
+ Core exposed: Higher Attack and lower Defense.\nInitially\, Minior will on
+ ly be able to change forms when battling Team GO Rocket\, team leaders\, o
+ r in the GO Battle League.\nMinior will not be eligible for the 2027 Latin
+  America International Championships.\n\n▸ Annual Meteor Shower Schedule
+ \nMinior can appear during the following meteor showers each year. Each sh
+ ower begins at 5:00 p.m. on its first day and ends at 11:59 p.m. on its la
+ st day\, in local time.\n• Orionids: October 19–24\, 2026\n• Leonids
+ : November 14–19\, 2026\n• Geminids: December 11–16\, 2026\n• Eta 
+ Aquariids: May 3–8\, 2027\n• Southern Delta Aquariids: July 28–Augus
+ t 2\, 2027\n• Perseids: August 10–15\, 2027\n\n━━ SPAWNS ━━\n
+ ▸ Wild Encounters\nYou may encounter Minior in its Meteor Form in the wi
+ ld during the event. You’ll receive increased Stardust for catching Mini
+ or.\nPokémon: Minior (Meteor Form)\nMinior encounters are more likely fro
+ m 5:00 p.m. to 9:00 p.m. local time each day.\n\n🔗 https://leekduck.com
+ /events/minior-showers-perseids-2027/
+URL:https://leekduck.com/events/minior-showers-perseids-2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
