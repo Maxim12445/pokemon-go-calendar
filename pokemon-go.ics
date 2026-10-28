@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:lego-pokemon-go-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:LEGO Stores and Pokémon GO
 DTSTART;TZID=Europe/Lisbon:20260803T100000
 DTEND;TZID=Europe/Lisbon:20260930T235900
@@ -88,7 +88,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-tuesday@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Showcase Tuesday (daily bonus)
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:season-24-twilight-trails@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Season: Twilight Trails
 DTSTART;TZID=Europe/Lisbon:20260908T100000
 DTEND;TZID=Europe/Lisbon:20261201T100000
@@ -171,7 +171,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-september-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GO Pass: September
 DTSTART;TZID=Europe/Lisbon:20260908T100000
 DTEND;TZID=Europe/Lisbon:20261006T100000
@@ -226,7 +226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-wednesday@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Wednesday: Raid Hour (daily bonus)
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
@@ -245,7 +245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026@pokemon
  -go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Shadow Thundurus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Europe/Lisbon:20260909T060000
 DTEND;TZID=Europe/Lisbon:20261006T220000
@@ -264,7 +264,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-thursday@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GO Battle Thursdays and Spotlight Hour (daily bonus)
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
@@ -280,7 +280,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-friday@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Friendship Friday (daily bonus)
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
@@ -298,7 +298,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-sunday@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Scenic Sunday (daily bonus)
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
@@ -317,7 +317,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-monday@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Max Monday (daily bonus)
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
@@ -338,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_retro-cup-g
  reat-league-edition@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and Retro Cup: Gr
  eat League Edition
 DTSTART:20260922T200000Z
@@ -359,7 +359,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-malamar-in-mega-raids-september-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Mega Malamar in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20260923T060000
 DTEND;TZID=Europe/Lisbon:20260929T220000
@@ -375,7 +375,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026@poke
  mon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Xurkitree\, Pheromosa\, and Buzzwole in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20260923T060000
 DTEND;TZID=Europe/Lisbon:20260929T220000
@@ -396,55 +396,8 @@ URL:https://leekduck.com/events/xurkitree-pheromosa-buzzwole-in-5-star-raid
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:choose-your-path-twilight-trails-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
-SUMMARY:Choose Your Path: Twilight Trails
-DTSTART;TZID=Europe/Lisbon:20260923T100000
-DTEND;TZID=Europe/Lisbon:20260928T200000
-DESCRIPTION:Choose Your Path Timed Research gives you the freedom to explor
- e Pokémon GO your way during non-event weeks!\nDuring a Choose Your Path 
- Timed Research week\, you’ll be able to select one of three paths: Explo
- re\, Catch\, or Battle. Your choice will shape the Timed Research tasks an
- d bonuses throughout the week.\nYou may have different research opportunit
- ies than other Trainers. Some Trainers can choose one bonus for the week\,
-  while others can choose a bonus and receive new Timed Research each day.\
- n\n━━ FEATURES ━━\n▸ Choose a Path\nFor the single-bonus version
- \, you can choose one of the following Timed Research paths:\n• Explore 
- (PokéStops)\n• Catch (Candy)\n• Battle (Team GO Rocket)\nFor the sing
- le-bonus version\, choose one path for the week. Once selected\, your path
-  cannot be changed. Your choice determines your Timed Research tasks and g
- rants the corresponding bonus below.\n• Explore (PokéStops): 5× XP for
-  spinning PokéStops\n• Catch (Candy): 2× Candy for catching Pokémon\n
- • Battle (Team GO Rocket): Extra Mysterious Components from Team GO Rock
- et Grunts\n\n▸ Daily Bonus Choices\nSome Trainers can choose a bonus eac
- h day instead. The daily choices include:\n• Explore (PokéStops): 5× X
- P for spinning PokéStops\n• Catch (Stardust): 2× Stardust for catching
-  Pokémon\n• Catch (Candy): 2× Candy for catching Pokémon\n• Battle 
- (Team GO Rocket): Extra Mysterious Components from Team GO Rocket Grunts\n
- Each daily choice grants Timed Research. You can choose a new bonus and re
- ceive new Timed Research each day of the event.\n\n━━ RESEARCH ━━\
- n▸ Field Research\nEvent Field Research tasks are available. Each task r
- ewards 1 Rare Candy.\n• Make 5 Nice Throws → Rare Candy ×1\n• Defea
- t a Team GO Rocket Grunt → Rare Candy ×1\n• Explore 1 km → Rare Can
- dy ×1\n\n▸ Timed Research Details\nThe following Timed Research is avai
- lable for the single-bonus version. Each path awards 5 Rare Candy\, 5\,000
-  XP\, and 5\,000 Stardust upon completion\, in addition to the individual 
- task rewards.\nChoose Explore (PokéStops) to get 5× XP for spinning Pok
- éStops.\nChoose Catch (Candy) to get 2× Candy for catching Pokémon.\nCh
- oose Battle (Team GO Rocket) to get extra Mysterious Components from Team 
- GO Rocket Grunts.\n\n▸ Daily Timed Research\nSome Trainers receive daily
-  Timed Research instead of the single-bonus version above. Tasks and rewar
- ds are listed below.\nChoose Explore (PokéStops) for the day to get 5× X
- P for spinning PokéStops.\nChoose Catch (Candy) for the day to get 2× Ca
- ndy for catching Pokémon.\nChoose Battle (Team GO Rocket) for the day to 
- get extra Mysterious Components from Team GO Rocket Grunts.\n\n🔗 https:
- //leekduck.com/events/choose-your-path-twilight-trails-2026/
-URL:https://leekduck.com/events/choose-your-path-twilight-trails-2026/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-x-adidas-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:adidas × Pokémon Timed Research
 DTSTART;TZID=Europe/Lisbon:20260925T100000
 DTEND;TZID=Europe/Lisbon:20270115T200000
@@ -472,7 +425,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-tcg-30th-celebration@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Pokémon TCG: 30th Celebration
 DTSTART;TZID=Europe/Lisbon:20260927T100000
 DTEND;TZID=Europe/Lisbon:20261020T220000
@@ -494,7 +447,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-09-28@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Dynamax Sobble during Max Monday
 DTSTART;TZID=Europe/Lisbon:20260928T060000
 DTEND;TZID=Europe/Lisbon:20260928T210000
@@ -512,7 +465,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Harvest Festival 2026: Applin Picking
 DTSTART;TZID=Europe/Lisbon:20260929T100000
 DTEND;TZID=Europe/Lisbon:20261005T200000
@@ -585,7 +538,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-color-cup-great-league-edition@p
  okemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GBL: Master League and Mega Color Cup: Great League Edition
 DTSTART:20260929T200000Z
 DTEND:20261006T200000Z
@@ -604,7 +557,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-victreebel-in-mega-raids-september-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Mega Victreebel in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20260930T060000
 DTEND;TZID=Europe/Lisbon:20261006T220000
@@ -620,7 +573,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:xerneas-in-5-star-raid-battles-september-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Xerneas in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20260930T060000
 DTEND;TZID=Europe/Lisbon:20261006T220000
@@ -637,7 +590,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260930@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Xerneas Raid Hour
 DTSTART;TZID=Europe/Lisbon:20260930T180000
 DTEND;TZID=Europe/Lisbon:20260930T190000
@@ -649,7 +602,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-01@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Seedot Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261001T180000
 DTEND;TZID=Europe/Lisbon:20261001T190000
@@ -664,7 +617,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-taken-over-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Harvest Festival: Taken Over
 DTSTART;TZID=Europe/Lisbon:20261002T000000
 DTEND;TZID=Europe/Lisbon:20261005T200000
@@ -708,7 +661,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:patterns-of-the-wild-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Patterns of the Wild
 DTSTART;TZID=Europe/Lisbon:20261002T100000
 DTEND;TZID=Europe/Lisbon:20261002T200000
@@ -752,7 +705,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-cinderace-max-battle-day-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Gigantamax Cinderace Max Battle Day
 DTSTART;TZID=Europe/Lisbon:20261003T140000
 DTEND;TZID=Europe/Lisbon:20261003T170000
@@ -800,7 +753,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:world-space-week-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:World Space Week 2026
 DTSTART;TZID=Europe/Lisbon:20261004T000000
 DTEND;TZID=Europe/Lisbon:20261010T235900
@@ -827,7 +780,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-october-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:???
 DTSTART;TZID=Europe/Lisbon:20261004T100000
 DTEND;TZID=Europe/Lisbon:20261010T200000
@@ -840,7 +793,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-05@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Dynamax Sizzlipede during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261005T060000
 DTEND;TZID=Europe/Lisbon:20261005T210000
@@ -858,7 +811,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-october-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GO Pass: October
 DTSTART;TZID=Europe/Lisbon:20261006T100000
 DTEND;TZID=Europe/Lisbon:20261103T100000
@@ -914,7 +867,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
  _master-league-mega-edition-split-2@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GBL: Great League: Mega Edition\, Ultra League: Mega Edition\, and 
  Master League: Mega Edition
 DTSTART:20261006T200000Z
@@ -937,7 +890,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:shadow-landorus-incarnate-forme-in-shadow-raids-october-2026@pokemon-go
  -calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Shadow Landorus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Europe/Lisbon:20261007T060000
 DTEND;TZID=Europe/Lisbon:20261103T220000
@@ -956,7 +909,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-blastoise-in-mega-raids-october-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Mega Blastoise in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261007T060000
 DTEND;TZID=Europe/Lisbon:20261013T220000
@@ -971,7 +924,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:yveltal-in-5-star-raid-battles-october-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Yveltal in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261007T060000
 DTEND;TZID=Europe/Lisbon:20261013T220000
@@ -988,7 +941,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261007@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Yveltal Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261007T180000
 DTEND;TZID=Europe/Lisbon:20261007T190000
@@ -1000,7 +953,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-08@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Elgyem Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261008T180000
 DTEND;TZID=Europe/Lisbon:20261008T190000
@@ -1015,7 +968,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Zorua Community Day
 DTSTART;TZID=Europe/Lisbon:20261010T140000
 DTEND;TZID=Europe/Lisbon:20261010T170000
@@ -1071,7 +1024,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-12@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Dynamax Rookidee during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261012T060000
 DTEND;TZID=Europe/Lisbon:20261012T210000
@@ -1089,7 +1042,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Fall Marathon: Buddy Trek
 DTSTART;TZID=Europe/Lisbon:20261013T100000
 DTEND;TZID=Europe/Lisbon:20261019T200000
@@ -1165,7 +1118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup@p
  okemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GBL: Great League\, Ultra League: Mega Edition\, and Little Cup
 DTSTART:20261013T200000Z
 DTEND:20261020T200000Z
@@ -1184,7 +1137,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dialga-in-5-star-raid-battles-october-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Dialga in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261014T060000
 DTEND;TZID=Europe/Lisbon:20261020T220000
@@ -1200,7 +1153,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-dragonite-in-mega-raids-october-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Mega Dragonite in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261014T060000
 DTEND;TZID=Europe/Lisbon:20261020T220000
@@ -1215,7 +1168,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261014@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Dialga Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261014T180000
 DTEND;TZID=Europe/Lisbon:20261014T190000
@@ -1227,7 +1180,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-15@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Stufful Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261015T180000
 DTEND;TZID=Europe/Lisbon:20261015T190000
@@ -1242,7 +1195,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sandile-hatch-day-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Sandile Hatch Day
 DTSTART;TZID=Europe/Lisbon:20261017T110000
 DTEND;TZID=Europe/Lisbon:20261017T170000
@@ -1274,7 +1227,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-october-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Hatch Day
 DTSTART;TZID=Europe/Lisbon:20261017T110000
 DTEND;TZID=Europe/Lisbon:20261017T170000
@@ -1286,7 +1239,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-19@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Dynamax Sneasel during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261019T060000
 DTEND;TZID=Europe/Lisbon:20261019T210000
@@ -1304,7 +1257,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-orionids-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Minior Showers: Orionids 2026
 DTSTART;TZID=Europe/Lisbon:20261019T170000
 DTEND;TZID=Europe/Lisbon:20261024T235900
@@ -1356,7 +1309,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup
  -great-league-edition@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and Fantasy Cup: 
  Great League Edition
 DTSTART:20261020T200000Z
@@ -1379,7 +1332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026@pokemon-go
  -calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Mega Charizard X and Mega Charizard Y in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261021T060000
 DTEND;TZID=Europe/Lisbon:20261027T220000
@@ -1396,7 +1349,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:palkia-in-5-star-raid-battles-october-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Palkia in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261021T060000
 DTEND;TZID=Europe/Lisbon:20261027T220000
@@ -1412,7 +1365,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261021@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Palkia Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261021T180000
 DTEND;TZID=Europe/Lisbon:20261021T190000
@@ -1424,7 +1377,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-22@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Morelull Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261022T180000
 DTEND;TZID=Europe/Lisbon:20261022T190000
@@ -1439,7 +1392,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-boston-2026-rescheduled@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Pokémon GO City Safari: Boston (Rescheduled)
 DTSTART;TZID=Europe/Lisbon:20261024T100000
 DTEND;TZID=Europe/Lisbon:20261025T180000
@@ -1484,7 +1437,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-uxie-mesprit-azelf-max-battle-day-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Dynamax Uxie\, Mesprit\, and Azelf Max Battle Day
 DTSTART;TZID=Europe/Lisbon:20261024T140000
 DTEND;TZID=Europe/Lisbon:20261024T170000
@@ -1533,7 +1486,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-october-24-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Dynamax Max Battle Day
 DTSTART;TZID=Europe/Lisbon:20261024T140000
 DTEND;TZID=Europe/Lisbon:20261024T170000
@@ -1545,7 +1498,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-night-out-2026-twitch-drops@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Twitch Drops for Pokémon Night Out 2026
 DTSTART:20261025T023000Z
 DTEND:20261025T065900Z
@@ -1568,7 +1521,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-night-out-los-angeles-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Pokémon Night Out 2026 - Los Angeles
 DTSTART:20261025T023000Z
 DTEND:20261025T065959Z
@@ -1611,7 +1564,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-26@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Dynamax Sableye during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261026T060000
 DTEND;TZID=Europe/Lisbon:20261026T210000
@@ -1629,7 +1582,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-1@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Pokémon GO Halloween 2026 Part I
 DTSTART;TZID=Europe/Lisbon:20261027T100000
 DTEND;TZID=Europe/Lisbon:20261101T100000
@@ -1711,7 +1664,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-halloween-cup-great-league-editi
  on@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GBL: Master League and Mega Halloween Cup: Great League Edition
 DTSTART:20261027T210000Z
 DTEND:20261103T210000Z
@@ -1731,7 +1684,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:giratina-origin-forme-in-5-star-raid-battles-october-2026@pokemon-go-ca
  lendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Giratina (Origin Forme) in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261028T060000
 DTEND;TZID=Europe/Lisbon:20261103T220000
@@ -1749,7 +1702,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sableye-in-mega-raids-october-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Mega Sableye in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261028T060000
 DTEND;TZID=Europe/Lisbon:20261108T220000
@@ -1764,7 +1717,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261028@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Giratina (Origin Forme) Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261028T180000
 DTEND;TZID=Europe/Lisbon:20261028T190000
@@ -1777,7 +1730,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-29@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Gastly Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261029T180000
 DTEND;TZID=Europe/Lisbon:20261029T190000
@@ -1792,7 +1745,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chandelure-super-mega-raid-day-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Chandelure Super Mega Raid Day
 DTSTART;TZID=Europe/Lisbon:20261031T140000
 DTEND;TZID=Europe/Lisbon:20261031T170000
@@ -1851,7 +1804,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-october-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Super Mega Raid Day
 DTSTART;TZID=Europe/Lisbon:20261031T140000
 DTEND;TZID=Europe/Lisbon:20261031T170000
@@ -1863,7 +1816,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-2@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Pokémon GO Halloween 2026 Part II
 DTSTART;TZID=Europe/Lisbon:20261101T100000
 DTEND;TZID=Europe/Lisbon:20261105T200000
@@ -1930,7 +1883,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-11-02@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Dynamax Machop during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261102T060000
 DTEND;TZID=Europe/Lisbon:20261102T210000
@@ -1948,7 +1901,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-november-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GO Pass: November
 DTSTART;TZID=Europe/Lisbon:20261103T100000
 DTEND;TZID=Europe/Lisbon:20261201T100000
@@ -1991,7 +1944,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
  _master-league-mega-edition-split-3@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GBL: Great League: Mega Edition\, Ultra League: Mega Edition\, and 
  Master League: Mega Edition
 DTSTART:20261103T210000Z
@@ -2014,7 +1967,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:giratina-altered-forme-in-5-star-raid-battles-november-2026@pokemon-go-
  calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Giratina (Altered Forme) in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261104T060000
 DTEND;TZID=Europe/Lisbon:20261108T220000
@@ -2034,7 +1987,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026@pokemon
  -go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Shadow Tornadus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Europe/Lisbon:20261104T060000
 DTEND;TZID=Europe/Lisbon:20261108T220000
@@ -2050,7 +2003,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261104@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Giratina (Altered Forme) Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261104T180000
 DTEND;TZID=Europe/Lisbon:20261104T190000
@@ -2063,7 +2016,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-05@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Teddiursa wearing a witch hat Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261105T180000
 DTEND;TZID=Europe/Lisbon:20261105T190000
@@ -2078,7 +2031,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-sendai-japan@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Pokémon GO Wild Area 2026: Sendai • Tohoku
 DTSTART:20261106T010000Z
 DTEND:20261108T090000Z
@@ -2173,7 +2126,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-mexico-city@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Pokémon GO Wild Area 2026: Mexico City
 DTSTART:20261106T160000Z
 DTEND:20261109T000000Z
@@ -2268,7 +2221,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-wild-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Into the Wild
 DTSTART;TZID=Europe/Lisbon:20261109T100000
 DTEND;TZID=Europe/Lisbon:20261113T200000
@@ -2364,7 +2317,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-night-out-london-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Pokémon Night Out 2026 - London
 DTSTART:20261110T180000Z
 DTEND:20261110T223000Z
@@ -2402,7 +2355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic
  -cup@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GBL: Great League\, Ultra League: Mega Edition\, and 2026 GO LAIC C
  up
 DTSTART:20261110T210000Z
@@ -2429,7 +2382,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Pokémon GO Wild Area 2026: Global
 DTSTART;TZID=Europe/Lisbon:20261114T100000
 DTEND;TZID=Europe/Lisbon:20261115T180000
@@ -2523,7 +2476,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-leonids-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Minior Showers: Leonids 2026
 DTSTART;TZID=Europe/Lisbon:20261114T170000
 DTEND;TZID=Europe/Lisbon:20261119T235900
@@ -2567,7 +2520,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-11-16@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Max Monday: Pokémon to be announced
 DTSTART;TZID=Europe/Lisbon:20261116T060000
 DTEND;TZID=Europe/Lisbon:20261116T210000
@@ -2586,7 +2539,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-darkrai-in-5-star-raid-battles-november-2026@pokemon-go-calen
  dar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Cresselia and Darkrai in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261116T060000
 DTEND;TZID=Europe/Lisbon:20261124T220000
@@ -2605,7 +2558,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-november-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Mega Banette in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261116T060000
 DTEND;TZID=Europe/Lisbon:20261124T220000
@@ -2621,7 +2574,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026@pokemo
  n-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Shadow Tornadus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Europe/Lisbon:20261116T060000
 DTEND;TZID=Europe/Lisbon:20261201T220000
@@ -2637,19 +2590,78 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-trails-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Dynamax Trails
 DTSTART;TZID=Europe/Lisbon:20261116T100000
 DTEND;TZID=Europe/Lisbon:20261123T200000
-DESCRIPTION:The Dynamax Trails event will take place from November 16\, 202
- 6 to November 23\, 2026. Stay tuned for more details.\n\n🔗 https://leek
- duck.com/events/dynamax-trails-2026/
+DESCRIPTION:Get ready for a week of Max Battles! Dynamax Pokémon return\, 
+ Max Particles are surging in the wild\, and Eternamax Eternatus returns to
+  Power Spots during Dynamax Trails.\nThe Dynamax Trails event will take pl
+ ace from November 16\, 2026 at 10 am to November 23\, 2026 at 8 pm local t
+ ime.\n\n▸ Related Events\n\n━━ BONUSES ━━\nThe following bonuses
+  will be active during the event.\n• Chance to receive Max Particles whe
+ n catching event-themed Pokémon in the wild or after Max Battles\n• Mor
+ e Power Spots than usual will be active\nMax Particles cannot be obtained 
+ from catches with the Explorer Gadget or a Pokémon GO Plus +.\n\n━━ F
+ EATURES ━━\n▸ Max Battles\nAll Dynamax Pokémon that have previously
+  appeared in Pokémon GO may appear in Max Battles during the event\, excl
+ uding Legendary and Mythical Pokémon.\n\n▸ Special Background\nAfter su
+ ccessfully catching a Pokémon from a Max Battle during the event\, Traine
+ rs will have a chance to receive a Special Background. It appears on the P
+ okémon’s summary page to commemorate when it was caught.\n\n▸ Eternat
+ us Returns\nEternamax Eternatus will take over the majority of Power Spots
+  on November 21\, 2026\, from 11 am to 2 pm local time.\nPokémon: Eternam
+ ax Eternatus\nTrainers cannot catch Eternamax Eternatus after defeating it
+  in Max Battles. Instead\, they will earn a large amount of Eternatus Cand
+ y and Eternatus Candy XL to power up Eternatus obtained through GO Pass: D
+ ynamax Trails.\nDuring this window\, Power Spots will refresh more frequen
+ tly\, the Max Particle collection limit will increase to 2\,400\, and Powe
+ r Spots will award 8× Max Particles.\nThe daily Remote Raid limit will in
+ crease from 10 to 30 from November 20 at 1 pm to November 21 at 6 pm PST (
+ GMT −8).\nView the Eternamax Eternatus event details.\n\n▸ Spotlight H
+ our\nGrookey\, Scorbunny\, and Sobble will be featured during Pokémon Spo
+ tlight Hour on November 19\, 2026\, from 6 pm to 7 pm local time. The bonu
+ s will be 2× Catch Candy.\nPokémon: Grookey\, Scorbunny\, Sobble\n\n▸ 
+ Event-Themed Stickers\nGet event-themed stickers by spinning PokéStops\, 
+ opening Gifts\, purchasing them from the in-game shop\, and progressing th
+ rough your GO Pass.\n\n━━ SPAWNS ━━\n▸ Wild Encounters\nEvent-th
+ emed Pokémon will appear in the wild\, including any Pokémon that has de
+ buted in Dynamax Max Battles\, excluding Legendary and Mythical Pokémon.\
+ n\n━━ RESEARCH ━━\n▸ Field Research Task Rewards\nComplete event
+ -themed Field Research tasks to earn Stardust\, Eternatus Candy\, encounte
+ rs with event-themed Pokémon\, and more.\n\n━━ GO PASS ━━\n▸ GO
+  Pass: Dynamax Trails\nGO Pass is a free\, limited-time progression track.
+  Collect GO Points and complete Pass Tasks to rank up and earn rewards.\nT
+ rainers will automatically receive GO Pass: Dynamax Trails on November 16\
+ , 2026\, at 10 am local time. GO Points can be collected through November 
+ 23\, 2026\, at 8 pm local time.\nTrainers who claim Tier 1 rewards (Rank 2
+ 5) on GO Pass: Into the Wild will receive early access on November 14\, 20
+ 26\, at 10 am local time\, and a free upgrade to GO Pass Deluxe: Dynamax T
+ rails.\nGO Pass Deluxe is also available for US$4.99 (or the equivalent pr
+ icing tier in your local currency)\, offering upgraded rewards and faster 
+ progression. Deluxe Trainers can claim rewards from both tracks\, includin
+ g rewards from ranks unlocked before upgrading.\nClaim all unlocked reward
+ s by November 25\, 2026\, at 8 pm local time\, before they expire.\n\n▸ 
+ Featured Pokémon and Rewards\nComplete Pass Tasks to earn:\n• Encounter
+ s with event-themed Dynamax Pokémon with a Special Background\n• An enc
+ ounter with Eternatus\, or 100 Eternatus Candy if you have already caught 
+ Eternatus\n• Eternatus Candy and Candy XL\n• Rare Candy\n• Stardust\
+ n• Event-themed stickers\n• Additional rewards\nPokémon: Eternatus\nE
+ ternatus can only be caught once during this event and requires much more 
+ Candy and Candy XL to power up due to its massive power. Trainers who have
+  already caught Eternatus will receive Candy to continue powering it up.\n
+ GO Pass Deluxe also offers:\n• Additional encounters with event-themed D
+ ynamax Pokémon with a Special Background\n• More Eternatus Candy and Ca
+ ndy XL\n• Silver Pinap Berries\n• Rare Candy XL\n• Event-themed stic
+ kers\n• Additional rewards\n\n▸ Major Milestone Bonuses\nReach the fol
+ lowing ranks on your event GO Pass to unlock these bonuses.\n\n▸ Tier 1:
+  Rank 15\n…\n\n🔗 https://leekduck.com/events/dynamax-trails-2026/
 URL:https://leekduck.com/events/dynamax-trails-2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261118@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Cresselia and Darkrai Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261118T180000
 DTEND;TZID=Europe/Lisbon:20261118T190000
@@ -2663,7 +2675,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-lai
  c-cup@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and 2026 GO LAIC 
  Cup
 DTSTART:20261118T210000Z
@@ -2690,8 +2702,49 @@ URL:https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-lea
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2026-11-19@pokemon-go-calendar
+DTSTAMP:20261028T201547Z
+SUMMARY:Grookey\, Scorbunny\, and Sobble Spotlight Hour
+DTSTART;TZID=Europe/Lisbon:20261119T180000
+DTEND;TZID=Europe/Lisbon:20261119T190000
+DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and s
+ pecial bonus for one hour at 6:00 p.m. local time.\nNovember 19: The featu
+ red Pokémon are Grookey\, Scorbunny\, and Sobble and the special bonus is
+  2× Catch Candy.\n\n▸ Related Events\n\n━━ SPAWNS ━━\nThe follo
+ wing Pokémon will appear more frequently in the wild.\nPokémon: Grookey\
+ , Scorbunny\, Sobble\n\n🔗 https://leekduck.com/events/pokemonspotlighth
+ our2026-11-19/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-11-19/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eternamax-eternatus-max-battles-2026@pokemon-go-calendar
+DTSTAMP:20261028T201547Z
+SUMMARY:Max Battle: Eternamax Eternatus Returns
+DTSTART;TZID=Europe/Lisbon:20261121T110000
+DTEND;TZID=Europe/Lisbon:20261121T140000
+DESCRIPTION:Eternamax Eternatus returns during Dynamax Trails\, taking over
+  the majority of Power Spots on November 21\, 2026\, from 11 am to 2 pm lo
+ cal time.\n\n▸ Related Events\n\n━━ BONUSES ━━\nThe following bo
+ nuses will be active during the event.\n• Power Spots will refresh more 
+ frequently\n• Max Particle collection limit increased to 2\,400\n• 8×
+  Max Particles from Power Spots\nThe daily Remote Raid limit will increase
+  from 10 to 30 from November 20 at 1 pm to November 21 at 6 pm PST (GMT 
+ −8).\n\n━━ FEATURES ━━\n▸ Eternamax Eternatus in Max Battles\n
+ Pokémon: Eternamax Eternatus\nDefeat Eternamax Eternatus in Max Battles t
+ o earn a large amount of Eternatus Candy and Eternatus Candy XL. Eternamax
+  Eternatus cannot be caught after these battles.\n\n▸ Encounter Eternatu
+ s through GO Pass\nEternatus is available through GO Pass: Dynamax Trails.
+  Trainers who have already caught Eternatus will receive 100 Eternatus Can
+ dy instead of another encounter.\nBoth the free GO Pass and GO Pass Deluxe
+  provide Eternatus Candy and Candy XL to help power it up.\n\n🔗 https:/
+ /leekduck.com/events/eternamax-eternatus-max-battles-2026/
+URL:https://leekduck.com/events/eternamax-eternatus-max-battles-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:november-communityday2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Pawniard Community Day
 DTSTART;TZID=Europe/Lisbon:20261121T140000
 DTEND;TZID=Europe/Lisbon:20261121T170000
@@ -2755,7 +2808,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-11-23@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Dynamax Espurr during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261123T060000
 DTEND;TZID=Europe/Lisbon:20261123T210000
@@ -2773,7 +2826,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:twilight-wishes-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Twilight Wishes
 DTSTART;TZID=Europe/Lisbon:20261124T100000
 DTEND;TZID=Europe/Lisbon:20261130T200000
@@ -2786,7 +2839,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition@p
  okemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:GBL: Master League and Mega Catch Cup: Great League Edition
 DTSTART:20261124T210000Z
 DTEND:20261201T210000Z
@@ -2808,7 +2861,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-novemb
  er-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Deoxys (Normal\, Defense\, Attack\, and Speed Formes) in 5-star Rai
  d Battles
 DTSTART;TZID=Europe/Lisbon:20261125T060000
@@ -2831,7 +2884,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-metagross-in-mega-raids-november-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Mega Metagross in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261125T060000
 DTEND;TZID=Europe/Lisbon:20261201T220000
@@ -2847,7 +2900,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261125@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261125T180000
 DTEND;TZID=Europe/Lisbon:20261125T190000
@@ -2860,7 +2913,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-26@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Noibat Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261126T180000
 DTEND;TZID=Europe/Lisbon:20261126T190000
@@ -2875,7 +2928,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-november-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Super Mega Raid Day
 DTSTART;TZID=Europe/Lisbon:20261128T140000
 DTEND;TZID=Europe/Lisbon:20261128T170000
@@ -2887,7 +2940,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-11-30@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Dynamax Cryogonal during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261130T060000
 DTEND;TZID=Europe/Lisbon:20261130T210000
@@ -2905,7 +2958,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-geminids-2026@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Minior Showers: Geminids 2026
 DTSTART;TZID=Europe/Lisbon:20261211T170000
 DTEND;TZID=Europe/Lisbon:20261216T235900
@@ -2949,7 +3002,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Pokémon GO Tour: Alola - Kaohsiung 2027
 DTSTART:20270218T160000Z
 DTEND:20270221T155959Z
@@ -2967,7 +3020,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Pokémon GO Tour: Alola - Los Angeles 2027
 DTSTART:20270219T080000Z
 DTEND:20270222T075959Z
@@ -2985,7 +3038,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Pokémon GO Tour: Alola - Global 2027
 DTSTART;TZID=Europe/Lisbon:20270227T000000
 DTEND;TZID=Europe/Lisbon:20270228T235959
@@ -3003,7 +3056,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Minior Showers: Eta Aquariids 2027
 DTSTART;TZID=Europe/Lisbon:20270503T170000
 DTEND;TZID=Europe/Lisbon:20270508T235900
@@ -3047,7 +3100,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Minior Showers: Southern Delta Aquariids 2027
 DTSTART;TZID=Europe/Lisbon:20270728T170000
 DTEND;TZID=Europe/Lisbon:20270802T235900
@@ -3092,7 +3145,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027@pokemon-go-calendar
-DTSTAMP:20261028T093905Z
+DTSTAMP:20261028T201547Z
 SUMMARY:Minior Showers: Perseids 2027
 DTSTART;TZID=Europe/Lisbon:20270810T170000
 DTEND;TZID=Europe/Lisbon:20270815T235900
