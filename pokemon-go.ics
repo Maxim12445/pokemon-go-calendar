@@ -29,7 +29,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-tuesday@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Showcase Tuesday (daily bonus)
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
@@ -45,7 +45,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:season-24-twilight-trails@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Season: Twilight Trails
 DTSTART;TZID=Europe/Lisbon:20260908T100000
 DTEND;TZID=Europe/Lisbon:20261201T100000
@@ -112,7 +112,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-september-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:GO Pass: September
 DTSTART;TZID=Europe/Lisbon:20260908T100000
 DTEND;TZID=Europe/Lisbon:20261006T100000
@@ -167,7 +167,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-wednesday@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Wednesday: Raid Hour (daily bonus)
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
@@ -186,7 +186,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026@pokemon
  -go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Shadow Thundurus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Europe/Lisbon:20260909T060000
 DTEND;TZID=Europe/Lisbon:20261006T220000
@@ -205,7 +205,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-thursday@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:GO Battle Thursdays and Spotlight Hour (daily bonus)
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
@@ -221,7 +221,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-friday@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Friendship Friday (daily bonus)
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
@@ -239,7 +239,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-sunday@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Scenic Sunday (daily bonus)
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
@@ -258,7 +258,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-season-24-twilight-trails-monday@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Max Monday (daily bonus)
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
@@ -278,7 +278,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-x-adidas-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:adidas × Pokémon Timed Research
 DTSTART;TZID=Europe/Lisbon:20260925T100000
 DTEND;TZID=Europe/Lisbon:20270115T200000
@@ -306,7 +306,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-tcg-30th-celebration@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Pokémon TCG: 30th Celebration
 DTSTART;TZID=Europe/Lisbon:20260927T100000
 DTEND;TZID=Europe/Lisbon:20261020T220000
@@ -328,7 +328,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Harvest Festival 2026: Applin Picking
 DTSTART;TZID=Europe/Lisbon:20260929T100000
 DTEND;TZID=Europe/Lisbon:20261005T200000
@@ -401,7 +401,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-color-cup-great-league-edition@p
  okemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:GBL: Master League and Mega Color Cup: Great League Edition
 DTSTART:20260929T200000Z
 DTEND:20261006T200000Z
@@ -420,7 +420,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-victreebel-in-mega-raids-september-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Mega Victreebel in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20260930T060000
 DTEND;TZID=Europe/Lisbon:20261006T220000
@@ -436,7 +436,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:xerneas-in-5-star-raid-battles-september-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Xerneas in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20260930T060000
 DTEND;TZID=Europe/Lisbon:20261006T220000
@@ -453,7 +453,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-taken-over-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Harvest Festival: Taken Over
 DTSTART;TZID=Europe/Lisbon:20261002T000000
 DTEND;TZID=Europe/Lisbon:20261005T200000
@@ -497,7 +497,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:world-space-week-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:World Space Week 2026
 DTSTART;TZID=Europe/Lisbon:20261004T000000
 DTEND;TZID=Europe/Lisbon:20261010T235900
@@ -524,7 +524,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-event-october-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:???
 DTSTART;TZID=Europe/Lisbon:20261004T100000
 DTEND;TZID=Europe/Lisbon:20261010T200000
@@ -537,7 +537,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-05@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Dynamax Sizzlipede during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261005T060000
 DTEND;TZID=Europe/Lisbon:20261005T210000
@@ -555,7 +555,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-october-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:GO Pass: October
 DTSTART;TZID=Europe/Lisbon:20261006T100000
 DTEND;TZID=Europe/Lisbon:20261103T100000
@@ -611,7 +611,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
  _master-league-mega-edition-split-2@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:GBL: Great League: Mega Edition\, Ultra League: Mega Edition\, and 
  Master League: Mega Edition
 DTSTART:20261006T200000Z
@@ -634,7 +634,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:shadow-landorus-incarnate-forme-in-shadow-raids-october-2026@pokemon-go
  -calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Shadow Landorus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Europe/Lisbon:20261007T060000
 DTEND;TZID=Europe/Lisbon:20261103T220000
@@ -653,7 +653,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-blastoise-in-mega-raids-october-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Mega Blastoise in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261007T060000
 DTEND;TZID=Europe/Lisbon:20261013T220000
@@ -668,7 +668,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:yveltal-in-5-star-raid-battles-october-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Yveltal in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261007T060000
 DTEND;TZID=Europe/Lisbon:20261013T220000
@@ -685,7 +685,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261007@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Yveltal Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261007T180000
 DTEND;TZID=Europe/Lisbon:20261007T190000
@@ -697,7 +697,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-08@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Elgyem Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261008T180000
 DTEND;TZID=Europe/Lisbon:20261008T190000
@@ -712,7 +712,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:october-communityday2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Zorua Community Day
 DTSTART;TZID=Europe/Lisbon:20261010T140000
 DTEND;TZID=Europe/Lisbon:20261010T170000
@@ -768,7 +768,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-12@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Dynamax Rookidee during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261012T060000
 DTEND;TZID=Europe/Lisbon:20261012T210000
@@ -786,7 +786,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Fall Marathon: Buddy Trek
 DTSTART;TZID=Europe/Lisbon:20261013T100000
 DTEND;TZID=Europe/Lisbon:20261019T200000
@@ -862,7 +862,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup@p
  okemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:GBL: Great League\, Ultra League: Mega Edition\, and Little Cup
 DTSTART:20261013T200000Z
 DTEND:20261020T200000Z
@@ -881,7 +881,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dialga-in-5-star-raid-battles-october-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Dialga in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261014T060000
 DTEND;TZID=Europe/Lisbon:20261020T220000
@@ -897,7 +897,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-dragonite-in-mega-raids-october-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Mega Dragonite in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261014T060000
 DTEND;TZID=Europe/Lisbon:20261020T220000
@@ -912,7 +912,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261014@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Dialga Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261014T180000
 DTEND;TZID=Europe/Lisbon:20261014T190000
@@ -924,7 +924,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-15@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Stufful Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261015T180000
 DTEND;TZID=Europe/Lisbon:20261015T190000
@@ -939,7 +939,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sandile-hatch-day-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Sandile Hatch Day
 DTSTART;TZID=Europe/Lisbon:20261017T110000
 DTEND;TZID=Europe/Lisbon:20261017T170000
@@ -971,7 +971,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-october-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Hatch Day
 DTSTART;TZID=Europe/Lisbon:20261017T110000
 DTEND;TZID=Europe/Lisbon:20261017T170000
@@ -983,7 +983,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-19@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Dynamax Sneasel during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261019T060000
 DTEND;TZID=Europe/Lisbon:20261019T210000
@@ -1001,7 +1001,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-orionids-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Minior Showers: Orionids 2026
 DTSTART;TZID=Europe/Lisbon:20261019T170000
 DTEND;TZID=Europe/Lisbon:20261024T235900
@@ -1053,7 +1053,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup
  -great-league-edition@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and Fantasy Cup: 
  Great League Edition
 DTSTART:20261020T200000Z
@@ -1076,7 +1076,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026@pokemon-go
  -calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Mega Charizard X and Mega Charizard Y in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261021T060000
 DTEND;TZID=Europe/Lisbon:20261027T220000
@@ -1093,7 +1093,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:palkia-in-5-star-raid-battles-october-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Palkia in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261021T060000
 DTEND;TZID=Europe/Lisbon:20261027T220000
@@ -1109,7 +1109,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261021@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Palkia Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261021T180000
 DTEND;TZID=Europe/Lisbon:20261021T190000
@@ -1121,7 +1121,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-22@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Morelull Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261022T180000
 DTEND;TZID=Europe/Lisbon:20261022T190000
@@ -1136,7 +1136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-boston-2026-rescheduled@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Pokémon GO City Safari: Boston (Rescheduled)
 DTSTART;TZID=Europe/Lisbon:20261024T100000
 DTEND;TZID=Europe/Lisbon:20261025T180000
@@ -1181,7 +1181,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-uxie-mesprit-azelf-max-battle-day-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Dynamax Uxie\, Mesprit\, and Azelf Max Battle Day
 DTSTART;TZID=Europe/Lisbon:20261024T140000
 DTEND;TZID=Europe/Lisbon:20261024T170000
@@ -1230,7 +1230,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-october-24-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Dynamax Max Battle Day
 DTSTART;TZID=Europe/Lisbon:20261024T140000
 DTEND;TZID=Europe/Lisbon:20261024T170000
@@ -1242,7 +1242,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-night-out-2026-twitch-drops@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Twitch Drops for Pokémon Night Out 2026
 DTSTART:20261025T023000Z
 DTEND:20261025T065900Z
@@ -1265,7 +1265,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-night-out-los-angeles-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Pokémon Night Out 2026 - Los Angeles
 DTSTART:20261025T023000Z
 DTEND:20261025T065959Z
@@ -1308,7 +1308,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-26@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Dynamax Sableye during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261026T060000
 DTEND;TZID=Europe/Lisbon:20261026T210000
@@ -1326,7 +1326,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-1@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Pokémon GO Halloween 2026 Part I
 DTSTART;TZID=Europe/Lisbon:20261027T100000
 DTEND;TZID=Europe/Lisbon:20261101T100000
@@ -1411,7 +1411,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-halloween-cup-great-league-editi
  on@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:GBL: Master League and Mega Halloween Cup: Great League Edition
 DTSTART:20261027T210000Z
 DTEND:20261103T210000Z
@@ -1431,7 +1431,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:giratina-origin-forme-in-5-star-raid-battles-october-2026@pokemon-go-ca
  lendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Giratina (Origin Forme) in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261028T060000
 DTEND;TZID=Europe/Lisbon:20261103T220000
@@ -1449,7 +1449,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sableye-in-mega-raids-october-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Mega Sableye in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261028T060000
 DTEND;TZID=Europe/Lisbon:20261108T220000
@@ -1464,7 +1464,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261028@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Giratina (Origin Forme) Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261028T180000
 DTEND;TZID=Europe/Lisbon:20261028T190000
@@ -1477,7 +1477,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-29@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Gastly Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261029T180000
 DTEND;TZID=Europe/Lisbon:20261029T190000
@@ -1492,7 +1492,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:chandelure-super-mega-raid-day-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Chandelure Super Mega Raid Day
 DTSTART;TZID=Europe/Lisbon:20261031T140000
 DTEND;TZID=Europe/Lisbon:20261031T170000
@@ -1551,7 +1551,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-october-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Super Mega Raid Day
 DTSTART;TZID=Europe/Lisbon:20261031T140000
 DTEND;TZID=Europe/Lisbon:20261031T170000
@@ -1563,7 +1563,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-2@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Pokémon GO Halloween 2026 Part II
 DTSTART;TZID=Europe/Lisbon:20261101T100000
 DTEND;TZID=Europe/Lisbon:20261105T200000
@@ -1642,7 +1642,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-11-02@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Dynamax Machop during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261102T060000
 DTEND;TZID=Europe/Lisbon:20261102T210000
@@ -1660,7 +1660,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-november-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:GO Pass: November
 DTSTART;TZID=Europe/Lisbon:20261103T100000
 DTEND;TZID=Europe/Lisbon:20261201T100000
@@ -1707,7 +1707,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
  _master-league-mega-edition-split-3@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:GBL: Great League: Mega Edition\, Ultra League: Mega Edition\, and 
  Master League: Mega Edition
 DTSTART:20261103T210000Z
@@ -1730,7 +1730,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:giratina-altered-forme-in-5-star-raid-battles-november-2026@pokemon-go-
  calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Giratina (Altered Forme) in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261104T060000
 DTEND;TZID=Europe/Lisbon:20261108T220000
@@ -1750,7 +1750,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026@pokemon
  -go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Shadow Tornadus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Europe/Lisbon:20261104T060000
 DTEND;TZID=Europe/Lisbon:20261108T220000
@@ -1766,7 +1766,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261104@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Giratina (Altered Forme) Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261104T180000
 DTEND;TZID=Europe/Lisbon:20261104T190000
@@ -1779,7 +1779,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-05@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Teddiursa wearing a witch hat Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261105T180000
 DTEND;TZID=Europe/Lisbon:20261105T190000
@@ -1794,7 +1794,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-sendai-japan@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Pokémon GO Wild Area 2026: Sendai • Tohoku
 DTSTART:20261106T010000Z
 DTEND:20261108T090000Z
@@ -1839,57 +1839,57 @@ DESCRIPTION:GO Wild Area returns in 2026 with Steel- and Dragon-type Pokém
  \, you may encounter a Shiny one!\nPokémon: Gigantamax Duraludon\n\n▸ D
  ynamax Dialga and Dynamax Palkia\nDynamax Dialga and Dynamax Palkia make t
  heir Pokémon GO debuts during GO Wild Area 2026. Both can be Shiny!\nBoth
-  Pokémon will appear in Max Battles during the in-person event.\n\n▸ Ma
- champ Wearing a Modern Jacket\nA new costumed Machamp appears in three-sta
- r raids during the event. Lucky Trainers may encounter a Shiny one! Ticket
-  holders can also encounter this Machamp as a mighty Pokémon in the wild.
- \n\n▸ Hisuian Sliggoo and Hisuian Goodra Debut\nHisuian Sliggoo and Hisu
- ian Goodra debut at the in-person GO Wild Area events. Ticket holders may 
- find Hisuian Sliggoo in the wild during either habitat hour\, including it
- s Shiny form.\nUse 100 Goomy Candy to evolve Hisuian Sliggoo into Hisuian 
- Goodra.\nPokémon: Hisuian Sliggoo\, Hisuian Goodra\n\n▸ Location Backgr
- ounds\nTicket holders who successfully catch Machamp wearing a modern jack
- et\, Dynamax Dialga\, Dynamax Palkia\, Gigantamax Duraludon\, Crowned Swor
- d Zacian\, or Crowned Shield Zamazenta from raids or Max Battles have a ch
- ance to receive a Sendai Location Background.\nLocation Backgrounds are av
- ailable only from in-person raids and Max Battles\; remote participants ca
- nnot receive them.\n\n▸ Mighty Latias and Latios\nTicket holders may att
- ract mighty Latias and Latios with Incense\, excluding Daily Adventure Inc
- ense\, on their ticketed event day. Both can be Shiny and are quick to fle
- e\, so keep GO Safari Balls ready.\n\n▸ GO Safari Balls\n…\n\n━━ S
- PAWNS ━━\n▸ Rotating Habitat Hours\nSteel- and Dragon-themed encount
- ers rotate hourly from 10:00 a.m. to 6:00 p.m. throughout the event area o
- n your ticketed day.\n\n▸ Solid as Steel Hour\n10:00 a.m. to 11:00 a.m. 
- 12:00 p.m. to 1:00 p.m. 2:00 p.m. to 3:00 p.m. 4:00 p.m. to 5:00 p.m.\nPok
- émon: Alolan Sandshrew\, Alolan Diglett\, Magnemite\, Shellder\, Onix\, P
- orygon\, Shuckle\, Skarmory\, Nosepass\, Aron\, Beldum\, Piplup\, Shieldon
- \, Bronzor\, Lucario\, Drilbur\, Ferroseed\, Klink\, Galarian Stunfisk\, D
- urant\, Hisuian Sliggoo\, Rookidee\, Tinkatink\, Orthworm\n\n▸ Daring as
-  Dragons Hour\n11:00 a.m. to 12:00 p.m. 1:00 p.m. to 2:00 p.m. 3:00 p.m. t
- o 4:00 p.m. 5:00 p.m. to 6:00 p.m.\nPokémon: Charmander\, Magikarp\, Drat
- ini\, Gligar\, Trapinch\, Swablu\, Barboach\, Bagon\, Gible\, Tynamo\, Axe
- w\, Heatmor\, Deino\, Skrelp\, Tyrunt\, Amaura\, Goomy\, Hisuian Sliggoo\,
-  Noibat\, Turtonator\, Jangmo-o\, Applin\, Sizzlipede\, Frigibax\n\n▸ Mi
- ghty Pokémon\nMighty Pokémon are more likely to have high Attack\, Defen
- se\, and HP ratings and be XL or XXL. They are harder to catch\, and some 
- may be Shiny. GO Safari Balls improve your chances of catching them.\nMigh
- ty Pokémon can appear during either habitat hour. The in-person lineup in
- cludes mighty Machamp wearing a modern jacket\, Bastiodon\, and Kommo-o\, 
- plus mighty Lapras in Sendai.\nPokémon: Modern Jacket Machamp\, Alolan Ex
- eggutor\, Lapras\, Azumarill\, Scizor\, Kingdra\, Aggron\, Flygon\, Walrei
- n\, Metagross\, Empoleon\, Bastiodon\, Magnezone\, Conkeldurr\, Ferrothorn
- \, Haxorus\, Hydreigon\, Goodra\, Noivern\, Kommo-o\, Tinkaton\, Clodsire\
- n\n▸ Incense Encounters\nTicket holders can attract the following mighty
-  Pokémon during the event. These encounters exclude Daily Adventure Incen
- se.\nPokémon: Lapras\, Azumarill\, Scizor\, Kingdra\, Aggron\, Flygon\, E
- mpoleon\, Bastiodon\, Conkeldurr\, Hydreigon\, Kommo-o\n\n…\n\n━━ EG
- GS ━━\n…
+  Pokémon will appear in Max Battles during the in-person event.\n\n▸ Pr
+ ivate Dynamax Battle Groups\nStarting with GO Wild Area 2026\, Dynamax Bat
+ tle lobbies offer Battle to match automatically with other Trainers or Pri
+ vate Group to join an existing group using its group code.\n\n▸ Adventur
+ e Effects in Battle Lobbies\nTicket holders at the Sendai and Mexico City 
+ events get early access to activating select Adventure Effects while waiti
+ ng in a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Bl
+ ade or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before 
+ a Max Battle to help your group.\nThis feature becomes more widely availab
+ le starting with Into the Wild on November 9.\n\n▸ Machamp Wearing a Mod
+ ern Jacket\nA new costumed Machamp appears in three-star raids during the 
+ event. Lucky Trainers may encounter a Shiny one! Ticket holders can also e
+ ncounter this Machamp as a mighty Pokémon in the wild.\n\n▸ Hisuian Sli
+ ggoo and Hisuian Goodra Debut\nHisuian Sliggoo and Hisuian Goodra debut at
+  the in-person GO Wild Area events. Ticket holders may find Hisuian Sliggo
+ o in the wild during either habitat hour\, including its Shiny form.\nUse 
+ 100 Goomy Candy to evolve Hisuian Sliggoo into Hisuian Goodra.\nPokémon: 
+ Hisuian Sliggoo\, Hisuian Goodra\n\n▸ Location Backgrounds\n…\n\n━
+ ━ SPAWNS ━━\n▸ Rotating Habitat Hours\nSteel- and Dragon-themed en
+ counters rotate hourly from 10:00 a.m. to 6:00 p.m. throughout the event a
+ rea on your ticketed day.\n\n▸ Solid as Steel Hour\n10:00 a.m. to 11:00 
+ a.m. 12:00 p.m. to 1:00 p.m. 2:00 p.m. to 3:00 p.m. 4:00 p.m. to 5:00 p.m.
+ \nPokémon: Alolan Sandshrew\, Alolan Diglett\, Magnemite\, Shellder\, Oni
+ x\, Porygon\, Shuckle\, Skarmory\, Nosepass\, Aron\, Beldum\, Piplup\, Shi
+ eldon\, Bronzor\, Lucario\, Drilbur\, Ferroseed\, Klink\, Galarian Stunfis
+ k\, Durant\, Hisuian Sliggoo\, Rookidee\, Tinkatink\, Orthworm\n\n▸ Dari
+ ng as Dragons Hour\n11:00 a.m. to 12:00 p.m. 1:00 p.m. to 2:00 p.m. 3:00 p
+ .m. to 4:00 p.m. 5:00 p.m. to 6:00 p.m.\nPokémon: Charmander\, Magikarp\,
+  Dratini\, Gligar\, Trapinch\, Swablu\, Barboach\, Bagon\, Gible\, Tynamo\
+ , Axew\, Heatmor\, Deino\, Skrelp\, Tyrunt\, Amaura\, Goomy\, Hisuian Slig
+ goo\, Noibat\, Turtonator\, Jangmo-o\, Applin\, Sizzlipede\, Frigibax\n\n
+ ▸ Mighty Pokémon\nMighty Pokémon are more likely to have high Attack\,
+  Defense\, and HP ratings and be XL or XXL. They are harder to catch\, and
+  some may be Shiny. GO Safari Balls improve your chances of catching them.
+ \nMighty Pokémon can appear during either habitat hour. The in-person lin
+ eup includes mighty Machamp wearing a modern jacket\, Bastiodon\, and Komm
+ o-o\, plus mighty Lapras in Sendai.\nPokémon: Modern Jacket Machamp\, Alo
+ lan Exeggutor\, Lapras\, Azumarill\, Scizor\, Kingdra\, Aggron\, Flygon\, 
+ Walrein\, Metagross\, Empoleon\, Bastiodon\, Magnezone\, Conkeldurr\, Ferr
+ othorn\, Haxorus\, Hydreigon\, Goodra\, Noivern\, Kommo-o\, Tinkaton\, Clo
+ dsire\n\n▸ Incense Encounters\nTicket holders can attract the following 
+ mighty Pokémon during the event. These encounters exclude Daily Adventure
+  Incense.\nPokémon: Lapras\, Azumarill\, Scizor\, Kingdra\, Aggron\, Flyg
+ on\, Empoleon\, Bastiodon\, Conkeldurr\, Hydreigon\, Kommo-o\n\n…\n\n━
+ ━ EGGS ━━\n…
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-mexico-city@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Pokémon GO Wild Area 2026: Mexico City
 DTSTART:20261106T160000Z
 DTEND:20261109T000000Z
@@ -1931,60 +1931,60 @@ DESCRIPTION:GO Wild Area returns in 2026 with Steel- and Dragon-type Pokém
  u may encounter a Shiny one!\nPokémon: Gigantamax Duraludon\n\n▸ Dynama
  x Dialga and Dynamax Palkia\nDynamax Dialga and Dynamax Palkia make their 
  Pokémon GO debuts during GO Wild Area 2026. Both can be Shiny!\nBoth Pok
- émon will appear in Max Battles during the in-person event.\n\n▸ Macham
- p Wearing a Modern Jacket\nA new costumed Machamp appears in three-star ra
- ids during the event. Lucky Trainers may encounter a Shiny one! Ticket hol
- ders can also encounter this Machamp as a mighty Pokémon in the wild.\n\n
- ▸ Hisuian Sliggoo and Hisuian Goodra Debut\nHisuian Sliggoo and Hisuian 
- Goodra debut at the in-person GO Wild Area events. Ticket holders may find
-  Hisuian Sliggoo in the wild during either habitat hour\, including its Sh
- iny form.\nUse 100 Goomy Candy to evolve Hisuian Sliggoo into Hisuian Good
- ra.\nPokémon: Hisuian Sliggoo\, Hisuian Goodra\n\n▸ Location Background
- s\nTicket holders who successfully catch Machamp wearing a modern jacket\,
-  Dynamax Dialga\, Dynamax Palkia\, Gigantamax Duraludon\, Crowned Sword Za
- cian\, or Crowned Shield Zamazenta from raids or Max Battles have a chance
-  to receive a Mexico City Location Background.\nLocation Backgrounds are a
- vailable only from in-person raids and Max Battles\; remote participants c
- annot receive them.\n\n▸ Mighty Latias and Latios\nTicket holders may at
- tract mighty Latias and Latios with Incense\, excluding Daily Adventure In
- cense\, on their ticketed event day. Both can be Shiny and are quick to fl
- ee\, so keep GO Safari Balls ready.\n\n▸ GO Safari Balls\n…\n\n━━ 
- SPAWNS ━━\n▸ Rotating Habitat Hours\nSteel- and Dragon-themed encoun
- ters rotate hourly from 10:00 a.m. to 6:00 p.m. throughout the event area 
- on your ticketed day.\n\n▸ Solid as Steel Hour\n10:00 a.m. to 11:00 a.m.
-  12:00 p.m. to 1:00 p.m. 2:00 p.m. to 3:00 p.m. 4:00 p.m. to 5:00 p.m.\nPo
- kémon: Alolan Sandshrew\, Alolan Diglett\, Magnemite\, Shellder\, Onix\, 
- Porygon\, Shuckle\, Skarmory\, Nosepass\, Aron\, Beldum\, Piplup\, Shieldo
- n\, Bronzor\, Lucario\, Drilbur\, Ferroseed\, Klink\, Galarian Stunfisk\, 
- Durant\, Hisuian Sliggoo\, Rookidee\, Tinkatink\, Orthworm\n\n▸ Daring a
- s Dragons Hour\n11:00 a.m. to 12:00 p.m. 1:00 p.m. to 2:00 p.m. 3:00 p.m. 
- to 4:00 p.m. 5:00 p.m. to 6:00 p.m.\nPokémon: Charmander\, Magikarp\, Dra
- tini\, Gligar\, Trapinch\, Swablu\, Barboach\, Bagon\, Gible\, Tynamo\, Ax
- ew\, Heatmor\, Deino\, Skrelp\, Tyrunt\, Amaura\, Goomy\, Hisuian Sliggoo\
- , Noibat\, Turtonator\, Jangmo-o\, Applin\, Sizzlipede\, Frigibax\n\n▸ M
- ighty Pokémon\nMighty Pokémon are more likely to have high Attack\, Defe
- nse\, and HP ratings and be XL or XXL. They are harder to catch\, and some
-  may be Shiny. GO Safari Balls improve your chances of catching them.\nMig
- hty Pokémon can appear during either habitat hour. The in-person lineup i
- ncludes mighty Machamp wearing a modern jacket\, Bastiodon\, and Kommo-o\,
-  plus mighty Hawlucha in Mexico City.\nPokémon: Modern Jacket Machamp\, A
- lolan Exeggutor\, Azumarill\, Scizor\, Kingdra\, Aggron\, Flygon\, Walrein
- \, Metagross\, Empoleon\, Bastiodon\, Magnezone\, Conkeldurr\, Ferrothorn\
- , Haxorus\, Hydreigon\, Hawlucha\, Goodra\, Noivern\, Kommo-o\, Tinkaton\,
-  Clodsire\n\n▸ Incense Encounters\nTicket holders can attract the follow
- ing mighty Pokémon during the event. These encounters exclude Daily Adven
- ture Incense.\nPokémon: Azumarill\, Scizor\, Kingdra\, Aggron\, Flygon\, 
- Empoleon\, Bastiodon\, Conkeldurr\, Hydreigon\, Hawlucha\, Kommo-o\n\n…\
- n\n━━ EGGS ━━\nThe following Pokémon hatch from 10 km Eggs obtain
- ed during the event. Ticket holders have an increased chance of receiving 
- 10 km Eggs from PokéStops and Gyms.\n\n▸ 10 km Eggs\nPokémon: Honedge\
- , Klefki\, Drampa\, Duraludon\n\n━━ RAIDS ━━\n…
+ émon will appear in Max Battles during the in-person event.\n\n▸ Privat
+ e Dynamax Battle Groups\nStarting with GO Wild Area 2026\, Dynamax Battle 
+ lobbies offer Battle to match automatically with other Trainers or Private
+  Group to join an existing group using its group code.\n\n▸ Adventure Ef
+ fects in Battle Lobbies\nTicket holders at the Sendai and Mexico City even
+ ts get early access to activating select Adventure Effects while waiting i
+ n a raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade 
+ or Crowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Ma
+ x Battle to help your group.\nThis feature becomes more widely available s
+ tarting with Into the Wild on November 9.\n\n▸ Machamp Wearing a Modern 
+ Jacket\nA new costumed Machamp appears in three-star raids during the even
+ t. Lucky Trainers may encounter a Shiny one! Ticket holders can also encou
+ nter this Machamp as a mighty Pokémon in the wild.\n\n▸ Hisuian Sliggoo
+  and Hisuian Goodra Debut\nHisuian Sliggoo and Hisuian Goodra debut at the
+  in-person GO Wild Area events. Ticket holders may find Hisuian Sliggoo in
+  the wild during either habitat hour\, including its Shiny form.\nUse 100 
+ Goomy Candy to evolve Hisuian Sliggoo into Hisuian Goodra.\nPokémon: Hisu
+ ian Sliggoo\, Hisuian Goodra\n\n▸ Location Backgrounds\n…\n\n━━ SP
+ AWNS ━━\n▸ Rotating Habitat Hours\nSteel- and Dragon-themed encounte
+ rs rotate hourly from 10:00 a.m. to 6:00 p.m. throughout the event area on
+  your ticketed day.\n\n▸ Solid as Steel Hour\n10:00 a.m. to 11:00 a.m. 1
+ 2:00 p.m. to 1:00 p.m. 2:00 p.m. to 3:00 p.m. 4:00 p.m. to 5:00 p.m.\nPok
+ émon: Alolan Sandshrew\, Alolan Diglett\, Magnemite\, Shellder\, Onix\, P
+ orygon\, Shuckle\, Skarmory\, Nosepass\, Aron\, Beldum\, Piplup\, Shieldon
+ \, Bronzor\, Lucario\, Drilbur\, Ferroseed\, Klink\, Galarian Stunfisk\, D
+ urant\, Hisuian Sliggoo\, Rookidee\, Tinkatink\, Orthworm\n\n▸ Daring as
+  Dragons Hour\n11:00 a.m. to 12:00 p.m. 1:00 p.m. to 2:00 p.m. 3:00 p.m. t
+ o 4:00 p.m. 5:00 p.m. to 6:00 p.m.\nPokémon: Charmander\, Magikarp\, Drat
+ ini\, Gligar\, Trapinch\, Swablu\, Barboach\, Bagon\, Gible\, Tynamo\, Axe
+ w\, Heatmor\, Deino\, Skrelp\, Tyrunt\, Amaura\, Goomy\, Hisuian Sliggoo\,
+  Noibat\, Turtonator\, Jangmo-o\, Applin\, Sizzlipede\, Frigibax\n\n▸ Mi
+ ghty Pokémon\nMighty Pokémon are more likely to have high Attack\, Defen
+ se\, and HP ratings and be XL or XXL. They are harder to catch\, and some 
+ may be Shiny. GO Safari Balls improve your chances of catching them.\nMigh
+ ty Pokémon can appear during either habitat hour. The in-person lineup in
+ cludes mighty Machamp wearing a modern jacket\, Bastiodon\, and Kommo-o\, 
+ plus mighty Hawlucha in Mexico City.\nPokémon: Modern Jacket Machamp\, Al
+ olan Exeggutor\, Azumarill\, Scizor\, Kingdra\, Aggron\, Flygon\, Walrein\
+ , Metagross\, Empoleon\, Bastiodon\, Magnezone\, Conkeldurr\, Ferrothorn\,
+  Haxorus\, Hydreigon\, Hawlucha\, Goodra\, Noivern\, Kommo-o\, Tinkaton\, 
+ Clodsire\n\n▸ Incense Encounters\nTicket holders can attract the followi
+ ng mighty Pokémon during the event. These encounters exclude Daily Advent
+ ure Incense.\nPokémon: Azumarill\, Scizor\, Kingdra\, Aggron\, Flygon\, E
+ mpoleon\, Bastiodon\, Conkeldurr\, Hydreigon\, Hawlucha\, Kommo-o\n\n…\n
+ \n━━ EGGS ━━\nThe following Pokémon hatch from 10 km Eggs obtaine
+ d during the event. Ticket holders have an increased chance of receiving 1
+ 0 km Eggs from PokéStops and Gyms.\n\n▸ 10 km Eggs\nPokémon: Honedge\,
+  Klefki\, Drampa\, Duraludon\n\n━━ RAIDS ━━\n…
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-wild-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Into the Wild
 DTSTART;TZID=Europe/Lisbon:20261109T100000
 DTEND;TZID=Europe/Lisbon:20261113T200000
@@ -2080,7 +2080,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-night-out-london-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Pokémon Night Out 2026 - London
 DTSTART:20261110T180000Z
 DTEND:20261110T223000Z
@@ -2118,7 +2118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic
  -cup@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:GBL: Great League\, Ultra League: Mega Edition\, and 2026 GO LAIC C
  up
 DTSTART:20261110T210000Z
@@ -2145,7 +2145,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Pokémon GO Wild Area 2026: Global
 DTSTART;TZID=Europe/Lisbon:20261114T100000
 DTEND;TZID=Europe/Lisbon:20261115T180000
@@ -2189,24 +2189,24 @@ DESCRIPTION:GO Wild Area returns in 2026 with Steel- and Dragon-type Pokém
  ynamax Palkia\nDynamax Dialga and Dynamax Palkia make their Pokémon GO de
  buts during GO Wild Area 2026. Both can be Shiny!\nFor Global\, Dynamax Di
  alga appears on Saturday\, November 14\, and Dynamax Palkia appears on Sun
- day\, November 15.\n\n▸ Machamp Wearing a Modern Jacket\nA new costumed 
- Machamp appears in three-star raids during the event. Lucky Trainers may e
- ncounter a Shiny one!\n\n▸ Special Backgrounds\nAfter a successful catch
-  from raids or Max Battles\, Machamp wearing a modern jacket\, Dynamax Dia
- lga\, Dynamax Palkia\, Reshiram\, Zekrom\, Kyurem\, and Gigantamax Duralud
- on have a chance to have a new Special Background.\n\n▸ Mighty Latias an
- d Latios\nTicket holders may attract mighty Latias and Latios with Incense
- \, excluding Daily Adventure Incense\, on both event days. Both can be Shi
- ny and are quick to flee\, so keep GO Safari Balls ready.\n\n▸ GO Safari
-  Balls\nGO Safari Balls improve the chance of catching Pokémon\, especial
- ly mighty Pokémon. All Trainers can obtain them by spinning PokéStops an
- d Gym Photo Discs during event hours.\nThey can only be used from 10:00 a.
- m. to 6:00 p.m. local time on event days and become inaccessible after the
-  event ends.\n\n▸ Supply Balloons\nTicket holders receive hourly Supply 
- Balloons with GO Safari Balls during event hours.\n\n▸ GO Snapshot\, Rou
- tes\, and Party Play\nTake snapshots for surprise encounters with Steel- a
- nd Dragon-type Pokémon. Explore Routes for a chance to find mighty Pokém
- on\, and enjoy Party Play sessions lasting eight hours.\n\n━━ SPAWNS 
+ day\, November 15.\n\n▸ Private Dynamax Battle Groups\nStarting with GO 
+ Wild Area 2026\, Dynamax Battle lobbies offer Battle to match automaticall
+ y with other Trainers or Private Group to join an existing group using its
+  group code.\n\n▸ Adventure Effects in Battle Lobbies\nStarting with Int
+ o the Wild\, select Adventure Effects can be activated while waiting in a 
+ raid or Max Battle lobby. Use Crowned Sword Zacian’s Behemoth Blade or C
+ rowned Shield Zamazenta’s Behemoth Bash Adventure Effect before a Max Ba
+ ttle to help your group.\n\n▸ Machamp Wearing a Modern Jacket\nA new cos
+ tumed Machamp appears in three-star raids during the event. Lucky Trainers
+  may encounter a Shiny one!\n\n▸ Special Backgrounds\nAfter a successful
+  catch from raids or Max Battles\, Machamp wearing a modern jacket\, Dynam
+ ax Dialga\, Dynamax Palkia\, Reshiram\, Zekrom\, Kyurem\, and Gigantamax D
+ uraludon have a chance to have a new Special Background.\n\n▸ Background
+ s on Your Trainer Profile\nYour buddy Pokémon’s eligible Location Backg
+ round or Special Background can now appear on your Trainer profile\, where
+  friends can see it too. Background support rolls out on the following sch
+ edule:\n• November 6\, 2026\, at 10:00 a.m. local time: GO Wild Area 202
+ 6 Location Backgrounds for Sendai and Mexico City.\n…\n\n━━ SPAWNS 
  ━━\n▸ Rotating Habitat Hours\nSteel- and Dragon-themed encounters ro
  tate hourly from 10:00 a.m. to 6:00 p.m. on both event days.\n\n▸ Solid 
  as Steel Hour\n10:00 a.m. to 11:00 a.m. 12:00 p.m. to 1:00 p.m. 2:00 p.m. 
@@ -2239,7 +2239,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-leonids-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Minior Showers: Leonids 2026
 DTSTART;TZID=Europe/Lisbon:20261114T170000
 DTEND;TZID=Europe/Lisbon:20261119T235900
@@ -2283,7 +2283,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-11-16@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Max Monday: Pokémon to be announced
 DTSTART;TZID=Europe/Lisbon:20261116T060000
 DTEND;TZID=Europe/Lisbon:20261116T210000
@@ -2302,7 +2302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-darkrai-in-5-star-raid-battles-november-2026@pokemon-go-calen
  dar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Cresselia and Darkrai in 5-star Raid Battles
 DTSTART;TZID=Europe/Lisbon:20261116T060000
 DTEND;TZID=Europe/Lisbon:20261124T220000
@@ -2321,7 +2321,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-november-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Mega Banette in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261116T060000
 DTEND;TZID=Europe/Lisbon:20261124T220000
@@ -2337,7 +2337,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026@pokemo
  n-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Shadow Tornadus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Europe/Lisbon:20261116T060000
 DTEND;TZID=Europe/Lisbon:20261201T220000
@@ -2353,7 +2353,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-trails-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Dynamax Trails
 DTSTART;TZID=Europe/Lisbon:20261116T100000
 DTEND;TZID=Europe/Lisbon:20261123T200000
@@ -2424,7 +2424,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261118@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Cresselia and Darkrai Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261118T180000
 DTEND;TZID=Europe/Lisbon:20261118T190000
@@ -2438,7 +2438,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-lai
  c-cup@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:GBL: Ultra League\, Master League: Mega Edition\, and 2026 GO LAIC 
  Cup
 DTSTART:20261118T210000Z
@@ -2466,7 +2466,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-19@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Grookey\, Scorbunny\, and Sobble Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261119T180000
 DTEND;TZID=Europe/Lisbon:20261119T190000
@@ -2482,7 +2482,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:eternamax-eternatus-max-battles-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Max Battle: Eternamax Eternatus Returns
 DTSTART;TZID=Europe/Lisbon:20261121T110000
 DTEND;TZID=Europe/Lisbon:20261121T140000
@@ -2507,7 +2507,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Pawniard Community Day
 DTSTART;TZID=Europe/Lisbon:20261121T140000
 DTEND;TZID=Europe/Lisbon:20261121T170000
@@ -2575,7 +2575,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-11-23@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Dynamax Espurr during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261123T060000
 DTEND;TZID=Europe/Lisbon:20261123T210000
@@ -2593,7 +2593,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:twilight-wishes-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Twilight Wishes
 DTSTART;TZID=Europe/Lisbon:20261124T100000
 DTEND;TZID=Europe/Lisbon:20261130T200000
@@ -2660,7 +2660,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition@p
  okemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:GBL: Master League and Mega Catch Cup: Great League Edition
 DTSTART:20261124T210000Z
 DTEND:20261201T210000Z
@@ -2682,7 +2682,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-novemb
  er-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Deoxys (Normal\, Defense\, Attack\, and Speed Formes) in 5-star Rai
  d Battles
 DTSTART;TZID=Europe/Lisbon:20261125T060000
@@ -2705,7 +2705,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-metagross-in-mega-raids-november-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Mega Metagross in Mega Raids
 DTSTART;TZID=Europe/Lisbon:20261125T060000
 DTEND;TZID=Europe/Lisbon:20261201T220000
@@ -2721,7 +2721,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261125@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hour
 DTSTART;TZID=Europe/Lisbon:20261125T180000
 DTEND;TZID=Europe/Lisbon:20261125T190000
@@ -2734,7 +2734,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-26@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Noibat Spotlight Hour
 DTSTART;TZID=Europe/Lisbon:20261126T180000
 DTEND;TZID=Europe/Lisbon:20261126T190000
@@ -2749,7 +2749,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-november-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Super Mega Raid Day
 DTSTART;TZID=Europe/Lisbon:20261128T140000
 DTEND;TZID=Europe/Lisbon:20261128T170000
@@ -2761,7 +2761,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-11-30@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Dynamax Cryogonal during Max Monday
 DTSTART;TZID=Europe/Lisbon:20261130T060000
 DTEND;TZID=Europe/Lisbon:20261130T210000
@@ -2779,7 +2779,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-geminids-2026@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Minior Showers: Geminids 2026
 DTSTART;TZID=Europe/Lisbon:20261211T170000
 DTEND;TZID=Europe/Lisbon:20261216T235900
@@ -2823,7 +2823,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Pokémon GO Tour: Alola - Kaohsiung 2027
 DTSTART:20270218T160000Z
 DTEND:20270221T155959Z
@@ -2841,7 +2841,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Pokémon GO Tour: Alola - Los Angeles 2027
 DTSTART:20270219T080000Z
 DTEND:20270222T075959Z
@@ -2859,7 +2859,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Pokémon GO Tour: Alola - Global 2027
 DTSTART;TZID=Europe/Lisbon:20270227T000000
 DTEND;TZID=Europe/Lisbon:20270228T235959
@@ -2877,7 +2877,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Minior Showers: Eta Aquariids 2027
 DTSTART;TZID=Europe/Lisbon:20270503T170000
 DTEND;TZID=Europe/Lisbon:20270508T235900
@@ -2921,7 +2921,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Minior Showers: Southern Delta Aquariids 2027
 DTSTART;TZID=Europe/Lisbon:20270728T170000
 DTEND;TZID=Europe/Lisbon:20270802T235900
@@ -2966,7 +2966,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027@pokemon-go-calendar
-DTSTAMP:20261102T230624Z
+DTSTAMP:20261103T105135Z
 SUMMARY:Minior Showers: Perseids 2027
 DTSTART;TZID=Europe/Lisbon:20270810T170000
 DTEND;TZID=Europe/Lisbon:20270815T235900
